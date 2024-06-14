@@ -1,0 +1,20000 @@
+qsv 12
+att 1 48 54
+qsv 12
+att 1 50 58
+qsv 12
+qv 78 54
+qsv 12
+dft 1 77 56
+qsv 12
+qbs
+qsv 12
+dft 1 37 73
+qsv 12
+qv 55 89
+qsv 12
+att 1 45 48
+qsv 12
+qbs
+qsv 12
+mr 56 63 -182
+qsv 12
+qv 9 80
+qsv 12
+att 1 20 14
+qsv 12
+qv 99 80
+qsv 12
+att 1 26 45
+qsv 12
+att 1 50 17
+qsv 12
+qv 89 37
+qsv 12
+dft 1 79 35
+qsv 12
+qv 94 88
+qsv 12
+qv 15 67
+qsv 12
+att 1 44 8
+qsv 12
+qci 84 99
+qsv 12
+att 1 52 51
+qsv 12
+qci 19 61
+qsv 12
+dft 1 22 44
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qsp 1 1
+qsv 12
+qci 1 1
+qsv 12
+att 2 1 83
+qsv 12
+qv 1 1
+qsv 12
+qsp 1 1
+qsv 12
+qv 1 2
+qsv 12
+qv 1 1
+qsv 12
+qv 1 1
+qsv 12
+qv 1 1
+qsv 12
+qsp 1 1
+qsv 12
+qtvs 1 96
+qsv 12
+qbs
+qsv 12
+dft 2 1 17
+qsv 12
+qv 1 1
+qsv 12
+qts
+qsv 12
+qv 1 1
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 15
+qsv 12
+qcs
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 53
+qsv 12
+qv 1 1
+qsv 12
+qci 1 1
+qsv 12
+qv 1 1
+qsv 12
+ar 1 1 104
+qsv 12
+qci 1 1
+qsv 12
+qcs
+qsv 12
+dft 2 1 64
+qsv 12
+att 2 1 50
+qsv 12
+qv 1 1
+qsv 12
+dft 2 1 76
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 21
+qsv 12
+dft 2 1 22
+qsv 12
+mr 1 1 -184
+qsv 12
+qci 1 1
+qsv 12
+ar 1 1 46
+qsv 12
+qsp 1 1
+qsv 12
+att 2 1 60
+qsv 12
+qv 1 1
+qsv 12
+qci 1 1
+qsv 12
+mr 1 1 -114
+qsv 12
+qci 1 1
+qsv 12
+att 2 1 39
+qsv 12
+att 2 1 42
+qsv 12
+qv 1 1
+qsv 12
+qv 1 1
+qsv 12
+qbs
+qsv 12
+qcs
+qsv 12
+qci 1 1
+qsv 12
+att 2 1 57
+qsv 12
+att 2 1 84
+qsv 12
+att 2 1 62
+qsv 12
+ar 1 1 64
+qsv 12
+att 2 1 14
+qsv 12
+att 2 1 67
+qsv 12
+qv 1 1
+qsv 12
+dft 2 1 16
+qsv 12
+qv 1 1
+qsv 12
+qci 1 1
+qsv 12
+qtav 1 96
+qsv 12
+ar 1 1 195
+qsv 12
+dt 1 31
+qsv 12
+at 1 34
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+att 2 1 46
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 94
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 94
+qsv 12
+att 2 1 95
+qsv 12
+ar 1 1 104
+qsv 12
+att 2 1 75
+qsv 12
+at 1 54
+qsv 12
+qv 1 1
+qsv 12
+att 2 1 57
+qsv 12
+qci 1 1
+qsv 12
+ap 2 DPO-bot-2 70
+qsv 12
+qcs
+qsv 12
+qv 2 2
+qsv 12
+ar 2 1 124
+qsv 12
+at 2 54
+qsv 12
+qv 1 1
+qsv 12
+qsp 2 1
+qsv 12
+qtvs 1 1
+qsv 12
+qts
+qsv 12
+qv 2 1
+qsv 12
+att 3 2 93
+qsv 12
+qci 2 2
+qsv 12
+att 1 1 1
+qsv 12
+qts
+qsv 12
+att 1 1 1
+qsv 12
+qv 1 2
+qsv 12
+qv 2 2
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+dft 1 1 1
+qsv 12
+att 1 1 1
+qsv 12
+mr 1 2 -65
+qsv 12
+att 1 1 1
+qsv 12
+ap 2 DPO-bot-2 70
+qsv 12
+dt 1 1
+qsv 12
+att 3 2 28
+qsv 12
+qci 1 1
+qsv 12
+qbs
+qsv 12
+att 1 1 1
+qsv 12
+qba 2
+qsv 12
+qv 2 2
+qsv 12
+qts
+qsv 12
+dft 3 2 28
+qsv 12
+att 1 1 1
+qsv 12
+dft 1 1 1
+qsv 12
+att 1 1 1
+qsv 12
+qtav 2 22
+qsv 12
+att 3 2 4
+qsv 12
+qci 1 1
+qsv 12
+att 3 2 61
+qsv 12
+dt 1 1
+qsv 12
+qci 2 2
+qsv 12
+qv 2 1
+qsv 12
+at 1 1
+qsv 12
+qcs
+qsv 12
+qv 2 1
+qsv 12
+qv 2 2
+qsv 12
+qv 2 2
+qsv 12
+ar 2 1 91
+qsv 12
+qv 2 2
+qsv 12
+qci 2 1
+qsv 12
+att 1 1 1
+qsv 12
+qv 1 2
+qsv 12
+qbs
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qci 1 1
+qsv 12
+att 3 2 38
+qsv 12
+qbs
+qsv 12
+qv 1 1
+qsv 12
+ar 1 1 167
+qsv 12
+qsp 2 2
+qsv 12
+att 3 2 5
+qsv 12
+att 1 1 1
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+dft 3 2 81
+qsv 12
+qci 2 2
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+att 3 2 26
+qsv 12
+att 1 1 1
+qsv 12
+att 3 2 94
+qsv 12
+qbs
+qsv 12
+qci 1 2
+qsv 12
+qtvs 2 58
+qsv 12
+qbs
+qsv 12
+at 2 37
+qsv 12
+ar 1 1 158
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+dft 3 2 60
+qsv 12
+qv 2 1
+qsv 12
+qba 1
+qsv 12
+qv 1 2
+qsv 12
+qv 2 2
+qsv 12
+mr 2 2 -116
+qsv 12
+att 3 2 18
+qsv 12
+qv 1 1
+qsv 12
+qba 1
+qsv 12
+att 3 2 9
+qsv 12
+qci 2 1
+qsv 12
+qtvs 2 72
+qsv 12
+att 3 2 97
+qsv 12
+qci 1 1
+qsv 12
+qsp 2 1
+qsv 12
+qci 1 2
+qsv 12
+qv 2 2
+qsv 12
+qv 1 1
+qsv 12
+att 3 2 50
+qsv 12
+ar 2 1 130
+qsv 12
+att 1 1 1
+qsv 12
+qba 2
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qv 2 2
+qsv 12
+qsp 2 1
+qsv 12
+qcs
+qsv 12
+qci 2 1
+qsv 12
+qci 1 2
+qsv 12
+at 2 16
+qsv 12
+qv 2 2
+qsv 12
+qci 1 1
+qsv 12
+qtvs 2 95
+qsv 12
+qci 1 2
+qsv 12
+qv 1 1
+qsv 12
+qv 1 1
+qsv 12
+ar 1 2 191
+qsv 12
+att 3 2 60
+qsv 12
+qv 3 2
+qsv 12
+att 3 2 30
+qsv 12
+qba 1
+qsv 12
+ar 2 1 159
+qsv 12
+qci 2 1
+qsv 12
+qv 1 1
+qsv 12
+att 3 2 24
+qsv 12
+qci 1 2
+qsv 12
+qba 2
+qsv 12
+mr 1 2 -51
+qsv 12
+qci 1 1
+qsv 12
+qsp 1 1
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+at 1 1
+qsv 12
+att 1 2 1
+qsv 12
+qtav 1 1
+qsv 12
+qv 2 1
+qsv 12
+att 4 3 62
+qsv 12
+ar 3 3 144
+qsv 12
+dt 3 8
+qsv 12
+ap 4 DPO-bot-4 108
+qsv 12
+ar 2 3 129
+qsv 12
+qv 1 3
+qsv 12
+dft 2 3 1
+qsv 12
+att 3 2 1
+qsv 12
+att 1 1 1
+qsv 12
+qbs
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+mr 2 3 -34
+qsv 12
+att 3 2 1
+qsv 12
+qts
+qsv 12
+ap 2 DPO-bot-2 70
+qsv 12
+ap 5 DPO-bot-5 86
+qsv 12
+att 6 5 35
+qsv 12
+qci 4 2
+qsv 12
+att 3 2 1
+qsv 12
+att 3 2 1
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+att 2 3 1
+qsv 12
+qci 3 3
+qsv 12
+att 3 2 1
+qsv 12
+att 6 5 12
+qsv 12
+att 1 4 1
+qsv 12
+qv 4 2
+qsv 12
+ap 2 DPO-bot-2 70
+qsv 12
+ar 2 5 141
+qsv 12
+qtav 4 1
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+att 6 5 84
+qsv 12
+att 3 2 1
+qsv 12
+qci 5 4
+qsv 12
+att 2 3 1
+qsv 12
+att 2 3 1
+qsv 12
+qci 2 4
+qsv 12
+att 1 4 1
+qsv 12
+qv 1 4
+qsv 12
+qv 2 3
+qsv 12
+qv 3 2
+qsv 12
+qv 2 1
+qsv 12
+qv 2 3
+qsv 12
+mr 2 2 -102
+qsv 12
+att 1 4 1
+qsv 12
+att 1 4 1
+qsv 12
+qba 3
+qsv 12
+att 6 5 57
+qsv 12
+qsp 2 2
+qsv 12
+att 3 2 1
+qsv 12
+qv 2 5
+qsv 12
+dt 1 1
+qsv 12
+att 1 1 1
+qsv 12
+qv 1 4
+qsv 12
+qcs
+qsv 12
+qtav 1 1
+qsv 12
+mr 3 4 -186
+qsv 12
+att 1 1 1
+qsv 12
+qv 4 1
+qsv 12
+ap 6 DPO-bot-6 21
+qsv 12
+qv 3 5
+qsv 12
+mr 3 2 -149
+qsv 12
+qci 6 3
+qsv 12
+qv 1 4
+qsv 12
+mr 4 2 -51
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qtvs 5 1
+qsv 12
+qsp 2 6
+qsv 12
+att 7 6 20
+qsv 12
+qv 5 1
+qsv 12
+qv 2 5
+qsv 12
+qcs
+qsv 12
+qv 2 6
+qsv 12
+att 3 2 1
+qsv 12
+att 1 5 1
+qsv 12
+att 1 4 1
+qsv 12
+qv 2 1
+qsv 12
+qci 6 5
+qsv 12
+qsp 3 1
+qsv 12
+qv 6 1
+qsv 12
+qv 3 4
+qsv 12
+at 2 1
+qsv 12
+dft 1 4 1
+qsv 12
+qv 6 2
+qsv 12
+ar 2 4 24
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qv 5 6
+qsv 12
+qv 3 6
+qsv 12
+dft 2 3 1
+qsv 12
+att 4 2 1
+qsv 12
+qv 2 5
+qsv 12
+att 4 2 1
+qsv 12
+qv 1 2
+qsv 12
+dft 1 1 1
+qsv 12
+att 1 5 1
+qsv 12
+qv 2 3
+qsv 12
+qba 6
+qsv 12
+qv 5 1
+qsv 12
+qci 1 3
+qsv 12
+at 2 1
+qsv 12
+ar 4 1 186
+qsv 12
+qci 4 4
+qsv 12
+qts
+qsv 12
+att 1 5 1
+qsv 12
+ap 7 DPO-bot-7 159
+qsv 12
+qv 2 1
+qsv 12
+qba 5
+qsv 12
+qci 4 4
+qsv 12
+att 1 6 1
+qsv 12
+at 1 1
+qsv 12
+qba 5
+qsv 12
+ar 1 5 179
+qsv 12
+qcs
+qsv 12
+mr 2 1 -66
+qsv 12
+att 8 7 13
+qsv 12
+qv 2 2
+qsv 12
+at 3 1
+qsv 12
+att 1 4 1
+qsv 12
+qci 6 5
+qsv 12
+ar 6 3 52
+qsv 12
+qcs
+qsv 12
+att 4 1 1
+qsv 12
+qci 5 4
+qsv 12
+qtvs 5 1
+qsv 12
+att 3 2 1
+qsv 12
+qci 2 1
+qsv 12
+att 2 3 1
+qsv 12
+qv 2 7
+qsv 12
+att 8 7 95
+qsv 12
+att 3 6 1
+qsv 12
+qtav 3 1
+qsv 12
+att 1 1 1
+qsv 12
+qv 6 6
+qsv 12
+qci 2 6
+qsv 12
+qv 1 6
+qsv 12
+ar 4 7 100
+qsv 12
+qv 6 1
+qsv 12
+att 1 4 1
+qsv 12
+qtvs 3 1
+qsv 12
+ar 2 4 146
+qsv 12
+qv 2 6
+qsv 12
+att 1 4 1
+qsv 12
+qv 3 6
+qsv 12
+qci 1 2
+qsv 12
+ar 2 3 168
+qsv 12
+qv 3 6
+qsv 12
+att 4 2 1
+qsv 12
+qts
+qsv 12
+att 8 7 60
+qsv 12
+qbs
+qsv 12
+dft 4 2 1
+qsv 12
+att 4 2 1
+qsv 12
+qci 5 3
+qsv 12
+qv 7 3
+qsv 12
+qci 7 6
+qsv 12
+ap 5 DPO-bot-5 86
+qsv 12
+att 3 6 1
+qsv 12
+att 3 2 1
+qsv 12
+qv 3 5
+qsv 12
+ar 2 1 199
+qsv 12
+att 8 7 39
+qsv 12
+att 1 5 1
+qsv 12
+qv 2 2
+qsv 12
+qts
+qsv 12
+qv 5 2
+qsv 12
+qv 4 6
+qsv 12
+att 2 3 1
+qsv 12
+qba 3
+qsv 12
+qtav 6 1
+qsv 12
+at 4 1
+qsv 12
+qts
+qsv 12
+att 3 6 1
+qsv 12
+att 1 5 1
+qsv 12
+ar 4 6 84
+qsv 12
+qba 3
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qts
+qsv 12
+att 3 6 1
+qsv 12
+qv 4 5
+qsv 12
+qv 1 6
+qsv 12
+att 4 1 1
+qsv 12
+dft 8 7 83
+qsv 12
+qv 6 6
+qsv 12
+qcs
+qsv 12
+qv 3 2
+qsv 12
+att 6 4 1
+qsv 12
+qv 2 4
+qsv 12
+qtav 3 1
+qsv 12
+qv 4 4
+qsv 12
+att 1 5 1
+qsv 12
+att 1 5 1
+qsv 12
+qv 6 3
+qsv 12
+qts
+qsv 12
+ar 7 5 180
+qsv 12
+att 6 3 1
+qsv 12
+att 2 4 1
+qsv 12
+ap 8 DPO-bot-8 109
+qsv 12
+qcs
+qsv 12
+qsp 4 8
+qsv 12
+qcs
+qsv 12
+att 9 8 51
+qsv 12
+qv 7 5
+qsv 12
+qv 3 5
+qsv 12
+qv 4 4
+qsv 12
+qv 2 5
+qsv 12
+qv 6 1
+qsv 12
+qts
+qsv 12
+qtav 3 1
+qsv 12
+qci 8 3
+qsv 12
+qv 4 5
+qsv 12
+qci 5 5
+qsv 12
+qci 5 1
+qsv 12
+qts
+qsv 12
+qv 6 8
+qsv 12
+mr 4 3 -138
+qsv 12
+mr 6 5 -86
+qsv 12
+att 4 6 1
+qsv 12
+qv 7 3
+qsv 12
+qci 2 2
+qsv 12
+qtvs 6 1
+qsv 12
+ap 9 DPO-bot-9 147
+qsv 12
+dt 3 1
+qsv 12
+at 8 1
+qsv 12
+qts
+qsv 12
+qts
+qsv 12
+ar 9 5 22
+qsv 12
+qci 5 6
+qsv 12
+mr 3 6 -175
+qsv 12
+qtav 3 1
+qsv 12
+qci 2 6
+qsv 12
+att 10 9 17
+qsv 12
+mr 5 9 -17
+qsv 12
+att 1 7 1
+qsv 12
+qsp 6 4
+qsv 12
+att 1 8 1
+qsv 12
+qci 6 2
+qsv 12
+mr 4 7 -9
+qsv 12
+qci 2 7
+qsv 12
+qv 3 2
+qsv 12
+mr 4 4 -17
+qsv 12
+qci 5 8
+qsv 12
+dft 1 5 1
+qsv 12
+mr 3 2 -45
+qsv 12
+qtav 7 1
+qsv 12
+dft 1 8 1
+qsv 12
+qcs
+qsv 12
+att 1 2 1
+qsv 12
+att 1 4 1
+qsv 12
+qv 9 3
+qsv 12
+dft 3 6 1
+qsv 12
+dft 6 3 1
+qsv 12
+ap 4 DPO-bot-4 108
+qsv 12
+qtav 8 1
+qsv 12
+qtav 4 1
+qsv 12
+qci 9 1
+qsv 12
+att 2 4 1
+qsv 12
+dft 10 9 19
+qsv 12
+mr 7 2 -154
+qsv 12
+att 2 4 1
+qsv 12
+qv 6 1
+qsv 12
+att 3 6 1
+qsv 12
+att 10 9 15
+qsv 12
+qv 5 8
+qsv 12
+qts
+qsv 12
+att 1 5 1
+qsv 12
+qci 6 7
+qsv 12
+at 5 1
+qsv 12
+qcs
+qsv 12
+att 5 1 1
+qsv 12
+att 4 6 1
+qsv 12
+at 7 1
+qsv 12
+qv 6 7
+qsv 12
+dft 10 9 43
+qsv 12
+qci 7 9
+qsv 12
+ap 10 DPO-bot-10 1
+qsv 12
+dft 4 1 1
+qsv 12
+qv 1 7
+qsv 12
+qci 17 2
+qsv 12
+dft 4 6 1
+qsv 12
+qv 2 8
+qsv 12
+qci 10 6
+qsv 12
+qci 1 1
+qsv 12
+qba 9
+qsv 12
+qci 5 3
+qsv 12
+att 1 7 1
+qsv 12
+qv 6 3
+qsv 12
+qv 5 2
+qsv 12
+att 1 9 1
+qsv 12
+qci 10 3
+qsv 12
+att 5 1 1
+qsv 12
+qcs
+qsv 12
+qv 1 9
+qsv 12
+qv 4 4
+qsv 12
+qci 8 3
+qsv 12
+qv 2 3
+qsv 12
+ap 11 DPO-bot-11 120
+qsv 12
+at 10 1
+qsv 12
+ap 10 DPO-bot-10 1
+qsv 12
+att 3 6 1
+qsv 12
+att 6 3 1
+qsv 12
+att 1 9 1
+qsv 12
+ar 4 2 24
+qsv 12
+qsp 1 8
+qsv 12
+dft 6 3 1
+qsv 12
+qbs
+qsv 12
+ar 6 10 10
+qsv 12
+qv 10 9
+qsv 12
+mr 8 3 -200
+qsv 12
+qci 7 4
+qsv 12
+att 3 6 1
+qsv 12
+att 12 11 41
+qsv 12
+qv 11 3
+qsv 12
+att 6 3 2
+qsv 12
+att 2 4 1
+qsv 12
+qts
+qsv 12
+qv 4 8
+qsv 12
+qsp 9 4
+qsv 12
+qts
+qsv 12
+att 1 8 1
+qsv 12
+qci 6 7
+qsv 12
+att 1 9 1
+qsv 12
+qv 5 3
+qsv 12
+ar 5 11 184
+qsv 12
+att 2 1 1
+qsv 12
+qv 10 5
+qsv 12
+qv 9 6
+qsv 12
+att 6 10 1
+qsv 12
+mr 10 8 -163
+qsv 12
+ar 9 1 121
+qsv 12
+att 3 2 1
+qsv 12
+qv 10 6
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+att 1 7 1
+qsv 12
+qv 9 10
+qsv 12
+qv 9 10
+qsv 12
+qtav 6 1
+qsv 12
+qts
+qsv 12
+qv 6 2
+qsv 12
+att 2 3 1
+qsv 12
+ap 12 DPO-bot-12 92
+qsv 12
+dft 6 10 1
+qsv 12
+att 1 9 1
+qsv 12
+qsp 12 9
+qsv 12
+att 13 12 62
+qsv 12
+ar 12 7 107
+qsv 12
+at 11 1
+qsv 12
+qbs
+qsv 12
+qci 11 8
+qsv 12
+dft 6 10 1
+qsv 12
+qv 5 2
+qsv 12
+qci 12 2
+qsv 12
+qci 8 9
+qsv 12
+qtvs 6 1
+qsv 12
+qci 10 2
+qsv 12
+att 2 4 1
+qsv 12
+qv 12 7
+qsv 12
+att 13 12 39
+qsv 12
+att 2 4 1
+qsv 12
+att 13 12 77
+qsv 12
+dft 6 4 1
+qsv 12
+dft 1 5 1
+qsv 12
+qtvs 7 1
+qsv 12
+dft 1 11 1
+qsv 12
+dft 1 2 1
+qsv 12
+qv 9 4
+qsv 12
+qba 3
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+ar 7 9 68
+qsv 12
+att 1 9 1
+qsv 12
+att 6 10 1
+qsv 12
+qci 4 9
+qsv 12
+qci 5 10
+qsv 12
+att 5 1 1
+qsv 12
+qcs
+qsv 12
+qsp 8 5
+qsv 12
+qv 1 1
+qsv 12
+ar 11 11 111
+qsv 12
+qv 2 3
+qsv 12
+dft 11 11 1
+qsv 12
+ap 13 DPO-bot-13 95
+qsv 12
+att 9 1 1
+qsv 12
+at 11 1
+qsv 12
+qci 7 12
+qsv 12
+qv 12 4
+qsv 12
+qcs
+qsv 12
+att 14 13 48
+qsv 12
+qtvs 9 1
+qsv 12
+att 10 6 1
+qsv 12
+att 3 2 1
+qsv 12
+dft 14 13 86
+qsv 12
+qv 6 6
+qsv 12
+qv 3 2
+qsv 12
+qv 11 4
+qsv 12
+att 1 5 1
+qsv 12
+qci 3 12
+qsv 12
+qv 1 13
+qsv 12
+qv 6 7
+qsv 12
+qv 12 11
+qsv 12
+att 1 2 1
+qsv 12
+dt 5 1
+qsv 12
+att 1 5 1
+qsv 12
+qv 12 10
+qsv 12
+qcs
+qsv 12
+qv 6 7
+qsv 12
+qci 4 21
+qsv 12
+qtvs 9 1
+qsv 12
+dft 1 5 1
+qsv 12
+qv 7 6
+qsv 12
+qtav 7 1
+qsv 12
+ap 10 DPO-bot-10 1
+qsv 12
+qci 3 6
+qsv 12
+qci 5 10
+qsv 12
+qci 1 6
+qsv 12
+att 11 11 1
+qsv 12
+qts
+qsv 12
+at 13 67
+qsv 12
+att 4 2 1
+qsv 12
+dft 11 11 1
+qsv 12
+qts
+qsv 12
+qv 4 9
+qsv 12
+qcs
+qsv 12
+ar 2 3 191
+qsv 12
+qci 1 10
+qsv 12
+qci 5 12
+qsv 12
+qv 6 2
+qsv 12
+att 4 1 1
+qsv 12
+att 14 16 95
+qsv 12
+att 14 13 41
+qsv 12
+ar 6 2 178
+qsv 12
+qci 3 2
+qsv 12
+qtav 11 1
+qsv 12
+qv 3 13
+qsv 12
+qtav 2 1
+qsv 12
+qv 9 12
+qsv 12
+qci 11 3
+qsv 12
+qv 1 3
+qsv 12
+att 1 9 1
+qsv 12
+qbs
+qsv 12
+qv 26 3
+qsv 12
+dft 4 6 1
+qsv 12
+qtav 1 1
+qsv 12
+att 2 3 1
+qsv 12
+ar 6 10 177
+qsv 12
+qci 5 6
+qsv 12
+att 3 2 3
+qsv 12
+qts
+qsv 12
+att 6 3 1
+qsv 12
+qba 1
+qsv 12
+att 3 6 1
+qsv 12
+mr 2 8 -157
+qsv 12
+dt 13 91
+qsv 12
+att 14 13 37
+qsv 12
+qv 10 5
+qsv 12
+att 1 12 1
+qsv 12
+att 14 13 24
+qsv 12
+ar 2 12 75
+qsv 12
+qv 7 5
+qsv 12
+mr 5 10 -99
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+ap 14 DPO-bot-14 182
+qsv 12
+qv 7 3
+qsv 12
+qtvs 10 1
+qsv 12
+dft 1 8 1
+qsv 12
+qv 13 4
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+qtvs 12 1
+qsv 12
+qtav 14 1
+qsv 12
+qci 7 14
+qsv 12
+att 10 6 1
+qsv 12
+qsp 10 5
+qsv 12
+qv 9 3
+qsv 12
+qci 13 4
+qsv 12
+qv 16 14
+qsv 12
+mr 2 5 -195
+qsv 12
+att 6 4 1
+qsv 12
+qv 13 11
+qsv 12
+qv 14 7
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+ap 5 DPO-bot-5 86
+qsv 12
+qv 14 8
+qsv 12
+ar 5 14 171
+qsv 12
+qv 5 7
+qsv 12
+qv 5 10
+qsv 12
+qba 10
+qsv 12
+ar 15 3 133
+qsv 12
+qbs
+qsv 12
+qv 3 6
+qsv 12
+dft 2 3 1
+qsv 12
+qci 8 15
+qsv 12
+qtav 14 1
+qsv 12
+qv 6 2
+qsv 12
+ar 12 5 99
+qsv 12
+qts
+qsv 12
+ar 8 9 185
+qsv 12
+att 5 14 1
+qsv 12
+qv 7 12
+qsv 12
+qv 4 7
+qsv 12
+att 10 6 1
+qsv 12
+att 11 11 1
+qsv 12
+qv 8 9
+qsv 12
+qv 4 6
+qsv 12
+qts
+qsv 12
+qtvs 13 1
+qsv 12
+ar 4 5 110
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+qci 5 8
+qsv 12
+qbs
+qsv 12
+dft 5 14 1
+qsv 12
+qci 17 16
+qsv 12
+qci 9 15
+qsv 12
+qci 17 13
+qsv 12
+ar 16 9 96
+qsv 12
+qv 11 15
+qsv 12
+qci 17 9
+qsv 12
+att 15 3 1
+qsv 12
+dft 9 1 1
+qsv 12
+ar 4 17 149
+qsv 12
+qv 10 4
+qsv 12
+att 6 2 1
+qsv 12
+dft 3 2 1
+qsv 12
+att 6 10 1
+qsv 12
+qci 11 5
+qsv 12
+qci 1 4
+qsv 12
+qsp 7 2
+qsv 12
+att 4 6 1
+qsv 12
+qv 15 10
+qsv 12
+qsp 16 3
+qsv 12
+qv 15 6
+qsv 12
+att 4 2 1
+qsv 12
+att 6 10 1
+qsv 12
+qci 11 4
+qsv 12
+att 11 11 1
+qsv 12
+dft 18 19 41
+qsv 12
+qv 1 15
+qsv 12
+att 6 10 1
+qsv 12
+att 18 17 3
+qsv 12
+qv 8 6
+qsv 12
+qv 1 3
+qsv 12
+qci 24 4
+qsv 12
+att 1 9 1
+qsv 12
+qci 16 2
+qsv 12
+mr 17 12 -72
+qsv 12
+att 9 8 1
+qsv 12
+qci 12 6
+qsv 12
+qsp 14 2
+qsv 12
+qci 15 5
+qsv 12
+qv 13 13
+qsv 12
+qsp 7 11
+qsv 12
+qv 15 3
+qsv 12
+qtav 7 1
+qsv 12
+att 18 17 75
+qsv 12
+att 3 2 1
+qsv 12
+qci 8 6
+qsv 12
+qv 4 2
+qsv 12
+qv 4 8
+qsv 12
+qci 13 13
+qsv 12
+att 9 16 1
+qsv 12
+att 9 7 1
+qsv 12
+qtav 14 1
+qsv 12
+qv 4 12
+qsv 12
+att 2 4 1
+qsv 12
+qv 9 3
+qsv 12
+att 1 13 1
+qsv 12
+qv 6 8
+qsv 12
+qv 10 5
+qsv 12
+att 3 15 1
+qsv 12
+att 8 9 1
+qsv 12
+att 2 3 1
+qsv 12
+qtvs 2 1
+qsv 12
+mr 6 14 -39
+qsv 12
+att 11 11 1
+qsv 12
+at 14 1
+qsv 12
+qci 17 8
+qsv 12
+dft 4 6 1
+qsv 12
+qbs
+qsv 12
+qci 12 2
+qsv 12
+att 6 4 1
+qsv 12
+ar 9 7 65
+qsv 12
+qci 9 3
+qsv 12
+qv 1 5
+qsv 12
+qv 6 15
+qsv 12
+qv 4 2
+qsv 12
+qv 17 3
+qsv 12
+att 2 6 1
+qsv 12
+qci 14 11
+qsv 12
+qv 17 14
+qsv 12
+dft 16 9 1
+qsv 12
+qtvs 1 1
+qsv 12
+att 1 13 1
+qsv 12
+qv 4 17
+qsv 12
+qv 16 4
+qsv 12
+att 6 10 1
+qsv 12
+qv 3 2
+qsv 12
+att 10 6 1
+qsv 12
+at 3 1
+qsv 12
+qv 7 2
+qsv 12
+qsp 9 7
+qsv 12
+qba 3
+qsv 12
+qci 15 1
+qsv 12
+qci 7 12
+qsv 12
+att 5 14 2
+qsv 12
+dft 5 14 1
+qsv 12
+att 9 8 1
+qsv 12
+qba 16
+qsv 12
+att 9 8 1
+qsv 12
+att 4 2 1
+qsv 12
+qv 4 3
+qsv 12
+at 15 1
+qsv 12
+ar 8 7 110
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+att 5 14 1
+qsv 12
+qci 7 5
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+att 6 3 1
+qsv 12
+dt 6 1
+qsv 12
+att 9 16 1
+qsv 12
+att 9 16 1
+qsv 12
+att 3 15 1
+qsv 12
+att 12 2 1
+qsv 12
+qbs
+qsv 12
+at 10 1
+qsv 12
+qci 12 2
+qsv 12
+qci 10 15
+qsv 12
+att 6 10 1
+qsv 12
+qv 7 9
+qsv 12
+qba 13
+qsv 12
+att 1 13 1
+qsv 12
+qv 9 5
+qsv 12
+qtav 14 1
+qsv 12
+qv 9 16
+qsv 12
+qv 1 2
+qsv 12
+qv 14 9
+qsv 12
+qv 12 13
+qsv 12
+ar 9 5 71
+qsv 12
+qv 10 11
+qsv 12
+qv 5 2
+qsv 12
+ar 6 12 26
+qsv 12
+qv 17 11
+qsv 12
+qci 16 10
+qsv 12
+qv 17 16
+qsv 12
+qci 14 13
+qsv 12
+att 3 6 1
+qsv 12
+at 12 1
+qsv 12
+ap 18 DPO-bot-18 197
+qsv 12
+dt 8 1
+qsv 12
+qci 18 11
+qsv 12
+dt 8 1
+qsv 12
+at 18 27
+qsv 12
+att 1 9 1
+qsv 12
+dft 7 9 1
+qsv 12
+dft 9 16 1
+qsv 12
+qci 11 18
+qsv 12
+att 15 3 3
+qsv 12
+at 3 1
+qsv 12
+att 6 3 1
+qsv 12
+qcs
+qsv 12
+qv 6 16
+qsv 12
+qv 9 6
+qsv 12
+att 1 13 1
+qsv 12
+qts
+qsv 12
+qsp 3 9
+qsv 12
+at 6 1
+qsv 12
+qv 2 17
+qsv 12
+qv 4 5
+qsv 12
+qts
+qsv 12
+att 4 2 1
+qsv 12
+dt 6 1
+qsv 12
+qcs
+qsv 12
+dft 7 8 1
+qsv 12
+dft 6 10 1
+qsv 12
+qci 6 2
+qsv 12
+qtav 4 1
+qsv 12
+qci 5 3
+qsv 12
+qbs
+qsv 12
+dft 11 11 1
+qsv 12
+mr 8 8 -36
+qsv 12
+att 9 16 1
+qsv 12
+qv 16 17
+qsv 12
+qv 14 18
+qsv 12
+att 6 3 1
+qsv 12
+qtvs 16 1
+qsv 12
+ap 8 DPO-bot-8 109
+qsv 12
+at 13 1
+qsv 12
+qci 14 14
+qsv 12
+att 6 12 1
+qsv 12
+ar 3 12 81
+qsv 12
+dft 7 9 1
+qsv 12
+qba 33
+qsv 12
+qv 6 11
+qsv 12
+qsp 9 6
+qsv 12
+qci 1 18
+qsv 12
+qv 7 15
+qsv 12
+qci 11 17
+qsv 12
+qv 8 7
+qsv 12
+qcs
+qsv 12
+qv 13 17
+qsv 12
+qts
+qsv 12
+qv 15 12
+qsv 12
+att 5 14 1
+qsv 12
+att 7 8 1
+qsv 12
+qv 7 15
+qsv 12
+dft 12 2 1
+qsv 12
+qci 16 15
+qsv 12
+att 5 14 1
+qsv 12
+qsp 14 18
+qsv 12
+at 14 1
+qsv 12
+att 5 12 1
+qsv 12
+qci 2 1
+qsv 12
+qv 4 11
+qsv 12
+qv 9 9
+qsv 12
+qv 12 4
+qsv 12
+qv 15 1
+qsv 12
+att 6 3 1
+qsv 12
+qv 18 11
+qsv 12
+qts
+qsv 12
+qv 7 4
+qsv 12
+att 2 6 1
+qsv 12
+qtvs 10 1
+qsv 12
+ar 18 7 70
+qsv 12
+qv 13 13
+qsv 12
+mr 14 16 -18
+qsv 12
+att 9 8 1
+qsv 12
+att 2 12 1
+qsv 12
+qv 11 18
+qsv 12
+att 9 16 1
+qsv 12
+qbs
+qsv 12
+ap 6 DPO-bot-6 21
+qsv 12
+dft 2 6 1
+qsv 12
+qci 4 10
+qsv 12
+qv 8 16
+qsv 12
+qci 2 14
+qsv 12
+qci 3 2
+qsv 12
+att 1 17 1
+qsv 12
+qcs
+qsv 12
+ar 7 16 172
+qsv 12
+att 1 1 1
+qsv 12
+qci 13 11
+qsv 12
+qv 7 12
+qsv 12
+qci 1 17
+qsv 12
+at 5 1
+qsv 12
+at 8 1
+qsv 12
+qv 6 4
+qsv 12
+qcs
+qsv 12
+qv 7 7
+qsv 12
+att 7 8 1
+qsv 12
+qcs
+qsv 12
+qv 13 1
+qsv 12
+at 8 1
+qsv 12
+qv 16 16
+qsv 12
+qv 12 1
+qsv 12
+qtvs 11 1
+qsv 12
+qv 10 1
+qsv 12
+att 1 2 1
+qsv 12
+qv 11 1
+qsv 12
+att 5 14 1
+qsv 12
+att 5 12 1
+qsv 12
+ap 19 DPO-bot-19 19
+qsv 12
+qbs
+qsv 12
+qv 18 16
+qsv 12
+qv 15 12
+qsv 12
+qv 16 7
+qsv 12
+qba 30
+qsv 12
+qv 19 15
+qsv 12
+qv 8 4
+qsv 12
+qci 10 10
+qsv 12
+qv 16 12
+qsv 12
+att 1 17 1
+qsv 12
+qci 13 1
+qsv 12
+qts
+qsv 12
+att 3 15 1
+qsv 12
+dft 3 15 1
+qsv 12
+qv 6 19
+qsv 12
+qci 4 13
+qsv 12
+qts
+qsv 12
+att 9 1 1
+qsv 12
+att 1 13 1
+qsv 12
+qv 1 18
+qsv 12
+qci 12 18
+qsv 12
+qv 6 9
+qsv 12
+qv 15 4
+qsv 12
+ap 20 DPO-bot-20 100
+qsv 12
+qv 9 14
+qsv 12
+qci 19 3
+qsv 12
+qsp 10 3
+qsv 12
+qv 12 20
+qsv 12
+att 4 2 1
+qsv 12
+qv 14 20
+qsv 12
+qci 2 4
+qsv 12
+att 6 10 1
+qsv 12
+at 9 1
+qsv 12
+att 3 15 1
+qsv 12
+qbs
+qsv 12
+ar 9 7 174
+qsv 12
+ap 12 DPO-bot-12 92
+qsv 12
+att 9 7 1
+qsv 12
+dft 6 4 1
+qsv 12
+att 5 14 1
+qsv 12
+qv 1 19
+qsv 12
+qv 12 1
+qsv 12
+qv 12 11
+qsv 12
+qv 20 6
+qsv 12
+qv 10 14
+qsv 12
+qts
+qsv 12
+ar 16 8 124
+qsv 12
+qci 13 9
+qsv 12
+ar 6 9 146
+qsv 12
+qtav 1 1
+qsv 12
+qcs
+qsv 12
+qv 3 17
+qsv 12
+att 7 8 1
+qsv 12
+qba 7
+qsv 12
+ap 21 DPO-bot-21 103
+qsv 12
+qv 13 16
+qsv 12
+qv 8 11
+qsv 12
+ar 12 7 108
+qsv 12
+qci 1 15
+qsv 12
+qbs
+qsv 12
+qv 17 20
+qsv 12
+qtvs 15 1
+qsv 12
+at 13 1
+qsv 12
+att 9 8 1
+qsv 12
+att 1 5 1
+qsv 12
+qtvs 21 95
+qsv 12
+qci 2 20
+qsv 12
+att 11 11 1
+qsv 12
+att 6 12 1
+qsv 12
+qv 20 16
+qsv 12
+att 6 10 1
+qsv 12
+qcs
+qsv 12
+qba 3
+qsv 12
+qcs
+qsv 12
+ar 9 3 26
+qsv 12
+qv 9 21
+qsv 12
+qcs
+qsv 12
+att 2 4 1
+qsv 12
+qcs
+qsv 12
+att 1 19 1
+qsv 12
+att 6 2 1
+qsv 12
+ar 11 20 145
+qsv 12
+att 9 7 1
+qsv 12
+qv 9 5
+qsv 12
+qts
+qsv 12
+dft 6 4 1
+qsv 12
+qci 19 16
+qsv 12
+att 1 17 1
+qsv 12
+qv 12 16
+qsv 12
+qv 9 4
+qsv 12
+att 6 10 1
+qsv 12
+qtvs 19 1
+qsv 12
+qv 1 7
+qsv 12
+qv 17 19
+qsv 12
+qci 2 14
+qsv 12
+att 3 15 1
+qsv 12
+qv 6 10
+qsv 12
+qci 11 4
+qsv 12
+qsp 21 21
+qsv 12
+att 11 11 1
+qsv 12
+qv 13 13
+qsv 12
+mr 21 15 -65
+qsv 12
+qci 16 6
+qsv 12
+qba 13
+qsv 12
+qv 16 13
+qsv 12
+qv 8 6
+qsv 12
+att 5 14 1
+qsv 12
+ap 7 DPO-bot-7 159
+qsv 12
+dt 14 1
+qsv 12
+qv 10 15
+qsv 12
+qv 21 19
+qsv 12
+qv 17 14
+qsv 12
+qv 2 9
+qsv 12
+qv 11 8
+qsv 12
+qbs
+qsv 12
+qci 3 5
+qsv 12
+qv 6 15
+qsv 12
+att 6 9 1
+qsv 12
+att 9 3 1
+qsv 12
+ar 11 14 50
+qsv 12
+att 14 11 1
+qsv 12
+mr 10 2 -60
+qsv 12
+qtvs 2 1
+qsv 12
+att 9 5 1
+qsv 12
+dt 14 1
+qsv 12
+qv 16 7
+qsv 12
+ar 6 14 93
+qsv 12
+qci 2 10
+qsv 12
+qv 3 18
+qsv 12
+ar 10 3 145
+qsv 12
+qv 10 7
+qsv 12
+qsp 3 7
+qsv 12
+dt 16 1
+qsv 12
+qv 1 10
+qsv 12
+dft 3 6 1
+qsv 12
+att 3 15 2
+qsv 12
+att 6 12 1
+qsv 12
+qbs
+qsv 12
+qci 13 20
+qsv 12
+qci 7 16
+qsv 12
+qv 8 3
+qsv 12
+qci 20 12
+qsv 12
+qv 21 11
+qsv 12
+qv 13 2
+qsv 12
+att 22 41 1
+qsv 12
+dft 7 16 1
+qsv 12
+att 5 4 1
+qsv 12
+qtvs 6 1
+qsv 12
+qci 18 8
+qsv 12
+qba 2
+qsv 12
+att 5 9 1
+qsv 12
+ar 20 1 80
+qsv 12
+qbs
+qsv 12
+att 12 7 1
+qsv 12
+att 3 9 1
+qsv 12
+mr 10 19 -115
+qsv 12
+ap 22 DPO-bot-22 168
+qsv 12
+qcs
+qsv 12
+qsp 10 7
+qsv 12
+att 1 17 1
+qsv 12
+qv 2 22
+qsv 12
+qci 14 17
+qsv 12
+mr 19 6 -196
+qsv 12
+dft 1 13 1
+qsv 12
+qv 22 12
+qsv 12
+att 6 4 1
+qsv 12
+mr 7 13 -174
+qsv 12
+qv 7 22
+qsv 12
+dt 8 1
+qsv 12
+ar 10 14 186
+qsv 12
+qv 3 20
+qsv 12
+qv 13 14
+qsv 12
+att 14 5 1
+qsv 12
+ap 23 DPO-bot-23 6
+qsv 12
+att 24 23 60
+qsv 12
+ap 20 DPO-bot-20 100
+qsv 12
+att 9 1 1
+qsv 12
+dft 3 15 1
+qsv 12
+qsp 1 4
+qsv 12
+qci 15 19
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+qv 16 18
+qsv 12
+qv 15 20
+qsv 12
+att 5 9 1
+qsv 12
+dft 3 15 1
+qsv 12
+qv 6 2
+qsv 12
+qtvs 7 1
+qsv 12
+att 9 7 1
+qsv 12
+qci 23 14
+qsv 12
+qv 5 13
+qsv 12
+att 7 8 1
+qsv 12
+qcs
+qsv 12
+qci 10 7
+qsv 12
+qsp 4 9
+qsv 12
+qci 4 3
+qsv 12
+qtav 14 1
+qsv 12
+att 8 16 1
+qsv 12
+att 1 18 1
+qsv 12
+qv 6 23
+qsv 12
+qci 9 10
+qsv 12
+qv 7 15
+qsv 12
+att 1 22 1
+qsv 12
+qci 18 9
+qsv 12
+qci 12 11
+qsv 12
+qci 15 21
+qsv 12
+qv 17 7
+qsv 12
+qci 20 10
+qsv 12
+qv 11 17
+qsv 12
+att 14 11 1
+qsv 12
+att 14 11 1
+qsv 12
+qci 13 21
+qsv 12
+att 20 11 1
+qsv 12
+qtav 12 1
+qsv 12
+qci 10 18
+qsv 12
+qci 1 18
+qsv 12
+qci 8 38
+qsv 12
+att 2 1 1
+qsv 12
+att 1 18 1
+qsv 12
+att 1 13 1
+qsv 12
+att 9 8 1
+qsv 12
+qv 22 23
+qsv 12
+att 1 19 1
+qsv 12
+qts
+qsv 12
+qsp 22 13
+qsv 12
+qci 12 12
+qsv 12
+qts
+qsv 12
+att 1 1 1
+qsv 12
+qv 15 19
+qsv 12
+att 7 16 1
+qsv 12
+qv 16 17
+qsv 12
+qcs
+qsv 12
+qv 22 13
+qsv 12
+qba 8
+qsv 12
+att 1 1 1
+qsv 12
+att 9 8 1
+qsv 12
+mr 22 2 -135
+qsv 12
+qv 4 4
+qsv 12
+qv 7 14
+qsv 12
+qv 22 15
+qsv 12
+att 11 20 1
+qsv 12
+qv 3 16
+qsv 12
+qv 16 8
+qsv 12
+qci 20 18
+qsv 12
+mr 3 6 -134
+qsv 12
+qci 17 4
+qsv 12
+mr 19 21 -69
+qsv 12
+qtav 10 1
+qsv 12
+att 10 14 1
+qsv 12
+att 1 18 1
+qsv 12
+qv 9 9
+qsv 12
+qv 22 8
+qsv 12
+att 11 11 1
+qsv 12
+mr 10 23 -170
+qsv 12
+qv 21 16
+qsv 12
+qv 18 12
+qsv 12
+ar 10 2 123
+qsv 12
+qv 2 3
+qsv 12
+dft 2 6 1
+qsv 12
+qci 10 8
+qsv 12
+ar 6 1 189
+qsv 12
+qsp 16 4
+qsv 12
+qci 9 18
+qsv 12
+ar 8 19 7
+qsv 12
+att 10 3 1
+qsv 12
+qci 11 9
+qsv 12
+ap 9 DPO-bot-9 147
+qsv 12
+qv 18 15
+qsv 12
+qbs
+qsv 12
+mr 11 13 -85
+qsv 12
+qts
+qsv 12
+ap 24 DPO-bot-24 20
+qsv 12
+att 1 23 1
+qsv 12
+mr 14 4 -129
+qsv 12
+att 1 5 1
+qsv 12
+qsp 23 15
+qsv 12
+qv 9 22
+qsv 12
+qci 20 3
+qsv 12
+ar 2 13 37
+qsv 12
+qcs
+qsv 12
+ar 22 24 52
+qsv 12
+qtvs 3 1
+qsv 12
+qv 22 11
+qsv 12
+att 25 24 53
+qsv 12
+qv 22 23
+qsv 12
+att 2 13 1
+qsv 12
+qv 6 1
+qsv 12
+qv 9 16
+qsv 12
+ar 13 15 188
+qsv 12
+qsp 14 8
+qsv 12
+qv 16 2
+qsv 12
+ar 2 6 90
+qsv 12
+mr 4 14 -3
+qsv 12
+qv 10 7
+qsv 12
+att 1 22 1
+qsv 12
+qts
+qsv 12
+qv 20 21
+qsv 12
+mr 9 10 -122
+qsv 12
+mr 22 23 -62
+qsv 12
+dft 25 24 75
+qsv 12
+att 10 14 1
+qsv 12
+qts
+qsv 12
+qv 12 11
+qsv 12
+att 2 6 1
+qsv 12
+att 2 10 1
+qsv 12
+ar 4 6 22
+qsv 12
+qv 10 18
+qsv 12
+qtvs 6 1
+qsv 12
+qci 20 19
+qsv 12
+at 7 1
+qsv 12
+at 21 1
+qsv 12
+qv 15 10
+qsv 12
+att 1 9 1
+qsv 12
+dft 14 10 1
+qsv 12
+att 9 16 1
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qv 12 4
+qsv 12
+qv 9 23
+qsv 12
+qci 9 7
+qsv 12
+qv 20 21
+qsv 12
+qba 17
+qsv 12
+qci 12 14
+qsv 12
+att 1 22 1
+qsv 12
+at 9 1
+qsv 12
+att 6 1 1
+qsv 12
+att 13 15 1
+qsv 12
+qtvs 12 1
+qsv 12
+qv 21 4
+qsv 12
+qci 12 7
+qsv 12
+qv 20 6
+qsv 12
+qsp 16 3
+qsv 12
+qv 5 14
+qsv 12
+qci 18 18
+qsv 12
+qbs
+qsv 12
+qv 7 11
+qsv 12
+qbs
+qsv 12
+dft 9 3 1
+qsv 12
+qba 10
+qsv 12
+qv 4 7
+qsv 12
+ap 25 DPO-bot-25 64
+qsv 12
+qba 18
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+att 1 17 1
+qsv 12
+qbs
+qsv 12
+ar 6 8 8
+qsv 12
+qtvs 25 71
+qsv 12
+qtvs 4 1
+qsv 12
+qv 10 1
+qsv 12
+qv 24 17
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+ap 26 DPO-bot-26 150
+qsv 12
+qv 10 23
+qsv 12
+att 12 5 1
+qsv 12
+dft 6 12 1
+qsv 12
+qtav 3 1
+qsv 12
+qcs
+qsv 12
+qv 26 12
+qsv 12
+qv 21 2
+qsv 12
+att 1 17 1
+qsv 12
+att 1 21 1
+qsv 12
+att 1 18 1
+qsv 12
+qv 2 3
+qsv 12
+qcs
+qsv 12
+att 11 14 1
+qsv 12
+att 10 3 1
+qsv 12
+qv 11 10
+qsv 12
+dt 17 1
+qsv 12
+att 1 5 1
+qsv 12
+att 5 9 1
+qsv 12
+qci 17 5
+qsv 12
+qci 22 23
+qsv 12
+qci 8 10
+qsv 12
+qci 16 4
+qsv 12
+att 14 6 1
+qsv 12
+qv 7 15
+qsv 12
+att 3 20 1
+qsv 12
+qba 7
+qsv 12
+att 3 15 1
+qsv 12
+dt 5 1
+qsv 12
+qci 23 24
+qsv 12
+qv 12 16
+qsv 12
+att 6 1 1
+qsv 12
+qba 23
+qsv 12
+att 1 24 1
+qsv 12
+qv 38 26
+qsv 12
+qv 26 17
+qsv 12
+att 5 4 1
+qsv 12
+qv 23 13
+qsv 12
+att 2 1 1
+qsv 12
+att 15 3 1
+qsv 12
+att 1 25 1
+qsv 12
+qv 15 6
+qsv 12
+att 10 2 1
+qsv 12
+att 15 13 1
+qsv 12
+qv 11 16
+qsv 12
+qtvs 22 1
+qsv 12
+qbs
+qsv 12
+qci 10 14
+qsv 12
+att 1 21 1
+qsv 12
+att 4 2 1
+qsv 12
+att 10 14 1
+qsv 12
+qv 12 12
+qsv 12
+att 4 6 1
+qsv 12
+mr 17 1 -172
+qsv 12
+qci 9 10
+qsv 12
+dft 6 1 1
+qsv 12
+att 8 7 1
+qsv 12
+qv 8 5
+qsv 12
+at 23 1
+qsv 12
+qv 2 3
+qsv 12
+qba 21
+qsv 12
+qv 11 6
+qsv 12
+ap 12 DPO-bot-12 92
+qsv 12
+qcs
+qsv 12
+qci 24 12
+qsv 12
+qci 6 17
+qsv 12
+att 1 22 1
+qsv 12
+qtav 3 1
+qsv 12
+ap 27 DPO-bot-27 142
+qsv 12
+mr 8 11 -158
+qsv 12
+qv 13 9
+qsv 12
+att 1 17 1
+qsv 12
+att 1 23 1
+qsv 12
+att 2 1 1
+qsv 12
+qv 1 18
+qsv 12
+att 11 11 1
+qsv 12
+qv 5 13
+qsv 12
+dt 14 1
+qsv 12
+qv 14 3
+qsv 12
+att 7 12 1
+qsv 12
+qbs
+qsv 12
+qv 26 2
+qsv 12
+ar 14 12 68
+qsv 12
+att 9 16 1
+qsv 12
+att 1 26 1
+qsv 12
+att 9 8 1
+qsv 12
+qv 12 15
+qsv 12
+qv 2 5
+qsv 12
+att 1 17 1
+qsv 12
+dft 1 18 1
+qsv 12
+qv 9 25
+qsv 12
+qba 8
+qsv 12
+mr 25 5 -32
+qsv 12
+qv 13 14
+qsv 12
+qv 18 9
+qsv 12
+ar 7 20 8
+qsv 12
+att 13 2 1
+qsv 12
+att 3 15 1
+qsv 12
+qv 24 17
+qsv 12
+qtvs 11 1
+qsv 12
+att 5 9 1
+qsv 12
+att 1 23 1
+qsv 12
+ar 6 13 176
+qsv 12
+qv 13 7
+qsv 12
+qv 14 22
+qsv 12
+qtav 24 1
+qsv 12
+ap 28 DPO-bot-28 70
+qsv 12
+qv 9 24
+qsv 12
+ar 2 19 140
+qsv 12
+att 6 13 1
+qsv 12
+at 9 1
+qsv 12
+qba 17
+qsv 12
+att 1 18 1
+qsv 12
+ap 29 DPO-bot-29 104
+qsv 12
+qbs
+qsv 12
+qci 14 11
+qsv 12
+qv 15 29
+qsv 12
+qv 22 19
+qsv 12
+att 9 16 1
+qsv 12
+qci 28 25
+qsv 12
+ar 22 24 170
+qsv 12
+qcs
+qsv 12
+qv 27 24
+qsv 12
+qsp 7 10
+qsv 12
+qv 5 20
+qsv 12
+qtvs 8 1
+qsv 12
+qv 24 12
+qsv 12
+qci 28 22
+qsv 12
+att 5 14 1
+qsv 12
+qci 24 28
+qsv 12
+att 7 20 1
+qsv 12
+dft 6 12 1
+qsv 12
+mr 10 1 -13
+qsv 12
+att 1 17 1
+qsv 12
+att 2 3 1
+qsv 12
+att 8 7 1
+qsv 12
+dft 13 15 1
+qsv 12
+dt 10 1
+qsv 12
+qv 29 2
+qsv 12
+att 15 3 1
+qsv 12
+att 8 19 1
+qsv 12
+qci 21 16
+qsv 12
+ap 19 DPO-bot-19 19
+qsv 12
+att 6 4 1
+qsv 12
+qba 12
+qsv 12
+qv 23 20
+qsv 12
+qv 16 2
+qsv 12
+att 1 27 1
+qsv 12
+qts
+qsv 12
+qba 25
+qsv 12
+att 5 9 1
+qsv 12
+qci 3 9
+qsv 12
+att 1 26 1
+qsv 12
+qtvs 25 1
+qsv 12
+qtav 13 1
+qsv 12
+qv 13 27
+qsv 12
+qcs
+qsv 12
+qci 21 10
+qsv 12
+qci 14 7
+qsv 12
+att 30 29 52
+qsv 12
+qv 10 25
+qsv 12
+qv 6 29
+qsv 12
+qv 11 6
+qsv 12
+att 20 7 1
+qsv 12
+qci 19 19
+qsv 12
+qci 7 23
+qsv 12
+att 1 20 1
+qsv 12
+ap 30 DPO-bot-30 193
+qsv 12
+qci 14 30
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+att 20 7 1
+qsv 12
+att 31 30 90
+qsv 12
+qv 27 8
+qsv 12
+ap 31 DPO-bot-31 84
+qsv 12
+qcs
+qsv 12
+qsp 6 17
+qsv 12
+qci 3 7
+qsv 12
+qci 16 1
+qsv 12
+att 7 20 1
+qsv 12
+qv 14 26
+qsv 12
+ap 32 DPO-bot-32 148
+qsv 12
+ap 28 DPO-bot-28 70
+qsv 12
+qv 21 27
+qsv 12
+att 8 16 1
+qsv 12
+att 2 13 1
+qsv 12
+qba 6
+qsv 12
+qci 6 15
+qsv 12
+qv 32 22
+qsv 12
+qts
+qsv 12
+dt 19 1
+qsv 12
+qv 12 9
+qsv 12
+qci 6 4
+qsv 12
+dft 1 4 1
+qsv 12
+qv 21 23
+qsv 12
+qtvs 17 1
+qsv 12
+qtvs 24 1
+qsv 12
+att 12 14 1
+qsv 12
+att 1 4 1
+qsv 12
+qsp 20 3
+qsv 12
+dft 33 32 27
+qsv 12
+att 2 4 1
+qsv 12
+qv 25 31
+qsv 12
+qtav 17 1
+qsv 12
+qv 30 14
+qsv 12
+ar 22 17 17
+qsv 12
+qbs
+qsv 12
+qv 5 30
+qsv 12
+ap 24 DPO-bot-24 20
+qsv 12
+qv 25 12
+qsv 12
+qv 17 14
+qsv 12
+at 7 1
+qsv 12
+ar 1 29 29
+qsv 12
+ar 20 4 4
+qsv 12
+qv 25 18
+qsv 12
+att 1 30 1
+qsv 12
+qv 21 16
+qsv 12
+qci 28 2
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+qtvs 32 40
+qsv 12
+qv 21 4
+qsv 12
+mr 6 29 -156
+qsv 12
+qts
+qsv 12
+qsp 17 14
+qsv 12
+qv 3 16
+qsv 12
+qtvs 63 16
+qsv 12
+qv 18 27
+qsv 12
+qts
+qsv 12
+qba 17
+qsv 12
+qv 25 18
+qsv 12
+qv 9 4
+qsv 12
+qcs
+qsv 12
+att 1 27 1
+qsv 12
+att 10 14 1
+qsv 12
+qv 31 1
+qsv 12
+dft 1 18 1
+qsv 12
+att 1 25 1
+qsv 12
+att 2 10 1
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+att 22 24 1
+qsv 12
+qci 6 25
+qsv 12
+dft 5 1 1
+qsv 12
+qv 30 7
+qsv 12
+qci 11 14
+qsv 12
+qci 31 28
+qsv 12
+att 3 15 1
+qsv 12
+att 1 18 1
+qsv 12
+qv 17 15
+qsv 12
+qv 5 29
+qsv 12
+qv 29 20
+qsv 12
+qtav 13 1
+qsv 12
+qbs
+qsv 12
+qv 31 32
+qsv 12
+att 4 6 1
+qsv 12
+att 6 8 1
+qsv 12
+att 1 27 1
+qsv 12
+qba 12
+qsv 12
+ar 7 26 91
+qsv 12
+qci 10 26
+qsv 12
+qv 30 9
+qsv 12
+att 20 1 1
+qsv 12
+qba 10
+qsv 12
+qv 5 23
+qsv 12
+qv 4 30
+qsv 12
+qci 20 27
+qsv 12
+qba 1
+qsv 12
+att 17 22 1
+qsv 12
+att 9 16 1
+qsv 12
+qv 20 25
+qsv 12
+dft 1 25 1
+qsv 12
+dft 2 3 1
+qsv 12
+dft 22 24 1
+qsv 12
+qv 21 32
+qsv 12
+qbs
+qsv 12
+qv 27 10
+qsv 12
+qv 15 12
+qsv 12
+qv 32 18
+qsv 12
+qv 4 17
+qsv 12
+dft 2 1 1
+qsv 12
+att 22 17 1
+qsv 12
+mr 31 32 -151
+qsv 12
+ar 30 10 33
+qsv 12
+qsp 4 13
+qsv 12
+qcs
+qsv 12
+qba 10
+qsv 12
+qcs
+qsv 12
+ar 29 28 118
+qsv 12
+qcs
+qsv 12
+mr 24 29 -108
+qsv 12
+att 12 5 1
+qsv 12
+ar 22 30 106
+qsv 12
+qv 25 5
+qsv 12
+ap 29 DPO-bot-29 104
+qsv 12
+ap 33 DPO-bot-33 22
+qsv 12
+qts
+qsv 12
+att 1 32 1
+qsv 12
+ar 11 18 68
+qsv 12
+qtvs 18 1
+qsv 12
+ap 34 DPO-bot-34 148
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+att 1 21 1
+qsv 12
+ar 3 19 122
+qsv 12
+qv 27 29
+qsv 12
+mr 21 15 -130
+qsv 12
+dft 1 25 1
+qsv 12
+dft 1 33 1
+qsv 12
+mr 11 18 -181
+qsv 12
+qv 17 17
+qsv 12
+qv 15 3
+qsv 12
+dft 22 24 1
+qsv 12
+att 1 21 1
+qsv 12
+qts
+qsv 12
+qtav 13 1
+qsv 12
+qcs
+qsv 12
+att 7 8 1
+qsv 12
+qci 5 1
+qsv 12
+mr 18 28 -92
+qsv 12
+att 2 1 1
+qsv 12
+att 19 2 1
+qsv 12
+mr 2 21 -44
+qsv 12
+at 29 1
+qsv 12
+qv 21 3
+qsv 12
+qv 20 27
+qsv 12
+qv 17 12
+qsv 12
+att 6 14 1
+qsv 12
+dft 2 1 1
+qsv 12
+qv 18 8
+qsv 12
+qv 11 8
+qsv 12
+att 28 29 1
+qsv 12
+qtvs 32 1
+qsv 12
+qci 26 20
+qsv 12
+qsp 28 18
+qsv 12
+ar 6 16 37
+qsv 12
+qv 28 3
+qsv 12
+qv 11 26
+qsv 12
+dft 16 9 1
+qsv 12
+att 6 10 1
+qsv 12
+qv 10 17
+qsv 12
+at 19 1
+qsv 12
+qv 16 12
+qsv 12
+qv 15 8
+qsv 12
+dt 5 1
+qsv 12
+qv 34 22
+qsv 12
+qv 2 24
+qsv 12
+at 26 1
+qsv 12
+qv 3 28
+qsv 12
+att 6 10 1
+qsv 12
+dt 14 1
+qsv 12
+qba 27
+qsv 12
+qv 27 16
+qsv 12
+qci 6 27
+qsv 12
+att 3 10 1
+qsv 12
+at 7 1
+qsv 12
+qci 17 18
+qsv 12
+qci 17 28
+qsv 12
+qci 12 7
+qsv 12
+qv 25 15
+qsv 12
+qv 14 19
+qsv 12
+at 15 1
+qsv 12
+ap 35 DPO-bot-35 158
+qsv 12
+ar 33 1 145
+qsv 12
+ar 6 16 25
+qsv 12
+att 36 35 34
+qsv 12
+qv 7 29
+qsv 12
+qts
+qsv 12
+dft 28 29 1
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+att 22 24 1
+qsv 12
+qsp 32 33
+qsv 12
+dft 14 11 1
+qsv 12
+at 31 1
+qsv 12
+qv 13 32
+qsv 12
+qci 8 8
+qsv 12
+qv 19 9
+qsv 12
+ap 28 DPO-bot-28 70
+qsv 12
+qci 22 17
+qsv 12
+qsp 5 4
+qsv 12
+att 14 12 1
+qsv 12
+at 34 1
+qsv 12
+att 3 19 1
+qsv 12
+qci 33 22
+qsv 12
+dft 3 19 1
+qsv 12
+ar 29 24 192
+qsv 12
+att 24 22 1
+qsv 12
+att 8 16 1
+qsv 12
+qci 15 31
+qsv 12
+qsp 26 4
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+qbs
+qsv 12
+att 4 20 1
+qsv 12
+qv 29 10
+qsv 12
+qsp 16 7
+qsv 12
+qtav 17 1
+qsv 12
+qcs
+qsv 12
+qv 8 5
+qsv 12
+qv 13 3
+qsv 12
+att 1 33 1
+qsv 12
+ap 36 DPO-bot-36 2
+qsv 12
+qv 9 26
+qsv 12
+att 1 32 1
+qsv 12
+qv 6 5
+qsv 12
+att 7 26 1
+qsv 12
+att 3 19 1
+qsv 12
+att 24 29 1
+qsv 12
+qci 8 2
+qsv 12
+att 24 29 1
+qsv 12
+ar 23 12 189
+qsv 12
+qci 33 1
+qsv 12
+qv 5 31
+qsv 12
+ar 13 31 24
+qsv 12
+qba 1
+qsv 12
+qbs
+qsv 12
+dft 1 35 1
+qsv 12
+att 1 33 1
+qsv 12
+qci 14 21
+qsv 12
+att 11 20 1
+qsv 12
+qba 14
+qsv 12
+qci 33 2
+qsv 12
+qv 3 33
+qsv 12
+att 22 17 1
+qsv 12
+qci 15 32
+qsv 12
+qv 34 24
+qsv 12
+qcs
+qsv 12
+at 27 1
+qsv 12
+att 17 22 1
+qsv 12
+att 16 7 1
+qsv 12
+qv 32 6
+qsv 12
+ap 4 DPO-bot-4 108
+qsv 12
+mr 19 28 -20
+qsv 12
+qba 21
+qsv 12
+att 29 28 1
+qsv 12
+qv 18 34
+qsv 12
+qv 29 29
+qsv 12
+qv 24 25
+qsv 12
+att 1 32 1
+qsv 12
+qv 3 24
+qsv 12
+att 12 23 1
+qsv 12
+qbs
+qsv 12
+qbs
+qsv 12
+qci 14 32
+qsv 12
+att 30 22 1
+qsv 12
+qv 26 16
+qsv 12
+at 10 1
+qsv 12
+att 28 29 1
+qsv 12
+att 23 12 1
+qsv 12
+att 22 30 1
+qsv 12
+qv 10 35
+qsv 12
+ap 22 DPO-bot-22 168
+qsv 12
+att 29 28 1
+qsv 12
+qv 13 28
+qsv 12
+att 13 31 1
+qsv 12
+qci 22 34
+qsv 12
+qv 5 16
+qsv 12
+qv 26 14
+qsv 12
+att 6 12 1
+qsv 12
+qv 21 36
+qsv 12
+qci 32 29
+qsv 12
+qci 32 7
+qsv 12
+att 16 8 1
+qsv 12
+att 4 20 1
+qsv 12
+qci 33 18
+qsv 12
+qv 33 24
+qsv 12
+qbs
+qsv 12
+qv 30 8
+qsv 12
+qv 36 6
+qsv 12
+qv 15 29
+qsv 12
+at 36 71
+qsv 12
+qv 29 15
+qsv 12
+qv 36 27
+qsv 12
+qci 11 5
+qsv 12
+qsp 36 4
+qsv 12
+qv 24 36
+qsv 12
+dt 13 1
+qsv 12
+at 4 1
+qsv 12
+mr 24 18 -117
+qsv 12
+qv 4 25
+qsv 12
+qtav 36 57
+qsv 12
+qv 9 34
+qsv 12
+qtav 6 1
+qsv 12
+mr 19 35 -184
+qsv 12
+qv 26 26
+qsv 12
+qci 31 22
+qsv 12
+qci 34 16
+qsv 12
+att 16 6 1
+qsv 12
+att 11 18 1
+qsv 12
+qv 10 7
+qsv 12
+qtav 32 1
+qsv 12
+att 31 13 1
+qsv 12
+qci 12 13
+qsv 12
+qci 15 11
+qsv 12
+ar 36 19 142
+qsv 12
+att 22 24 1
+qsv 12
+att 12 7 1
+qsv 12
+ap 25 DPO-bot-25 64
+qsv 12
+att 13 31 1
+qsv 12
+qv 32 35
+qsv 12
+qtav 16 1
+qsv 12
+qbs
+qsv 12
+qci 33 18
+qsv 12
+att 3 10 1
+qsv 12
+qsp 36 28
+qsv 12
+qv 32 6
+qsv 12
+qv 18 34
+qsv 12
+qci 23 18
+qsv 12
+qv 20 28
+qsv 12
+ar 15 29 142
+qsv 12
+qv 9 34
+qsv 12
+ar 33 2 33
+qsv 12
+qci 14 12
+qsv 12
+qtvs 18 1
+qsv 12
+dft 16 7 1
+qsv 12
+dft 22 24 1
+qsv 12
+att 30 22 1
+qsv 12
+qsp 20 13
+qsv 12
+att 33 1 1
+qsv 12
+att 15 13 1
+qsv 12
+dt 14 1
+qsv 12
+qba 8
+qsv 12
+qtav 13 1
+qsv 12
+mr 30 16 -74
+qsv 12
+dft 9 3 1
+qsv 12
+att 1 27 1
+qsv 12
+qba 19
+qsv 12
+qci 4 26
+qsv 12
+dft 14 6 1
+qsv 12
+mr 25 11 -199
+qsv 12
+qci 20 7
+qsv 12
+dft 4 1 1
+qsv 12
+dft 6 10 1
+qsv 12
+qbs
+qsv 12
+ar 35 33 94
+qsv 12
+ar 8 12 9
+qsv 12
+ar 6 23 157
+qsv 12
+att 19 8 1
+qsv 12
+qv 18 30
+qsv 12
+att 5 4 1
+qsv 12
+qv 21 26
+qsv 12
+ar 32 1 14
+qsv 12
+qv 10 36
+qsv 12
+qv 34 1
+qsv 12
+qv 27 22
+qsv 12
+qtvs 2 1
+qsv 12
+qv 6 10
+qsv 12
+qv 22 14
+qsv 12
+att 15 13 1
+qsv 12
+qv 14 23
+qsv 12
+qtvs 26 1
+qsv 12
+qci 31 27
+qsv 12
+ar 31 27 98
+qsv 12
+qci 12 1
+qsv 12
+qtav 15 1
+qsv 12
+qtvs 30 1
+qsv 12
+qv 26 7
+qsv 12
+dft 18 11 1
+qsv 12
+qv 30 29
+qsv 12
+qba 27
+qsv 12
+ar 1 34 45
+qsv 12
+att 22 17 1
+qsv 12
+qv 17 28
+qsv 12
+qts
+qsv 12
+qci 27 25
+qsv 12
+qv 15 29
+qsv 12
+ar 61 35 199
+qsv 12
+ar 13 12 64
+qsv 12
+qv 8 18
+qsv 12
+qsp 23 11
+qsv 12
+qtav 24 1
+qsv 12
+dft 24 29 1
+qsv 12
+qbs
+qsv 12
+att 12 5 1
+qsv 12
+qtav 45 96
+qsv 12
+qv 30 27
+qsv 12
+ar 3 8 56
+qsv 12
+qv 18 3
+qsv 12
+ap 37 DPO-bot-37 145
+qsv 12
+qv 6 34
+qsv 12
+qv 14 29
+qsv 12
+att 1 33 1
+qsv 12
+qsp 12 33
+qsv 12
+qci 3 26
+qsv 12
+mr 2 34 -161
+qsv 12
+qba 24
+qsv 12
+dft 29 28 1
+qsv 12
+qv 5 15
+qsv 12
+dt 9 1
+qsv 12
+mr 11 26 -42
+qsv 12
+qv 17 36
+qsv 12
+att 13 15 1
+qsv 12
+att 24 29 1
+qsv 12
+qtvs 33 1
+qsv 12
+dft 12 14 3
+qsv 12
+dft 7 26 1
+qsv 12
+qci 33 14
+qsv 12
+mr 22 35 -132
+qsv 12
+qv 28 7
+qsv 12
+qtvs 23 1
+qsv 12
+att 1 20 1
+qsv 12
+qci 6 35
+qsv 12
+att 8 7 1
+qsv 12
+att 27 31 1
+qsv 12
+att 11 11 1
+qsv 12
+att 1 32 1
+qsv 12
+ap 38 DPO-bot-38 194
+qsv 12
+att 2 19 1
+qsv 12
+qv 3 13
+qsv 12
+ap 32 DPO-bot-32 148
+qsv 12
+att 9 1 1
+qsv 12
+att 3 19 1
+qsv 12
+qci 37 10
+qsv 12
+qba 25
+qsv 12
+att 1 21 1
+qsv 12
+att 19 3 1
+qsv 12
+ar 33 18 165
+qsv 12
+qtav 11 1
+qsv 12
+att 20 4 1
+qsv 12
+mr 18 13 -73
+qsv 12
+att 28 29 1
+qsv 12
+att 35 33 1
+qsv 12
+qtvs 18 1
+qsv 12
+qci 26 28
+qsv 12
+qv 25 18
+qsv 12
+att 22 24 1
+qsv 12
+qv 16 36
+qsv 12
+qci 29 15
+qsv 12
+qcs
+qsv 12
+at 5 1
+qsv 12
+qtvs 15 1
+qsv 12
+qba 7
+qsv 12
+qtav 4 1
+qsv 12
+att 5 12 1
+qsv 12
+att 12 23 1
+qsv 12
+qcs
+qsv 12
+att 16 7 1
+qsv 12
+att 39 38 33
+qsv 12
+qci 35 16
+qsv 12
+ap 14 DPO-bot-14 182
+qsv 12
+qv 7 23
+qsv 12
+qtvs 38 43
+qsv 12
+qba 29
+qsv 12
+qtav 26 1
+qsv 12
+qv 26 36
+qsv 12
+att 20 11 1
+qsv 12
+att 30 22 1
+qsv 12
+dft 18 11 1
+qsv 12
+qv 36 33
+qsv 12
+ar 31 35 165
+qsv 12
+ar 16 30 106
+qsv 12
+dft 12 23 1
+qsv 12
+qtav 36 1
+qsv 12
+att 33 18 1
+qsv 12
+att 31 27 1
+qsv 12
+att 29 15 1
+qsv 12
+att 30 22 1
+qsv 12
+att 39 38 100
+qsv 12
+ap 25 DPO-bot-25 64
+qsv 12
+qsp 38 33
+qsv 12
+qtav 30 1
+qsv 12
+qv 3 6
+qsv 12
+qci 10 21
+qsv 12
+dt 16 1
+qsv 12
+qv 28 30
+qsv 12
+qci 3 12
+qsv 12
+dt 23 1
+qsv 12
+att 18 11 1
+qsv 12
+ar 23 29 85
+qsv 12
+att 31 35 1
+qsv 12
+ap 39 DPO-bot-39 162
+qsv 12
+qv 33 29
+qsv 12
+att 1 34 1
+qsv 12
+qtvs 13 1
+qsv 12
+att 7 26 1
+qsv 12
+qv 29 21
+qsv 12
+qv 16 35
+qsv 12
+att 2 3 1
+qsv 12
+att 31 27 1
+qsv 12
+att 7 26 1
+qsv 12
+qci 24 24
+qsv 12
+qv 11 57
+qsv 12
+att 1 9 1
+qsv 12
+qv 39 31
+qsv 12
+qci 2 1
+qsv 12
+qv 4 16
+qsv 12
+qci 20 28
+qsv 12
+qci 11 28
+qsv 12
+qbs
+qsv 12
+ar 7 22 34
+qsv 12
+qv 34 16
+qsv 12
+qv 19 28
+qsv 12
+att 1 25 1
+qsv 12
+att 5 9 1
+qsv 12
+att 27 31 1
+qsv 12
+qtvs 27 1
+qsv 12
+dft 29 28 1
+qsv 12
+att 1 21 1
+qsv 12
+qv 26 6
+qsv 12
+att 40 39 58
+qsv 12
+qv 34 2
+qsv 12
+qtav 36 1
+qsv 12
+qv 6 35
+qsv 12
+att 11 18 1
+qsv 12
+dft 1 32 1
+qsv 12
+qv 37 34
+qsv 12
+dft 4 5 1
+qsv 12
+qv 2 36
+qsv 12
+ar 6 12 111
+qsv 12
+qtav 1 1
+qsv 12
+att 1 4 1
+qsv 12
+qtvs 38 1
+qsv 12
+qtav 72 66
+qsv 12
+ar 17 4 156
+qsv 12
+qv 18 25
+qsv 12
+qtvs 34 1
+qsv 12
+qci 24 34
+qsv 12
+qbs
+qsv 12
+qci 26 2
+qsv 12
+att 11 14 1
+qsv 12
+att 1 38 1
+qsv 12
+qtvs 14 1
+qsv 12
+att 6 13 1
+qsv 12
+att 12 23 1
+qsv 12
+at 35 1
+qsv 12
+qv 10 36
+qsv 12
+att 3 8 1
+qsv 12
+att 31 35 1
+qsv 12
+att 24 29 1
+qsv 12
+qcs
+qsv 12
+qci 26 25
+qsv 12
+qci 6 25
+qsv 12
+qv 11 30
+qsv 12
+dft 3 10 1
+qsv 12
+att 1 37 1
+qsv 12
+qba 5
+qsv 12
+qv 10 22
+qsv 12
+mr 28 24 -118
+qsv 12
+att 11 11 1
+qsv 12
+ap 40 DPO-bot-40 42
+qsv 12
+qv 36 39
+qsv 12
+att 18 33 1
+qsv 12
+att 14 11 1
+qsv 12
+att 29 23 1
+qsv 12
+dt 14 1
+qsv 12
+ap 41 DPO-bot-41 91
+qsv 12
+ap 33 DPO-bot-33 22
+qsv 12
+qv 15 8
+qsv 12
+ar 40 40 39
+qsv 12
+qv 13 30
+qsv 12
+qv 5 36
+qsv 12
+qv 23 41
+qsv 12
+qsp 37 37
+qsv 12
+qbs
+qsv 12
+at 5 1
+qsv 12
+mr 13 17 -101
+qsv 12
+qci 34 1
+qsv 12
+att 13 31 1
+qsv 12
+qv 7 3
+qsv 12
+qv 17 33
+qsv 12
+qcs
+qsv 12
+qv 15 20
+qsv 12
+dft 2 6 1
+qsv 12
+att 31 27 1
+qsv 12
+qci 21 16
+qsv 12
+ar 7 18 38
+qsv 12
+qv 13 14
+qsv 12
+qv 1 36
+qsv 12
+ap 23 DPO-bot-23 6
+qsv 12
+att 2 3 1
+qsv 12
+att 2 10 1
+qsv 12
+ar 21 33 159
+qsv 12
+qba 23
+qsv 12
+att 1 20 1
+qsv 12
+qv 37 12
+qsv 12
+att 1 20 1
+qsv 12
+qv 32 1
+qsv 12
+qv 17 38
+qsv 12
+qcs
+qsv 12
+att 13 15 1
+qsv 12
+qv 19 32
+qsv 12
+ar 2 23 96
+qsv 12
+ar 14 37 196
+qsv 12
+qv 34 39
+qsv 12
+qci 27 17
+qsv 12
+att 1 38 1
+qsv 12
+ap 42 DPO-bot-42 56
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+att 29 28 1
+qsv 12
+qv 31 39
+qsv 12
+att 29 15 1
+qsv 12
+qts
+qsv 12
+ap 43 DPO-bot-43 105
+qsv 12
+qci 18 25
+qsv 12
+ap 42 DPO-bot-42 56
+qsv 12
+qba 41
+qsv 12
+dft 33 35 1
+qsv 12
+qv 38 39
+qsv 12
+qci 20 22
+qsv 12
+qv 17 15
+qsv 12
+qv 28 30
+qsv 12
+dft 29 23 1
+qsv 12
+qcs
+qsv 12
+qv 18 23
+qsv 12
+qv 19 7
+qsv 12
+qci 12 31
+qsv 12
+qv 25 7
+qsv 12
+qv 38 29
+qsv 12
+qci 28 35
+qsv 12
+qci 5 79
+qsv 12
+qtvs 18 1
+qsv 12
+qv 25 16
+qsv 12
+ap 20 DPO-bot-20 100
+qsv 12
+qsp 22 34
+qsv 12
+qtvs 33 1
+qsv 12
+att 1 42 1
+qsv 12
+qv 28 42
+qsv 12
+att 12 23 1
+qsv 12
+qci 24 29
+qsv 12
+qci 28 24
+qsv 12
+qba 37
+qsv 12
+qci 17 18
+qsv 12
+qv 36 7
+qsv 12
+ar 15 42 192
+qsv 12
+at 41 1
+qsv 12
+qv 32 37
+qsv 12
+mr 76 13 -46
+qsv 12
+att 11 2 1
+qsv 12
+ar 4 15 96
+qsv 12
+qbs
+qsv 12
+att 28 29 1
+qsv 12
+att 1 38 1
+qsv 12
+qv 20 2
+qsv 12
+qba 28
+qsv 12
+dft 31 35 1
+qsv 12
+ap 44 DPO-bot-44 77
+qsv 12
+qci 14 9
+qsv 12
+ap 45 DPO-bot-45 50
+qsv 12
+qv 14 45
+qsv 12
+qv 15 26
+qsv 12
+qsp 20 38
+qsv 12
+qci 3 32
+qsv 12
+qbs
+qsv 12
+ap 46 DPO-bot-46 61
+qsv 12
+qv 31 46
+qsv 12
+qtav 21 1
+qsv 12
+qv 67 37
+qsv 12
+qts
+qsv 12
+att 15 13 1
+qsv 12
+att 1 34 1
+qsv 12
+dft 31 27 1
+qsv 12
+att 1 39 1
+qsv 12
+att 1 41 1
+qsv 12
+qci 39 32
+qsv 12
+att 33 1 1
+qsv 12
+att 47 46 64
+qsv 12
+qbs
+qsv 12
+att 1 45 1
+qsv 12
+qba 8
+qsv 12
+att 47 46 31
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+att 11 18 1
+qsv 12
+qci 40 42
+qsv 12
+att 14 37 1
+qsv 12
+att 33 21 1
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+att 40 40 1
+qsv 12
+ar 41 9 71
+qsv 12
+att 1 36 1
+qsv 12
+ar 3 41 22
+qsv 12
+att 40 40 1
+qsv 12
+at 38 1
+qsv 12
+at 38 1
+qsv 12
+qci 29 27
+qsv 12
+qv 31 29
+qsv 12
+qv 7 25
+qsv 12
+qci 6 32
+qsv 12
+qsp 41 15
+qsv 12
+qv 15 23
+qsv 12
+att 12 7 1
+qsv 12
+att 3 2 1
+qsv 12
+qcs
+qsv 12
+qci 3 14
+qsv 12
+att 22 30 1
+qsv 12
+qv 29 20
+qsv 12
+att 22 17 1
+qsv 12
+qv 35 3
+qsv 12
+qv 44 15
+qsv 12
+att 2 4 1
+qsv 12
+qv 2 8
+qsv 12
+qv 24 40
+qsv 12
+qv 39 9
+qsv 12
+att 29 1 1
+qsv 12
+qci 44 32
+qsv 12
+mr 34 41 -155
+qsv 12
+qcs
+qsv 12
+qtvs 21 1
+qsv 12
+att 14 37 1
+qsv 12
+qci 27 29
+qsv 12
+qv 19 35
+qsv 12
+att 1 34 1
+qsv 12
+qv 7 13
+qsv 12
+qbs
+qsv 12
+att 8 6 1
+qsv 12
+ar 10 33 78
+qsv 12
+at 4 1
+qsv 12
+att 30 22 1
+qsv 12
+dft 4 20 1
+qsv 12
+qv 38 29
+qsv 12
+ar 28 40 80
+qsv 12
+qv 25 40
+qsv 12
+dft 31 27 1
+qsv 12
+dft 28 40 1
+qsv 12
+qv 45 7
+qsv 12
+qci 44 12
+qsv 12
+qv 16 36
+qsv 12
+qv 39 25
+qsv 12
+qv 4 42
+qsv 12
+ap 47 DPO-bot-47 10
+qsv 12
+qv 10 27
+qsv 12
+qcs
+qsv 12
+qv 20 41
+qsv 12
+qv 7 30
+qsv 12
+qcs
+qsv 12
+qv 4 22
+qsv 12
+qv 25 45
+qsv 12
+qv 12 30
+qsv 12
+att 1 39 1
+qsv 12
+qv 31 17
+qsv 12
+qci 16 45
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+qci 29 39
+qsv 12
+ar 40 20 168
+qsv 12
+qci 37 10
+qsv 12
+ap 48 DPO-bot-48 29
+qsv 12
+dft 6 4 1
+qsv 12
+qci 16 15
+qsv 12
+att 16 9 1
+qsv 12
+qv 15 39
+qsv 12
+att 5 4 1
+qsv 12
+qci 37 48
+qsv 12
+att 1 36 1
+qsv 12
+qv 24 18
+qsv 12
+att 1 32 1
+qsv 12
+att 1 39 1
+qsv 12
+qv 18 30
+qsv 12
+dft 31 13 1
+qsv 12
+att 1 25 1
+qsv 12
+ap 49 DPO-bot-49 6
+qsv 12
+ar 34 8 163
+qsv 12
+att 50 49 61
+qsv 12
+qv 1 42
+qsv 12
+qtav 7 1
+qsv 12
+ap 5 DPO-bot-5 86
+qsv 12
+ar 8 14 23
+qsv 12
+att 1 47 1
+qsv 12
+qba 30
+qsv 12
+att 31 35 1
+qsv 12
+qv 34 12
+qsv 12
+qci 11 3
+qsv 12
+dft 1 39 1
+qsv 12
+att 28 40 1
+qsv 12
+dft 17 4 1
+qsv 12
+att 7 26 1
+qsv 12
+att 1 32 1
+qsv 12
+ap 50 DPO-bot-50 71
+qsv 12
+att 30 22 1
+qsv 12
+dft 7 26 1
+qsv 12
+dft 1 43 1
+qsv 12
+att 17 22 1
+qsv 12
+qtvs 43 1
+qsv 12
+qbs
+qsv 12
+qci 17 15
+qsv 12
+dft 22 17 1
+qsv 12
+qtav 4 1
+qsv 12
+qv 34 11
+qsv 12
+qv 32 3
+qsv 12
+qtav 34 1
+qsv 12
+qv 25 50
+qsv 12
+att 51 50 28
+qsv 12
+att 9 41 1
+qsv 12
+att 4 15 1
+qsv 12
+qba 11
+qsv 12
+qv 28 8
+qsv 12
+qv 12 44
+qsv 12
+att 8 9 1
+qsv 12
+qv 46 12
+qsv 12
+qci 23 15
+qsv 12
+qv 81 31
+qsv 12
+qv 8 37
+qsv 12
+dft 12 13 1
+qsv 12
+ar 31 23 143
+qsv 12
+qci 15 50
+qsv 12
+qv 3 45
+qsv 12
+att 51 89 76
+qsv 12
+mr 19 31 -123
+qsv 12
+att 1 39 1
+qsv 12
+qts
+qsv 12
+qtvs 17 1
+qsv 12
+att 12 7 1
+qsv 12
+qv 42 6
+qsv 12
+qcs
+qsv 12
+att 6 9 1
+qsv 12
+qv 13 43
+qsv 12
+qv 44 39
+qsv 12
+qv 36 18
+qsv 12
+ar 35 41 84
+qsv 12
+att 42 15 1
+qsv 12
+qba 45
+qsv 12
+qv 14 15
+qsv 12
+qv 35 43
+qsv 12
+qci 44 8
+qsv 12
+qci 33 19
+qsv 12
+qv 29 43
+qsv 12
+qcs
+qsv 12
+qba 19
+qsv 12
+at 28 1
+qsv 12
+qba 16
+qsv 12
+att 14 5 1
+qsv 12
+qv 6 22
+qsv 12
+qci 27 44
+qsv 12
+qv 12 17
+qsv 12
+qtvs 1 1
+qsv 12
+qv 34 11
+qsv 12
+at 29 1
+qsv 12
+ar 44 24 7
+qsv 12
+qv 38 14
+qsv 12
+qv 6 27
+qsv 12
+att 2 33 1
+qsv 12
+att 51 60 95
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+att 22 17 1
+qsv 12
+qba 19
+qsv 12
+qv 5 18
+qsv 12
+qsp 35 3
+qsv 12
+att 28 29 1
+qsv 12
+qv 39 9
+qsv 12
+att 7 26 1
+qsv 12
+ar 48 20 78
+qsv 12
+dft 10 14 1
+qsv 12
+att 1 39 1
+qsv 12
+qci 32 38
+qsv 12
+att 14 37 1
+qsv 12
+qci 28 14
+qsv 12
+qv 5 20
+qsv 12
+qv 38 19
+qsv 12
+qci 11 5
+qsv 12
+dt 13 1
+qsv 12
+ap 34 DPO-bot-34 148
+qsv 12
+qv 27 35
+qsv 12
+dft 33 18 1
+qsv 12
+qv 6 11
+qsv 12
+qbs
+qsv 12
+ap 49 DPO-bot-49 6
+qsv 12
+ar 9 33 162
+qsv 12
+qv 32 48
+qsv 12
+qv 15 38
+qsv 12
+att 2 13 1
+qsv 12
+qci 44 22
+qsv 12
+qba 10
+qsv 12
+dft 14 37 1
+qsv 12
+att 20 48 1
+qsv 12
+qci 48 47
+qsv 12
+dft 10 6 1
+qsv 12
+att 24 44 1
+qsv 12
+qv 37 18
+qsv 12
+att 18 7 1
+qsv 12
+qv 41 7
+qsv 12
+ap 51 DPO-bot-51 63
+qsv 12
+qts
+qsv 12
+qv 8 5
+qsv 12
+att 4 15 1
+qsv 12
+dft 35 41 1
+qsv 12
+qsp 1 45
+qsv 12
+att 11 11 1
+qsv 12
+dft 1 49 1
+qsv 12
+att 8 34 1
+qsv 12
+att 1 38 1
+qsv 12
+att 6 23 1
+qsv 12
+att 9 3 1
+qsv 12
+qtvs 18 1
+qsv 12
+qba 24
+qsv 12
+qv 8 43
+qsv 12
+qv 42 40
+qsv 12
+qts
+qsv 12
+qci 28 42
+qsv 12
+qtvs 3 1
+qsv 12
+att 34 8 4
+qsv 12
+qci 16 12
+qsv 12
+qv 4 37
+qsv 12
+qv 32 17
+qsv 12
+att 20 48 1
+qsv 12
+qcs
+qsv 12
+qv 19 32
+qsv 12
+att 20 11 1
+qsv 12
+att 1 50 1
+qsv 12
+qv 29 2
+qsv 12
+ap 26 DPO-bot-26 150
+qsv 12
+qts
+qsv 12
+dft 16 30 1
+qsv 12
+ap 52 DPO-bot-52 81
+qsv 12
+qsp 14 48
+qsv 12
+att 24 44 1
+qsv 12
+qv 34 14
+qsv 12
+ar 30 4 147
+qsv 12
+mr 10 42 -183
+qsv 12
+att 11 11 1
+qsv 12
+ar 15 26 61
+qsv 12
+qci 47 34
+qsv 12
+att 1 51 1
+qsv 12
+ar 12 24 37
+qsv 12
+qv 4 20
+qsv 12
+att 22 24 1
+qsv 12
+ar 21 32 90
+qsv 12
+qv 10 19
+qsv 12
+qba 49
+qsv 12
+att 20 48 1
+qsv 12
+qv 15 29
+qsv 12
+qci 32 36
+qsv 12
+qtav 26 1
+qsv 12
+qci 27 19
+qsv 12
+qv 44 40
+qsv 12
+att 4 17 1
+qsv 12
+qci 6 2
+qsv 12
+att 15 42 1
+qsv 12
+qci 13 5
+qsv 12
+qv 2 93
+qsv 12
+qci 51 95
+qsv 12
+qsp 16 30
+qsv 12
+ap 36 DPO-bot-36 2
+qsv 12
+ap 53 DPO-bot-53 25
+qsv 12
+ar 21 4 178
+qsv 12
+qci 11 48
+qsv 12
+qv 33 31
+qsv 12
+qts
+qsv 12
+qci 49 53
+qsv 12
+qv 22 18
+qsv 12
+qcs
+qsv 12
+qv 31 53
+qsv 12
+qci 39 8
+qsv 12
+att 1 47 1
+qsv 12
+qv 71 44
+qsv 12
+qtvs 24 1
+qsv 12
+qci 12 14
+qsv 12
+att 54 100 79
+qsv 12
+qv 17 29
+qsv 12
+qci 16 2
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+at 23 1
+qsv 12
+ap 54 DPO-bot-54 93
+qsv 12
+qv 36 48
+qsv 12
+mr 49 50 -36
+qsv 12
+at 29 1
+qsv 12
+qsp 74 11
+qsv 12
+qcs
+qsv 12
+qv 21 46
+qsv 12
+att 1 50 1
+qsv 12
+qbs
+qsv 12
+qcs
+qsv 12
+qci 50 43
+qsv 12
+ap 54 DPO-bot-54 93
+qsv 12
+qv 27 86
+qsv 12
+att 2 33 1
+qsv 12
+qtvs 22 1
+qsv 12
+qv 35 46
+qsv 12
+qci 24 18
+qsv 12
+dft 24 44 1
+qsv 12
+qv 16 52
+qsv 12
+dft 4 5 1
+qsv 12
+qv 38 22
+qsv 12
+qcs
+qsv 12
+att 1 4 1
+qsv 12
+att 29 28 1
+qsv 12
+qci 44 12
+qsv 12
+ar 45 49 21
+qsv 12
+qsp 79 45
+qsv 12
+att 11 20 1
+qsv 12
+qv 38 33
+qsv 12
+att 1 4 1
+qsv 12
+qv 31 34
+qsv 12
+at 14 1
+qsv 12
+at 39 1
+qsv 12
+ap 55 DPO-bot-55 128
+qsv 12
+att 1 20 1
+qsv 12
+qts
+qsv 12
+qv 8 11
+qsv 12
+at 6 1
+qsv 12
+dt 24 1
+qsv 12
+qci 26 36
+qsv 12
+ap 46 DPO-bot-46 61
+qsv 12
+att 28 29 1
+qsv 12
+qv 44 50
+qsv 12
+att 26 15 1
+qsv 12
+att 1 53 1
+qsv 12
+qv 48 8
+qsv 12
+qci 4 5
+qsv 12
+ar 20 30 40
+qsv 12
+qci 8 1
+qsv 12
+qts
+qsv 12
+dft 15 42 1
+qsv 12
+ar 2 26 28
+qsv 12
+qba 35
+qsv 12
+qv 43 12
+qsv 12
+ap 56 DPO-bot-56 122
+qsv 12
+qci 40 28
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+att 29 24 1
+qsv 12
+att 26 15 1
+qsv 12
+qtav 38 1
+qsv 12
+qv 33 76
+qsv 12
+qv 31 42
+qsv 12
+qv 2 52
+qsv 12
+att 24 29 1
+qsv 12
+qts
+qsv 12
+qv 56 37
+qsv 12
+qtav 33 1
+qsv 12
+dt 50 1
+qsv 12
+qci 20 33
+qsv 12
+att 14 6 1
+qsv 12
+qci 53 29
+qsv 12
+att 28 29 1
+qsv 12
+qci 49 6
+qsv 12
+qts
+qsv 12
+qtav 7 1
+qsv 12
+ap 57 DPO-bot-57 154
+qsv 12
+mr 27 8 -98
+qsv 12
+qci 2 38
+qsv 12
+qtvs 10 1
+qsv 12
+qci 48 19
+qsv 12
+qv 29 4
+qsv 12
+att 1 47 1
+qsv 12
+att 20 48 1
+qsv 12
+qv 9 30
+qsv 12
+dft 30 22 1
+qsv 12
+qci 51 1
+qsv 12
+qv 2 25
+qsv 12
+qtvs 2 1
+qsv 12
+qtvs 18 1
+qsv 12
+qbs
+qsv 12
+dft 58 57 48
+qsv 12
+qci 33 1
+qsv 12
+at 13 1
+qsv 12
+att 1 43 1
+qsv 12
+att 40 28 1
+qsv 12
+qv 37 34
+qsv 12
+qv 49 4
+qsv 12
+att 1 56 1
+qsv 12
+qv 5 50
+qsv 12
+qv 24 36
+qsv 12
+ar 8 6 8
+qsv 12
+qbs
+qsv 12
+att 1 52 1
+qsv 12
+ar 19 25 58
+qsv 12
+qci 25 9
+qsv 12
+qv 25 53
+qsv 12
+qbs
+qsv 12
+qv 17 22
+qsv 12
+att 6 13 1
+qsv 12
+qci 18 22
+qsv 12
+qv 8 14
+qsv 12
+ar 49 52 194
+qsv 12
+att 7 18 1
+qsv 12
+qbs
+qsv 12
+dft 9 41 1
+qsv 12
+ar 14 8 9
+qsv 12
+qtvs 1 1
+qsv 12
+att 24 22 1
+qsv 12
+qv 26 8
+qsv 12
+qba 12
+qsv 12
+att 8 14 1
+qsv 12
+qts
+qsv 12
+qv 38 30
+qsv 12
+qtvs 4 1
+qsv 12
+att 1 39 1
+qsv 12
+qtav 50 1
+qsv 12
+att 52 49 1
+qsv 12
+ar 17 29 61
+qsv 12
+att 1 34 1
+qsv 12
+dft 49 52 1
+qsv 12
+mr 23 56 -133
+qsv 12
+qsp 34 52
+qsv 12
+qci 39 46
+qsv 12
+qv 46 50
+qsv 12
+qci 106 57
+qsv 12
+qci 25 17
+qsv 12
+att 1 54 1
+qsv 12
+qsp 8 25
+qsv 12
+att 7 26 1
+qsv 12
+att 6 12 1
+qsv 12
+ar 5 46 157
+qsv 12
+qtvs 19 1
+qsv 12
+att 48 20 1
+qsv 12
+qv 57 51
+qsv 12
+qv 3 24
+qsv 12
+at 2 1
+qsv 12
+ar 47 53 2
+qsv 12
+qci 23 29
+qsv 12
+qv 41 46
+qsv 12
+att 16 30 1
+qsv 12
+qv 52 29
+qsv 12
+qv 16 18
+qsv 12
+dft 18 33 1
+qsv 12
+dft 1 33 1
+qsv 12
+qts
+qsv 12
+qtav 39 1
+qsv 12
+qtvs 36 1
+qsv 12
+qv 56 31
+qsv 12
+qv 42 21
+qsv 12
+qv 6 26
+qsv 12
+ar 6 53 164
+qsv 12
+qbs
+qsv 12
+qci 22 4
+qsv 12
+qv 42 46
+qsv 12
+qba 51
+qsv 12
+att 13 31 1
+qsv 12
+qci 3 28
+qsv 12
+qv 19 22
+qsv 12
+att 24 44 1
+qsv 12
+dft 31 27 1
+qsv 12
+att 6 53 1
+qsv 12
+qv 20 16
+qsv 12
+dft 1 29 1
+qsv 12
+qbs
+qsv 12
+qv 35 43
+qsv 12
+ar 4 26 174
+qsv 12
+att 3 41 1
+qsv 12
+qv 33 41
+qsv 12
+dft 1 36 1
+qsv 12
+dft 20 48 1
+qsv 12
+att 12 8 1
+qsv 12
+qv 51 52
+qsv 12
+att 16 9 1
+qsv 12
+att 17 29 1
+qsv 12
+qv 34 5
+qsv 12
+qv 17 55
+qsv 12
+att 13 31 1
+qsv 12
+att 24 22 1
+qsv 12
+qba 27
+qsv 12
+qtav 48 1
+qsv 12
+qv 8 52
+qsv 12
+qci 12 45
+qsv 12
+qci 37 33
+qsv 12
+qci 30 18
+qsv 12
+qv 7 35
+qsv 12
+qts
+qsv 12
+dft 1 50 1
+qsv 12
+qv 15 16
+qsv 12
+att 12 7 1
+qsv 12
+qci 32 27
+qsv 12
+qv 22 38
+qsv 12
+qv 19 17
+qsv 12
+qv 22 19
+qsv 12
+att 1 36 1
+qsv 12
+qv 44 2
+qsv 12
+qv 42 2
+qsv 12
+qv 2 27
+qsv 12
+ap 58 DPO-bot-58 85
+qsv 12
+qv 19 29
+qsv 12
+qv 50 18
+qsv 12
+qv 55 8
+qsv 12
+qtvs 39 1
+qsv 12
+att 59 68 43
+qsv 12
+qv 36 32
+qsv 12
+mr 11 11 -30
+qsv 12
+att 9 41 1
+qsv 12
+qci 20 54
+qsv 12
+att 15 4 1
+qsv 12
+att 5 12 1
+qsv 12
+qtav 52 1
+qsv 12
+ap 41 DPO-bot-41 91
+qsv 12
+dft 23 12 1
+qsv 12
+qv 50 3
+qsv 12
+att 1 39 1
+qsv 12
+att 20 7 1
+qsv 12
+mr 14 45 -66
+qsv 12
+qv 33 27
+qsv 12
+att 2 10 1
+qsv 12
+qci 54 1
+qsv 12
+att 13 15 1
+qsv 12
+ar 58 54 84
+qsv 12
+qv 26 29
+qsv 12
+qci 30 24
+qsv 12
+qbs
+qsv 12
+qci 46 1
+qsv 12
+qv 36 23
+qsv 12
+att 20 7 1
+qsv 12
+qba 29
+qsv 12
+ar 34 7 67
+qsv 12
+dft 24 29 1
+qsv 12
+dft 15 29 1
+qsv 12
+qci 1 82
+qsv 12
+qsp 46 38
+qsv 12
+ar 27 25 54
+qsv 12
+qba 25
+qsv 12
+qsp 40 51
+qsv 12
+qv 13 3
+qsv 12
+at 11 1
+qsv 12
+att 23 29 1
+qsv 12
+qtvs 20 1
+qsv 12
+qci 14 28
+qsv 12
+qcs
+qsv 12
+mr 44 27 -19
+qsv 12
+qv 17 21
+qsv 12
+qv 7 13
+qsv 12
+ar 42 3 166
+qsv 12
+qv 14 54
+qsv 12
+qci 8 41
+qsv 12
+ar 51 3 157
+qsv 12
+att 5 46 1
+qsv 12
+ap 59 DPO-bot-59 141
+qsv 12
+qci 12 10
+qsv 12
+qv 9 6
+qsv 12
+att 33 35 1
+qsv 12
+ap 47 DPO-bot-47 10
+qsv 12
+qci 16 8
+qsv 12
+qv 27 34
+qsv 12
+att 3 8 1
+qsv 12
+dt 56 1
+qsv 12
+att 21 32 1
+qsv 12
+qsp 11 5
+qsv 12
+dft 13 6 1
+qsv 12
+qci 5 51
+qsv 12
+qtav 20 1
+qsv 12
+qv 14 12
+qsv 12
+qv 19 14
+qsv 12
+qv 45 44
+qsv 12
+dft 1 55 1
+qsv 12
+qbs
+qsv 12
+qv 47 14
+qsv 12
+qts
+qsv 12
+qv 18 5
+qsv 12
+qv 42 16
+qsv 12
+qci 17 40
+qsv 12
+att 1 43 1
+qsv 12
+ar 58 44 138
+qsv 12
+dft 49 45 1
+qsv 12
+qci 10 20
+qsv 12
+qv 57 29
+qsv 12
+qv 17 9
+qsv 12
+qtav 15 1
+qsv 12
+qtav 25 1
+qsv 12
+att 20 48 1
+qsv 12
+att 24 29 1
+qsv 12
+ar 18 8 85
+qsv 12
+qv 25 31
+qsv 12
+att 1 43 1
+qsv 12
+att 1 56 1
+qsv 12
+qts
+qsv 12
+ap 25 DPO-bot-25 64
+qsv 12
+att 4 26 1
+qsv 12
+dft 1 50 1
+qsv 12
+qci 59 27
+qsv 12
+att 2 26 1
+qsv 12
+ap 42 DPO-bot-42 56
+qsv 12
+qci 35 25
+qsv 12
+att 17 22 1
+qsv 12
+qtav 16 1
+qsv 12
+at 33 1
+qsv 12
+qtvs 10 1
+qsv 12
+at 43 1
+qsv 12
+qci 22 38
+qsv 12
+qba 6
+qsv 12
+qv 53 11
+qsv 12
+att 26 15 1
+qsv 12
+ar 11 51 38
+qsv 12
+qci 35 35
+qsv 12
+qci 4 18
+qsv 12
+qtvs 14 1
+qsv 12
+att 41 35 1
+qsv 12
+qtav 18 1
+qsv 12
+att 25 27 1
+qsv 12
+qv 33 50
+qsv 12
+qv 25 40
+qsv 12
+att 18 33 1
+qsv 12
+qci 57 34
+qsv 12
+qv 26 21
+qsv 12
+qci 28 19
+qsv 12
+att 9 33 1
+qsv 12
+qv 50 37
+qsv 12
+qv 31 39
+qsv 12
+at 10 1
+qsv 12
+qv 32 36
+qsv 12
+ar 32 51 128
+qsv 12
+qv 35 48
+qsv 12
+dt 30 1
+qsv 12
+att 12 2 1
+qsv 12
+mr 5 47 -199
+qsv 12
+att 35 41 1
+qsv 12
+att 7 10 1
+qsv 12
+qts
+qsv 12
+qtav 7 1
+qsv 12
+qv 54 52
+qsv 12
+mr 29 15 -184
+qsv 12
+att 51 32 1
+qsv 12
+att 34 7 1
+qsv 12
+dft 31 27 1
+qsv 12
+qv 34 15
+qsv 12
+qv 10 30
+qsv 12
+qv 6 54
+qsv 12
+qv 56 5
+qsv 12
+qv 59 5
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+at 23 1
+qsv 12
+qv 27 59
+qsv 12
+att 30 4 1
+qsv 12
+att 60 70 60
+qsv 12
+qcs
+qsv 12
+qci 1 25
+qsv 12
+att 12 24 1
+qsv 12
+qci 56 57
+qsv 12
+qv 45 48
+qsv 12
+ap 60 DPO-bot-60 6
+qsv 12
+qtav 25 1
+qsv 12
+qci 10 28
+qsv 12
+qcs
+qsv 12
+qv 9 38
+qsv 12
+ap 61 DPO-bot-61 21
+qsv 12
+qv 2 9
+qsv 12
+att 32 51 1
+qsv 12
+att 11 18 1
+qsv 12
+ap 25 DPO-bot-25 64
+qsv 12
+qv 17 7
+qsv 12
+qv 12 11
+qsv 12
+qv 48 34
+qsv 12
+att 1 50 1
+qsv 12
+qv 15 12
+qsv 12
+qci 24 47
+qsv 12
+at 30 1
+qsv 12
+qba 25
+qsv 12
+qci 30 2
+qsv 12
+ar 57 15 97
+qsv 12
+qci 21 21
+qsv 12
+qv 43 19
+qsv 12
+qci 11 26
+qsv 12
+qba 51
+qsv 12
+qtvs 21 1
+qsv 12
+qba 34
+qsv 12
+qcs
+qsv 12
+att 1 56 1
+qsv 12
+att 26 15 1
+qsv 12
+qsp 45 55
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+at 23 1
+qsv 12
+qbs
+qsv 12
+ar 19 1 190
+qsv 12
+qtav 2 1
+qsv 12
+att 25 27 1
+qsv 12
+qv 17 59
+qsv 12
+qv 10 15
+qsv 12
+qci 38 51
+qsv 12
+att 1 54 1
+qsv 12
+att 44 24 1
+qsv 12
+qci 92 20
+qsv 12
+qtvs 44 1
+qsv 12
+att 20 48 1
+qsv 12
+qci 49 11
+qsv 12
+qv 42 118
+qsv 12
+mr 54 61 -85
+qsv 12
+ap 45 DPO-bot-45 50
+qsv 12
+att 1 50 1
+qsv 12
+qci 61 1
+qsv 12
+ap 33 DPO-bot-33 22
+qsv 12
+att 4 21 1
+qsv 12
+qv 31 1
+qsv 12
+att 28 29 1
+qsv 12
+qv 14 46
+qsv 12
+qci 60 13
+qsv 12
+att 53 47 1
+qsv 12
+dft 1 32 1
+qsv 12
+qv 18 17
+qsv 12
+qcs
+qsv 12
+qv 15 3
+qsv 12
+at 45 1
+qsv 12
+qci 55 56
+qsv 12
+ap 62 DPO-bot-62 180
+qsv 12
+qv 39 21
+qsv 12
+att 25 27 1
+qsv 12
+qci 62 10
+qsv 12
+qtvs 30 1
+qsv 12
+qv 34 8
+qsv 12
+qbs
+qsv 12
+qtvs 39 1
+qsv 12
+qcs
+qsv 12
+att 1 1 1
+qsv 12
+qv 14 12
+qsv 12
+dt 52 1
+qsv 12
+ar 42 50 133
+qsv 12
+qts
+qsv 12
+ar 14 21 154
+qsv 12
+att 29 28 1
+qsv 12
+qts
+qsv 12
+att 1 29 1
+qsv 12
+att 15 57 1
+qsv 12
+att 49 45 1
+qsv 12
+qv 23 25
+qsv 12
+qv 45 29
+qsv 12
+qv 15 52
+qsv 12
+att 44 58 1
+qsv 12
+att 49 45 1
+qsv 12
+qv 62 7
+qsv 12
+ap 14 DPO-bot-14 182
+qsv 12
+att 10 30 1
+qsv 12
+qv 43 47
+qsv 12
+qci 40 42
+qsv 12
+dt 51 1
+qsv 12
+qcs
+qsv 12
+att 16 8 1
+qsv 12
+qcs
+qsv 12
+qci 21 43
+qsv 12
+qci 16 4
+qsv 12
+qv 46 33
+qsv 12
+qv 47 28
+qsv 12
+att 44 24 1
+qsv 12
+qci 34 5
+qsv 12
+qba 38
+qsv 12
+att 1 59 1
+qsv 12
+dft 2 26 1
+qsv 12
+att 1 59 1
+qsv 12
+qv 38 53
+qsv 12
+ap 63 DPO-bot-63 145
+qsv 12
+at 60 1
+qsv 12
+qci 35 22
+qsv 12
+qci 31 4
+qsv 12
+qv 10 71
+qsv 12
+qv 2 28
+qsv 12
+att 8 18 1
+qsv 12
+qv 33 5
+qsv 12
+qv 52 20
+qsv 12
+ar 21 62 3
+qsv 12
+att 1 54 1
+qsv 12
+dt 60 1
+qsv 12
+qcs
+qsv 12
+qv 55 51
+qsv 12
+qtav 18 1
+qsv 12
+qci 43 1
+qsv 12
+qci 26 19
+qsv 12
+qts
+qsv 12
+att 1 61 1
+qsv 12
+dt 34 1
+qsv 12
+qv 62 12
+qsv 12
+mr 2 60 -80
+qsv 12
+att 32 51 1
+qsv 12
+qcs
+qsv 12
+att 18 11 1
+qsv 12
+qtvs 52 1
+qsv 12
+qv 38 19
+qsv 12
+qv 46 29
+qsv 12
+ap 64 DPO-bot-64 15
+qsv 12
+qv 13 4
+qsv 12
+att 2 23 1
+qsv 12
+dft 1 33 1
+qsv 12
+qci 26 35
+qsv 12
+qtav 51 1
+qsv 12
+mr 42 32 -51
+qsv 12
+qv 45 59
+qsv 12
+att 1 38 1
+qsv 12
+att 20 1 1
+qsv 12
+qv 55 22
+qsv 12
+att 5 4 1
+qsv 12
+mr 38 50 -190
+qsv 12
+mr 9 25 -196
+qsv 12
+qci 6 10
+qsv 12
+qtvs 63 1
+qsv 12
+ap 65 DPO-bot-65 194
+qsv 12
+qv 33 57
+qsv 12
+att 1 60 1
+qsv 12
+qv 51 32
+qsv 12
+att 12 24 1
+qsv 12
+qv 50 64
+qsv 12
+qv 19 59
+qsv 12
+qv 34 19
+qsv 12
+qv 40 54
+qsv 12
+qci 39 49
+qsv 12
+qcs
+qsv 12
+att 14 37 1
+qsv 12
+qv 28 47
+qsv 12
+qv 11 24
+qsv 12
+att 1 39 1
+qsv 12
+qsp 57 20
+qsv 12
+qsp 60 63
+qsv 12
+dft 2 6 1
+qsv 12
+qci 25 51
+qsv 12
+qci 1 49
+qsv 12
+att 42 50 1
+qsv 12
+att 35 41 1
+qsv 12
+qtav 8 1
+qsv 12
+dft 3 41 1
+qsv 12
+att 17 22 1
+qsv 12
+qci 21 58
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+qv 47 43
+qsv 12
+qv 39 18
+qsv 12
+att 30 10 1
+qsv 12
+dft 6 12 1
+qsv 12
+qci 56 63
+qsv 12
+qcs
+qsv 12
+att 41 35 1
+qsv 12
+qv 12 56
+qsv 12
+qv 27 9
+qsv 12
+qcs
+qsv 12
+qtav 18 1
+qsv 12
+qcs
+qsv 12
+at 5 1
+qsv 12
+qsp 7 50
+qsv 12
+qts
+qsv 12
+qci 15 60
+qsv 12
+at 61 1
+qsv 12
+att 9 5 1
+qsv 12
+ap 66 DPO-bot-66 173
+qsv 12
+dft 28 40 1
+qsv 12
+att 35 31 1
+qsv 12
+qts
+qsv 12
+att 11 11 1
+qsv 12
+qv 12 45
+qsv 12
+dft 20 30 1
+qsv 12
+att 1 39 1
+qsv 12
+qv 12 5
+qsv 12
+att 33 2 1
+qsv 12
+qci 13 52
+qsv 12
+qbs
+qsv 12
+qv 16 19
+qsv 12
+qv 64 59
+qsv 12
+att 20 40 1
+qsv 12
+att 17 29 1
+qsv 12
+att 45 49 1
+qsv 12
+att 20 30 1
+qsv 12
+qci 1 7
+qsv 12
+qsp 38 50
+qsv 12
+att 19 25 1
+qsv 12
+qv 61 1
+qsv 12
+att 35 41 1
+qsv 12
+qv 51 5
+qsv 12
+qci 5 41
+qsv 12
+qsp 38 46
+qsv 12
+qba 41
+qsv 12
+ar 50 34 21
+qsv 12
+qtav 26 1
+qsv 12
+qv 10 35
+qsv 12
+qsp 8 25
+qsv 12
+qv 4 64
+qsv 12
+ap 67 DPO-bot-67 199
+qsv 12
+att 1 56 1
+qsv 12
+qci 56 63
+qsv 12
+att 9 7 1
+qsv 12
+qtvs 32 1
+qsv 12
+ap 41 DPO-bot-41 91
+qsv 12
+dft 1 61 1
+qsv 12
+att 14 37 1
+qsv 12
+qci 5 9
+qsv 12
+att 42 50 1
+qsv 12
+att 4 40 1
+qsv 12
+qv 44 45
+qsv 12
+qv 33 29
+qsv 12
+qv 14 16
+qsv 12
+qtvs 36 1
+qsv 12
+dft 40 20 1
+qsv 12
+qci 12 52
+qsv 12
+qci 38 56
+qsv 12
+qci 1 52
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+att 14 5 1
+qsv 12
+qv 60 20
+qsv 12
+att 50 34 1
+qsv 12
+qv 56 49
+qsv 12
+dt 45 1
+qsv 12
+qv 38 27
+qsv 12
+qtvs 2 1
+qsv 12
+ar 27 35 57
+qsv 12
+att 31 27 1
+qsv 12
+att 1 19 1
+qsv 12
+qv 64 9
+qsv 12
+qv 16 52
+qsv 12
+qv 44 18
+qsv 12
+qv 30 8
+qsv 12
+qv 52 40
+qsv 12
+at 7 1
+qsv 12
+att 7 16 1
+qsv 12
+att 1 63 1
+qsv 12
+att 19 8 1
+qsv 12
+qci 21 59
+qsv 12
+qv 45 11
+qsv 12
+att 13 31 1
+qsv 12
+qv 30 50
+qsv 12
+att 5 46 1
+qsv 12
+qci 25 61
+qsv 12
+qci 53 55
+qsv 12
+qv 63 19
+qsv 12
+att 1 55 1
+qsv 12
+ap 68 DPO-bot-68 147
+qsv 12
+qv 6 56
+qsv 12
+qv 57 62
+qsv 12
+ar 38 85 194
+qsv 12
+att 9 41 1
+qsv 12
+qv 15 53
+qsv 12
+att 1 54 1
+qsv 12
+qbs
+qsv 12
+ar 35 68 50
+qsv 12
+att 9 3 1
+qsv 12
+qv 10 12
+qsv 12
+att 12 5 1
+qsv 12
+att 6 3 1
+qsv 12
+att 8 12 1
+qsv 12
+dt 22 1
+qsv 12
+qtav 43 1
+qsv 12
+att 4 15 1
+qsv 12
+qsp 46 26
+qsv 12
+att 1 63 1
+qsv 12
+qci 39 3
+qsv 12
+att 32 51 1
+qsv 12
+mr 47 1 -67
+qsv 12
+att 8 34 1
+qsv 12
+mr 65 61 -190
+qsv 12
+qv 39 4
+qsv 12
+qv 30 54
+qsv 12
+qts
+qsv 12
+ar 26 54 150
+qsv 12
+dft 24 44 1
+qsv 12
+qv 44 27
+qsv 12
+qci 53 28
+qsv 12
+qbs
+qsv 12
+ar 29 36 196
+qsv 12
+qv 52 19
+qsv 12
+qv 18 49
+qsv 12
+qv 12 21
+qsv 12
+qv 22 3
+qsv 12
+at 36 1
+qsv 12
+ap 30 DPO-bot-30 193
+qsv 12
+att 1 56 1
+qsv 12
+qts
+qsv 12
+qci 5 51
+qsv 12
+qts
+qsv 12
+qci 25 47
+qsv 12
+qts
+qsv 12
+att 6 4 1
+qsv 12
+att 9 16 1
+qsv 12
+att 26 54 1
+qsv 12
+att 1 64 1
+qsv 12
+qci 55 23
+qsv 12
+ap 24 DPO-bot-24 20
+qsv 12
+qv 63 22
+qsv 12
+qts
+qsv 12
+att 9 16 1
+qsv 12
+att 50 42 1
+qsv 12
+att 3 42 1
+qsv 12
+att 5 46 1
+qsv 12
+att 1 56 1
+qsv 12
+att 1 56 1
+qsv 12
+qv 34 33
+qsv 12
+qci 8 66
+qsv 12
+ap 69 DPO-bot-69 40
+qsv 12
+qv 62 29
+qsv 12
+qv 9 11
+qsv 12
+qv 32 47
+qsv 12
+att 35 27 1
+qsv 12
+att 1 59 1
+qsv 12
+qtav 16 1
+qsv 12
+att 1 56 1
+qsv 12
+qv 54 43
+qsv 12
+qtav 21 1
+qsv 12
+dft 14 37 1
+qsv 12
+qv 22 9
+qsv 12
+att 49 45 1
+qsv 12
+qv 49 63
+qsv 12
+att 70 101 54
+qsv 12
+qv 55 62
+qsv 12
+qv 17 3
+qsv 12
+ap 70 DPO-bot-70 18
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+qv 41 69
+qsv 12
+at 18 1
+qsv 12
+ar 49 13 29
+qsv 12
+qci 42 14
+qsv 12
+qts
+qsv 12
+att 1 65 1
+qsv 12
+ar 54 22 160
+qsv 12
+ap 71 DPO-bot-71 149
+qsv 12
+ap 72 DPO-bot-72 49
+qsv 12
+ar 59 41 61
+qsv 12
+qv 66 44
+qsv 12
+qsp 67 28
+qsv 12
+qtvs 7 1
+qsv 12
+qv 45 41
+qsv 12
+qci 24 51
+qsv 12
+qv 57 70
+qsv 12
+qtvs 66 1
+qsv 12
+att 2 26 1
+qsv 12
+qv 15 45
+qsv 12
+qv 46 56
+qsv 12
+qcs
+qsv 12
+att 20 48 1
+qsv 12
+qts
+qsv 12
+qv 98 16
+qsv 12
+dft 49 45 1
+qsv 12
+att 9 1 1
+qsv 12
+qbs
+qsv 12
+qci 6 24
+qsv 12
+qci 31 34
+qsv 12
+qv 72 24
+qsv 12
+qts
+qsv 12
+att 50 34 1
+qsv 12
+att 1 60 1
+qsv 12
+qci 45 25
+qsv 12
+qci 69 39
+qsv 12
+att 11 11 1
+qsv 12
+qci 16 34
+qsv 12
+att 3 42 1
+qsv 12
+qci 41 63
+qsv 12
+qv 8 34
+qsv 12
+dt 42 1
+qsv 12
+qci 39 58
+qsv 12
+att 41 59 1
+qsv 12
+qv 47 65
+qsv 12
+qtav 43 1
+qsv 12
+qv 10 26
+qsv 12
+att 24 44 1
+qsv 12
+qsp 4 5
+qsv 12
+mr 23 28 -31
+qsv 12
+att 33 21 1
+qsv 12
+qv 66 46
+qsv 12
+ar 66 61 198
+qsv 12
+qv 46 15
+qsv 12
+qv 51 47
+qsv 12
+ar 37 41 145
+qsv 12
+dft 27 35 1
+qsv 12
+att 14 5 1
+qsv 12
+ap 73 DPO-bot-73 196
+qsv 12
+dft 20 11 1
+qsv 12
+qv 40 51
+qsv 12
+mr 15 73 -75
+qsv 12
+dt 42 1
+qsv 12
+qv 29 28
+qsv 12
+qci 55 12
+qsv 12
+ap 26 DPO-bot-26 150
+qsv 12
+att 49 45 1
+qsv 12
+qv 32 3
+qsv 12
+qv 51 22
+qsv 12
+qci 30 20
+qsv 12
+att 49 45 1
+qsv 12
+att 20 11 1
+qsv 12
+att 49 45 1
+qsv 12
+qv 14 60
+qsv 12
+att 1 55 1
+qsv 12
+qv 41 63
+qsv 12
+att 1 39 1
+qsv 12
+qci 23 10
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+qv 19 11
+qsv 12
+dft 10 30 1
+qsv 12
+qtav 14 1
+qsv 12
+qba 43
+qsv 12
+qsp 47 12
+qsv 12
+qv 2 50
+qsv 12
+att 1 68 1
+qsv 12
+qv 67 33
+qsv 12
+att 1 64 1
+qsv 12
+att 44 24 1
+qsv 12
+qv 72 35
+qsv 12
+qv 2 66
+qsv 12
+ar 143 17 112
+qsv 12
+qv 26 50
+qsv 12
+att 42 50 1
+qsv 12
+att 11 51 1
+qsv 12
+ar 6 58 125
+qsv 12
+att 1 70 1
+qsv 12
+qv 64 23
+qsv 12
+qv 1 19
+qsv 12
+dft 1 38 1
+qsv 12
+qbs
+qsv 12
+att 15 42 1
+qsv 12
+ar 57 19 144
+qsv 12
+ap 12 DPO-bot-12 92
+qsv 12
+qv 27 51
+qsv 12
+att 29 36 1
+qsv 12
+qcs
+qsv 12
+qv 21 39
+qsv 12
+qv 21 16
+qsv 12
+qci 69 56
+qsv 12
+att 33 21 1
+qsv 12
+qsp 28 2
+qsv 12
+qci 72 52
+qsv 12
+at 2 1
+qsv 12
+att 3 51 1
+qsv 12
+dft 20 48 1
+qsv 12
+qsp 36 61
+qsv 12
+dt 63 1
+qsv 12
+dft 1 70 1
+qsv 12
+qts
+qsv 12
+qv 40 72
+qsv 12
+qci 13 14
+qsv 12
+att 29 36 1
+qsv 12
+qtvs 48 1
+qsv 12
+qcs
+qsv 12
+qtvs 56 1
+qsv 12
+att 59 41 1
+qsv 12
+qv 56 66
+qsv 12
+ap 74 DPO-bot-74 25
+qsv 12
+at 35 1
+qsv 12
+att 20 48 1
+qsv 12
+att 75 74 78
+qsv 12
+att 1 60 1
+qsv 12
+qci 14 19
+qsv 12
+att 7 22 1
+qsv 12
+mr 7 18 -117
+qsv 12
+att 25 27 1
+qsv 12
+qcs
+qsv 12
+qv 31 66
+qsv 12
+qci 53 60
+qsv 12
+qv 43 48
+qsv 12
+qsp 72 11
+qsv 12
+att 19 25 1
+qsv 12
+qci 9 29
+qsv 12
+mr 54 56 -189
+qsv 12
+qba 49
+qsv 12
+att 15 57 1
+qsv 12
+mr 47 27 -82
+qsv 12
+qsp 58 27
+qsv 12
+qv 65 52
+qsv 12
+qcs
+qsv 12
+att 15 29 1
+qsv 12
+att 12 6 1
+qsv 12
+qv 71 11
+qsv 12
+att 7 16 1
+qsv 12
+ar 74 25 73
+qsv 12
+qci 20 51
+qsv 12
+qv 5 23
+qsv 12
+qci 40 33
+qsv 12
+att 31 35 1
+qsv 12
+att 16 7 1
+qsv 12
+qci 46 21
+qsv 12
+qv 54 22
+qsv 12
+qci 17 72
+qsv 12
+qts
+qsv 12
+qv 58 69
+qsv 12
+qv 60 69
+qsv 12
+at 35 3
+qsv 12
+qba 33
+qsv 12
+qtvs 65 1
+qsv 12
+qv 7 67
+qsv 12
+qv 10 46
+qsv 12
+dft 25 19 1
+qsv 12
+qtav 33 1
+qsv 12
+dft 6 12 1
+qsv 12
+att 49 52 1
+qsv 12
+at 48 1
+qsv 12
+qsp 67 65
+qsv 12
+qv 40 25
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+ar 23 22 97
+qsv 12
+qv 113 59
+qsv 12
+qci 63 111
+qsv 12
+ar 4 44 168
+qsv 12
+qts
+qsv 12
+att 16 9 1
+qsv 12
+att 49 45 1
+qsv 12
+qtav 16 1
+qsv 12
+qv 9 1
+qsv 12
+qci 25 4
+qsv 12
+att 44 58 1
+qsv 12
+att 1 9 1
+qsv 12
+qci 67 53
+qsv 12
+qci 30 31
+qsv 12
+qci 43 25
+qsv 12
+qci 66 34
+qsv 12
+qv 41 12
+qsv 12
+qci 20 17
+qsv 12
+mr 31 47 -48
+qsv 12
+qtav 3 1
+qsv 12
+att 7 9 1
+qsv 12
+att 58 44 1
+qsv 12
+att 41 59 1
+qsv 12
+att 15 6 1
+qsv 12
+qv 16 16
+qsv 12
+dt 11 1
+qsv 12
+qci 61 43
+qsv 12
+qv 22 9
+qsv 12
+qci 51 72
+qsv 12
+qci 61 11
+qsv 12
+att 1 67 1
+qsv 12
+qv 22 25
+qsv 12
+qtav 28 1
+qsv 12
+att 14 10 1
+qsv 12
+qcs
+qsv 12
+ap 75 DPO-bot-75 75
+qsv 12
+qci 1 4
+qsv 12
+att 1 69 1
+qsv 12
+qts
+qsv 12
+at 6 1
+qsv 12
+qci 69 21
+qsv 12
+dft 23 6 1
+qsv 12
+ar 9 16 188
+qsv 12
+ar 50 64 80
+qsv 12
+qv 67 6
+qsv 12
+att 1 19 1
+qsv 12
+att 51 32 1
+qsv 12
+dft 1 69 1
+qsv 12
+qtav 34 1
+qsv 12
+at 73 1
+qsv 12
+at 30 1
+qsv 12
+qci 32 35
+qsv 12
+qv 42 1
+qsv 12
+att 11 14 1
+qsv 12
+qv 44 62
+qsv 12
+att 1 39 1
+qsv 12
+qbs
+qsv 12
+qci 2 4
+qsv 12
+att 6 58 1
+qsv 12
+qtav 7 1
+qsv 12
+mr 59 20 -169
+qsv 12
+qv 73 75
+qsv 12
+att 1 56 1
+qsv 12
+att 10 6 1
+qsv 12
+ar 45 17 107
+qsv 12
+qci 52 12
+qsv 12
+ar 2 33 194
+qsv 12
+att 7 18 1
+qsv 12
+at 33 1
+qsv 12
+qcs
+qsv 12
+dft 40 28 1
+qsv 12
+qv 6 70
+qsv 12
+att 40 20 1
+qsv 12
+qts
+qsv 12
+qba 52
+qsv 12
+qv 11 26
+qsv 12
+qv 41 14
+qsv 12
+att 26 7 1
+qsv 12
+ar 36 5 47
+qsv 12
+qv 15 50
+qsv 12
+ar 10 51 159
+qsv 12
+qcs
+qsv 12
+qv 5 22
+qsv 12
+dt 70 1
+qsv 12
+qv 48 57
+qsv 12
+qv 43 16
+qsv 12
+mr 32 26 -47
+qsv 12
+att 1 67 1
+qsv 12
+qv 31 75
+qsv 12
+mr 34 12 -60
+qsv 12
+qci 50 2
+qsv 12
+qci 1 29
+qsv 12
+qci 69 74
+qsv 12
+qv 71 14
+qsv 12
+qts
+qsv 12
+qci 33 61
+qsv 12
+qtav 58 1
+qsv 12
+qv 61 26
+qsv 12
+qv 13 25
+qsv 12
+att 35 27 1
+qsv 12
+at 4 1
+qsv 12
+qv 17 11
+qsv 12
+qv 64 57
+qsv 12
+qci 64 17
+qsv 12
+qts
+qsv 12
+qv 4 68
+qsv 12
+qbs
+qsv 12
+att 3 37 1
+qsv 12
+qtav 66 1
+qsv 12
+att 76 126 83
+qsv 12
+qv 50 31
+qsv 12
+att 16 8 1
+qsv 12
+at 57 1
+qsv 12
+mr 50 59 -67
+qsv 12
+ap 76 DPO-bot-76 33
+qsv 12
+qtav 15 1
+qsv 12
+qv 8 13
+qsv 12
+qv 65 5
+qsv 12
+att 2 10 1
+qsv 12
+qv 41 67
+qsv 12
+qci 55 76
+qsv 12
+att 1 56 1
+qsv 12
+att 4 21 1
+qsv 12
+qsp 58 13
+qsv 12
+qv 35 73
+qsv 12
+qv 108 50
+qsv 12
+qv 28 68
+qsv 12
+qv 42 13
+qsv 12
+qsp 6 74
+qsv 12
+qba 26
+qsv 12
+qv 32 11
+qsv 12
+att 34 50 1
+qsv 12
+att 19 25 1
+qsv 12
+ar 132 67 107
+qsv 12
+dt 47 1
+qsv 12
+qsp 35 74
+qsv 12
+qci 3 74
+qsv 12
+qci 60 66
+qsv 12
+qtav 45 1
+qsv 12
+qcs
+qsv 12
+qtav 30 1
+qsv 12
+at 68 1
+qsv 12
+ar 5 36 105
+qsv 12
+qv 44 69
+qsv 12
+dft 13 49 1
+qsv 12
+att 1 68 1
+qsv 12
+att 4 17 1
+qsv 12
+mr 34 10 -65
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+qsp 31 71
+qsv 12
+att 1 56 1
+qsv 12
+qv 43 62
+qsv 12
+att 1 43 1
+qsv 12
+qv 48 65
+qsv 12
+qv 3 65
+qsv 12
+qci 42 33
+qsv 12
+ap 77 DPO-bot-77 74
+qsv 12
+qv 19 10
+qsv 12
+qv 67 16
+qsv 12
+qv 14 21
+qsv 12
+qv 12 4
+qsv 12
+qci 68 31
+qsv 12
+att 13 31 1
+qsv 12
+qv 77 1
+qsv 12
+ar 31 22 195
+qsv 12
+qv 9 74
+qsv 12
+qv 27 77
+qsv 12
+dft 20 11 1
+qsv 12
+qv 52 21
+qsv 12
+qba 56
+qsv 12
+ar 17 74 122
+qsv 12
+qci 11 20
+qsv 12
+att 49 52 1
+qsv 12
+qci 73 11
+qsv 12
+dft 50 64 1
+qsv 12
+qv 57 27
+qsv 12
+dft 49 45 1
+qsv 12
+qv 40 74
+qsv 12
+qci 2 45
+qsv 12
+qci 4 31
+qsv 12
+qv 71 59
+qsv 12
+at 53 1
+qsv 12
+qci 30 65
+qsv 12
+qcs
+qsv 12
+att 31 27 1
+qsv 12
+qv 62 47
+qsv 12
+qv 20 20
+qsv 12
+qv 31 47
+qsv 12
+dft 17 45 1
+qsv 12
+qci 50 5
+qsv 12
+qtvs 53 1
+qsv 12
+qba 10
+qsv 12
+att 10 51 1
+qsv 12
+qbs
+qsv 12
+dft 1 55 1
+qsv 12
+qts
+qsv 12
+att 50 64 1
+qsv 12
+att 40 20 1
+qsv 12
+dft 40 40 1
+qsv 12
+dft 29 28 1
+qsv 12
+dft 7 26 2
+qsv 12
+qtav 43 1
+qsv 12
+qci 5 77
+qsv 12
+qci 18 13
+qsv 12
+qtvs 18 1
+qsv 12
+at 11 1
+qsv 12
+at 54 1
+qsv 12
+qv 22 39
+qsv 12
+qv 59 71
+qsv 12
+ap 44 DPO-bot-44 77
+qsv 12
+qtvs 28 1
+qsv 12
+ar 7 27 54
+qsv 12
+att 1 56 1
+qsv 12
+att 1 76 1
+qsv 12
+mr 33 133 -114
+qsv 12
+qv 60 40
+qsv 12
+att 21 62 1
+qsv 12
+dft 1 70 1
+qsv 12
+dft 6 53 1
+qsv 12
+ar 63 1 117
+qsv 12
+att 28 29 1
+qsv 12
+qv 2 1
+qsv 12
+qv 21 35
+qsv 12
+ap 46 DPO-bot-46 61
+qsv 12
+qsp 37 62
+qsv 12
+qv 45 26
+qsv 12
+ap 70 DPO-bot-70 18
+qsv 12
+dft 19 57 1
+qsv 12
+ar 52 6 84
+qsv 12
+qv 66 61
+qsv 12
+qba 3
+qsv 12
+ar 28 7 167
+qsv 12
+dft 1 38 1
+qsv 12
+dft 1 33 1
+qsv 12
+qv 46 34
+qsv 12
+at 59 1
+qsv 12
+qv 64 37
+qsv 12
+qsp 47 14
+qsv 12
+qts
+qsv 12
+qci 40 24
+qsv 12
+qba 41
+qsv 12
+qv 13 1
+qsv 12
+att 15 13 1
+qsv 12
+att 33 9 1
+qsv 12
+qv 19 52
+qsv 12
+qv 36 73
+qsv 12
+ar 31 34 143
+qsv 12
+qci 24 32
+qsv 12
+qci 15 60
+qsv 12
+qv 18 76
+qsv 12
+qci 59 65
+qsv 12
+qsp 68 44
+qsv 12
+qv 68 6
+qsv 12
+ap 43 DPO-bot-43 105
+qsv 12
+ap 78 DPO-bot-78 16
+qsv 12
+dft 8 34 1
+qsv 12
+att 28 40 1
+qsv 12
+ar 42 38 63
+qsv 12
+qv 72 67
+qsv 12
+qv 21 59
+qsv 12
+ap 79 DPO-bot-79 76
+qsv 12
+qv 41 79
+qsv 12
+mr 71 79 -124
+qsv 12
+qv 3 57
+qsv 12
+qv 49 56
+qsv 12
+dt 52 1
+qsv 12
+qbs
+qsv 12
+att 11 51 1
+qsv 12
+qcs
+qsv 12
+ar 54 27 169
+qsv 12
+att 6 52 1
+qsv 12
+qtvs 44 1
+qsv 12
+dft 28 40 1
+qsv 12
+dft 47 53 1
+qsv 12
+ap 55 DPO-bot-55 128
+qsv 12
+dft 11 51 1
+qsv 12
+att 1 69 1
+qsv 12
+qtav 53 1
+qsv 12
+qv 5 62
+qsv 12
+att 1 43 1
+qsv 12
+ar 11 43 199
+qsv 12
+qci 19 27
+qsv 12
+qbs
+qsv 12
+ar 77 9 80
+qsv 12
+qci 7 73
+qsv 12
+qv 22 54
+qsv 12
+att 7 16 1
+qsv 12
+ar 46 3 153
+qsv 12
+att 34 50 1
+qsv 12
+qtvs 41 1
+qsv 12
+att 54 26 1
+qsv 12
+qv 70 77
+qsv 12
+at 23 1
+qsv 12
+qv 66 1
+qsv 12
+qv 58 11
+qsv 12
+qts
+qsv 12
+mr 79 22 -68
+qsv 12
+qv 24 4
+qsv 12
+att 27 7 1
+qsv 12
+qv 35 66
+qsv 12
+qv 6 54
+qsv 12
+ap 61 DPO-bot-61 21
+qsv 12
+qv 6 69
+qsv 12
+ar 34 13 142
+qsv 12
+att 64 50 1
+qsv 12
+qv 77 6
+qsv 12
+qtav 45 1
+qsv 12
+att 2 13 1
+qsv 12
+qv 63 60
+qsv 12
+qts
+qsv 12
+qv 48 26
+qsv 12
+ap 57 DPO-bot-57 154
+qsv 12
+att 40 40 1
+qsv 12
+att 7 27 1
+qsv 12
+qv 21 70
+qsv 12
+qci 9 31
+qsv 12
+qv 52 76
+qsv 12
+qv 79 54
+qsv 12
+at 16 1
+qsv 12
+qci 6 55
+qsv 12
+att 34 50 1
+qsv 12
+qbs
+qsv 12
+qci 78 5
+qsv 12
+att 9 77 1
+qsv 12
+qtvs 43 1
+qsv 12
+qv 55 69
+qsv 12
+qv 63 41
+qsv 12
+qv 21 48
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+qv 28 26
+qsv 12
+att 22 24 1
+qsv 12
+att 16 30 1
+qsv 12
+qci 54 79
+qsv 12
+mr 9 13 -197
+qsv 12
+qtvs 33 1
+qsv 12
+qci 58 54
+qsv 12
+qv 53 17
+qsv 12
+qci 50 10
+qsv 12
+qts
+qsv 12
+dft 61 66 1
+qsv 12
+qci 40 16
+qsv 12
+qsp 17 28
+qsv 12
+qv 59 34
+qsv 12
+att 15 57 1
+qsv 12
+qv 22 76
+qsv 12
+att 7 28 1
+qsv 12
+qv 8 72
+qsv 12
+qci 67 36
+qsv 12
+qsp 73 13
+qsv 12
+qv 7 46
+qsv 12
+qci 26 73
+qsv 12
+dt 32 1
+qsv 12
+qv 3 70
+qsv 12
+qci 29 36
+qsv 12
+qv 42 5
+qsv 12
+qv 5 34
+qsv 12
+qv 60 38
+qsv 12
+att 1 76 1
+qsv 12
+ar 19 68 56
+qsv 12
+qv 72 5
+qsv 12
+qv 44 2
+qsv 12
+qci 16 16
+qsv 12
+att 74 17 1
+qsv 12
+qci 40 29
+qsv 12
+qv 32 79
+qsv 12
+qcs
+qsv 12
+att 19 57 1
+qsv 12
+qv 4 61
+qsv 12
+qv 65 41
+qsv 12
+qv 64 3
+qsv 12
+qtav 16 1
+qsv 12
+att 1 67 1
+qsv 12
+ar 10 30 126
+qsv 12
+att 24 12 1
+qsv 12
+qv 22 72
+qsv 12
+qv 69 4
+qsv 12
+qv 68 54
+qsv 12
+dft 2 33 1
+qsv 12
+att 28 40 1
+qsv 12
+qci 36 48
+qsv 12
+qci 39 3
+qsv 12
+qtav 51 1
+qsv 12
+att 80 88 65
+qsv 12
+qba 68
+qsv 12
+ar 58 68 187
+qsv 12
+ar 40 1 9
+qsv 12
+qv 31 70
+qsv 12
+att 44 4 1
+qsv 12
+qcs
+qsv 12
+att 34 7 1
+qsv 12
+att 30 10 1
+qsv 12
+qv 40 53
+qsv 12
+qci 21 32
+qsv 12
+qsp 27 43
+qsv 12
+qba 42
+qsv 12
+att 3 51 1
+qsv 12
+qci 70 3
+qsv 12
+qv 44 6
+qsv 12
+qci 48 41
+qsv 12
+at 35 4
+qsv 12
+ap 80 DPO-bot-80 105
+qsv 12
+qv 1 15
+qsv 12
+att 3 51 1
+qsv 12
+att 17 74 1
+qsv 12
+qv 38 52
+qsv 12
+qci 7 11
+qsv 12
+att 31 22 1
+qsv 12
+qv 69 21
+qsv 12
+qv 45 7
+qsv 12
+qv 59 9
+qsv 12
+qv 9 28
+qsv 12
+att 13 34 1
+qsv 12
+qv 65 51
+qsv 12
+ap 22 DPO-bot-22 168
+qsv 12
+dt 1 1
+qsv 12
+qv 61 74
+qsv 12
+qv 67 16
+qsv 12
+qv 40 9
+qsv 12
+qsp 65 1
+qsv 12
+qv 21 57
+qsv 12
+qv 35 56
+qsv 12
+att 66 61 1
+qsv 12
+qv 7 41
+qsv 12
+qci 74 16
+qsv 12
+qv 68 25
+qsv 12
+qv 50 79
+qsv 12
+qts
+qsv 12
+qv 45 17
+qsv 12
+att 1 65 1
+qsv 12
+att 36 29 1
+qsv 12
+att 14 37 1
+qsv 12
+att 24 22 1
+qsv 12
+qv 16 72
+qsv 12
+qci 52 59
+qsv 12
+att 6 52 1
+qsv 12
+att 9 33 1
+qsv 12
+qbs
+qsv 12
+qv 40 24
+qsv 12
+att 1 55 1
+qsv 12
+ar 36 5 106
+qsv 12
+att 1 79 1
+qsv 12
+qv 79 24
+qsv 12
+att 32 51 1
+qsv 12
+qv 58 78
+qsv 12
+qts
+qsv 12
+qsp 80 28
+qsv 12
+qv 45 61
+qsv 12
+att 40 28 1
+qsv 12
+qv 59 54
+qsv 12
+att 42 15 1
+qsv 12
+qtav 40 1
+qsv 12
+qv 11 62
+qsv 12
+qv 43 65
+qsv 12
+qci 76 5
+qsv 12
+att 14 5 1
+qsv 12
+ap 35 DPO-bot-35 158
+qsv 12
+qv 5 9
+qsv 12
+qci 41 45
+qsv 12
+att 1 56 1
+qsv 12
+att 1 79 1
+qsv 12
+ap 81 DPO-bot-81 94
+qsv 12
+att 26 15 1
+qsv 12
+att 82 81 27
+qsv 12
+qci 13 81
+qsv 12
+att 14 37 1
+qsv 12
+dft 3 42 1
+qsv 12
+qv 58 2
+qsv 12
+qts
+qsv 12
+att 15 42 1
+qsv 12
+att 34 31 1
+qsv 12
+qba 54
+qsv 12
+qv 78 20
+qsv 12
+qv 77 5
+qsv 12
+ap 82 DPO-bot-82 75
+qsv 12
+qv 59 68
+qsv 12
+qbs
+qsv 12
+qci 38 59
+qsv 12
+qv 28 32
+qsv 12
+qts
+qsv 12
+qv 10 29
+qsv 12
+qci 42 67
+qsv 12
+qv 79 23
+qsv 12
+qv 41 77
+qsv 12
+qv 79 44
+qsv 12
+dt 79 1
+qsv 12
+att 2 23 1
+qsv 12
+att 1 79 1
+qsv 12
+qv 10 14
+qsv 12
+qci 26 17
+qsv 12
+qv 23 55
+qsv 12
+qv 44 39
+qsv 12
+att 30 16 1
+qsv 12
+qv 75 53
+qsv 12
+att 1 81 1
+qsv 12
+qv 71 79
+qsv 12
+qv 18 46
+qsv 12
+qci 49 68
+qsv 12
+dft 1 80 1
+qsv 12
+qci 68 12
+qsv 12
+att 42 38 1
+qsv 12
+ar 37 1 164
+qsv 12
+qv 73 27
+qsv 12
+att 2 13 1
+qsv 12
+qv 75 8
+qsv 12
+att 1 60 1
+qsv 12
+ap 83 DPO-bot-83 193
+qsv 12
+qci 9 66
+qsv 12
+qv 77 29
+qsv 12
+att 1 69 1
+qsv 12
+qci 13 56
+qsv 12
+mr 37 48 -33
+qsv 12
+att 42 38 1
+qsv 12
+qci 3 76
+qsv 12
+qsp 46 31
+qsv 12
+mr 34 1 -151
+qsv 12
+qv 64 59
+qsv 12
+qv 12 1
+qsv 12
+qv 70 33
+qsv 12
+qv 41 73
+qsv 12
+qcs
+qsv 12
+qv 28 60
+qsv 12
+qci 81 15
+qsv 12
+qts
+qsv 12
+att 1 67 1
+qsv 12
+qtvs 28 1
+qsv 12
+qv 83 9
+qsv 12
+qtvs 2 1
+qsv 12
+at 22 1
+qsv 12
+qv 33 60
+qsv 12
+att 1 76 1
+qsv 12
+att 20 48 1
+qsv 12
+att 68 58 1
+qsv 12
+ar 23 63 11
+qsv 12
+att 19 25 1
+qsv 12
+qts
+qsv 12
+ar 32 35 169
+qsv 12
+att 9 77 1
+qsv 12
+qci 81 51
+qsv 12
+att 1 67 1
+qsv 12
+qbs
+qsv 12
+att 13 34 1
+qsv 12
+att 44 58 1
+qsv 12
+ap 84 DPO-bot-84 186
+qsv 12
+qcs
+qsv 12
+qtav 14 1
+qsv 12
+qv 44 74
+qsv 12
+qv 83 13
+qsv 12
+att 48 20 1
+qsv 12
+qv 9 61
+qsv 12
+att 4 2 1
+qsv 12
+qv 61 38
+qsv 12
+mr 13 8 -43
+qsv 12
+qv 53 12
+qsv 12
+att 19 25 1
+qsv 12
+qv 64 16
+qsv 12
+ar 83 14 56
+qsv 12
+qv 71 78
+qsv 12
+ar 66 57 20
+qsv 12
+qcs
+qsv 12
+qsp 27 7
+qsv 12
+qts
+qsv 12
+att 85 84 41
+qsv 12
+att 34 13 1
+qsv 12
+ap 12 DPO-bot-12 92
+qsv 12
+qci 55 2
+qsv 12
+att 1 69 1
+qsv 12
+qv 70 58
+qsv 12
+qv 17 35
+qsv 12
+qv 46 35
+qsv 12
+dft 3 53 1
+qsv 12
+qv 31 23
+qsv 12
+qv 26 65
+qsv 12
+qv 77 11
+qsv 12
+at 68 1
+qsv 12
+att 44 58 1
+qsv 12
+att 19 2 1
+qsv 12
+qv 18 48
+qsv 12
+qv 80 8
+qsv 12
+qv 35 14
+qsv 12
+att 9 77 1
+qsv 12
+qv 61 82
+qsv 12
+qbs
+qsv 12
+att 28 40 1
+qsv 12
+qv 76 32
+qsv 12
+qv 24 77
+qsv 12
+qcs
+qsv 12
+qts
+qsv 12
+dft 1 82 1
+qsv 12
+att 21 62 1
+qsv 12
+qci 73 33
+qsv 12
+att 1 80 1
+qsv 12
+qv 73 8
+qsv 12
+att 61 66 1
+qsv 12
+ar 41 14 162
+qsv 12
+dt 21 1
+qsv 12
+ap 85 DPO-bot-85 51
+qsv 12
+att 27 25 1
+qsv 12
+att 11 51 1
+qsv 12
+mr 84 84 -46
+qsv 12
+dft 37 41 1
+qsv 12
+qci 33 37
+qsv 12
+att 21 62 1
+qsv 12
+qci 20 54
+qsv 12
+ap 86 DPO-bot-86 2
+qsv 12
+att 18 11 1
+qsv 12
+qci 39 28
+qsv 12
+qci 47 62
+qsv 12
+att 14 12 1
+qsv 12
+qtvs 164 47
+qsv 12
+att 66 61 1
+qsv 12
+qv 9 10
+qsv 12
+qbs
+qsv 12
+qv 47 78
+qsv 12
+dft 59 41 1
+qsv 12
+qv 3 72
+qsv 12
+qv 84 24
+qsv 12
+att 87 86 3
+qsv 12
+qtav 57 1
+qsv 12
+at 8 1
+qsv 12
+ap 87 DPO-bot-87 38
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+qv 20 31
+qsv 12
+qci 44 53
+qsv 12
+att 88 173 64
+qsv 12
+att 20 48 1
+qsv 12
+qv 33 8
+qsv 12
+ar 5 30 102
+qsv 12
+att 52 6 1
+qsv 12
+at 60 1
+qsv 12
+qv 74 50
+qsv 12
+qci 83 27
+qsv 12
+qba 73
+qsv 12
+ap 88 DPO-bot-88 152
+qsv 12
+qv 83 88
+qsv 12
+ar 153 8 62
+qsv 12
+ar 79 82 134
+qsv 12
+qv 36 62
+qsv 12
+att 47 53 1
+qsv 12
+ap 89 DPO-bot-89 35
+qsv 12
+ap 90 DPO-bot-90 129
+qsv 12
+att 1 89 1
+qsv 12
+qbs
+qsv 12
+qtav 78 1
+qsv 12
+qv 73 18
+qsv 12
+att 83 14 1
+qsv 12
+qv 84 57
+qsv 12
+att 8 19 1
+qsv 12
+att 37 41 1
+qsv 12
+qci 84 9
+qsv 12
+at 68 1
+qsv 12
+att 19 57 1
+qsv 12
+qv 90 54
+qsv 12
+dft 1 75 1
+qsv 12
+qci 14 78
+qsv 12
+qv 58 6
+qsv 12
+att 63 23 1
+qsv 12
+qv 73 50
+qsv 12
+att 21 62 1
+qsv 12
+qtav 47 1
+qsv 12
+qtvs 15 1
+qsv 12
+qci 12 51
+qsv 12
+qts
+qsv 12
+at 62 1
+qsv 12
+qv 84 20
+qsv 12
+att 1 55 1
+qsv 12
+qsp 12 60
+qsv 12
+dft 34 50 1
+qsv 12
+ar 21 89 177
+qsv 12
+att 21 89 1
+qsv 12
+qbs
+qsv 12
+att 12 5 1
+qsv 12
+qv 44 88
+qsv 12
+qv 90 68
+qsv 12
+qv 57 55
+qsv 12
+ap 83 DPO-bot-83 193
+qsv 12
+qv 16 13
+qsv 12
+att 2 19 1
+qsv 12
+qbs
+qsv 12
+qtvs 80 1
+qsv 12
+att 20 48 1
+qsv 12
+qv 81 84
+qsv 12
+qv 56 24
+qsv 12
+at 58 1
+qsv 12
+qtav 50 1
+qsv 12
+att 1 70 1
+qsv 12
+qv 10 62
+qsv 12
+mr 42 47 -29
+qsv 12
+att 5 36 1
+qsv 12
+att 74 17 1
+qsv 12
+qci 14 47
+qsv 12
+qci 77 53
+qsv 12
+att 1 87 1
+qsv 12
+qv 23 21
+qsv 12
+qv 40 53
+qsv 12
+att 23 29 1
+qsv 12
+ar 47 6 139
+qsv 12
+qv 11 81
+qsv 12
+qcs
+qsv 12
+qv 41 46
+qsv 12
+qci 39 12
+qsv 12
+qtvs 55 1
+qsv 12
+qv 75 23
+qsv 12
+at 35 3
+qsv 12
+qv 6 16
+qsv 12
+ap 45 DPO-bot-45 50
+qsv 12
+att 7 28 1
+qsv 12
+att 91 90 64
+qsv 12
+qci 88 10
+qsv 12
+dft 27 31 1
+qsv 12
+qsp 39 7
+qsv 12
+qba 2
+qsv 12
+att 4 26 1
+qsv 12
+dft 17 74 1
+qsv 12
+qba 74
+qsv 12
+qba 4
+qsv 12
+qci 69 79
+qsv 12
+qsp 73 16
+qsv 12
+att 1 80 1
+qsv 12
+qv 60 57
+qsv 12
+qtvs 36 1
+qsv 12
+qv 88 75
+qsv 12
+att 16 8 1
+qsv 12
+qci 5 80
+qsv 12
+qv 89 4
+qsv 12
+qv 76 5
+qsv 12
+qsp 68 38
+qsv 12
+att 1 39 1
+qsv 12
+qci 10 75
+qsv 12
+qci 34 78
+qsv 12
+qv 29 82
+qsv 12
+qv 69 21
+qsv 12
+qci 38 39
+qsv 12
+qci 4 70
+qsv 12
+qv 64 65
+qsv 12
+qci 21 51
+qsv 12
+qba 10
+qsv 12
+ap 62 DPO-bot-62 180
+qsv 12
+qci 56 67
+qsv 12
+att 1 63 1
+qsv 12
+qci 36 39
+qsv 12
+qtvs 73 1
+qsv 12
+att 91 90 42
+qsv 12
+ap 91 DPO-bot-91 179
+qsv 12
+qts
+qsv 12
+ar 62 29 136
+qsv 12
+ap 92 DPO-bot-92 183
+qsv 12
+qv 58 37
+qsv 12
+att 1 71 1
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+ar 5 3 182
+qsv 12
+qv 60 63
+qsv 12
+ap 93 DPO-bot-93 28
+qsv 12
+qv 70 83
+qsv 12
+qv 29 64
+qsv 12
+dft 1 81 1
+qsv 12
+qci 13 68
+qsv 12
+ap 14 DPO-bot-14 182
+qsv 12
+qba 17
+qsv 12
+att 83 14 1
+qsv 12
+att 34 50 1
+qsv 12
+att 1 55 1
+qsv 12
+att 27 25 1
+qsv 12
+att 1 70 1
+qsv 12
+qcs
+qsv 12
+mr 51 23 -103
+qsv 12
+dft 1 78 1
+qsv 12
+qv 52 8
+qsv 12
+qv 76 82
+qsv 12
+ar 82 83 184
+qsv 12
+qv 39 49
+qsv 12
+att 21 89 1
+qsv 12
+qts
+qsv 12
+ap 94 DPO-bot-94 157
+qsv 12
+qci 85 50
+qsv 12
+att 29 15 1
+qsv 12
+qci 32 61
+qsv 12
+qv 80 43
+qsv 12
+qcs
+qsv 12
+qv 30 75
+qsv 12
+qci 87 6
+qsv 12
+qv 64 69
+qsv 12
+att 1 71 1
+qsv 12
+qci 93 72
+qsv 12
+qtvs 28 1
+qsv 12
+qv 18 78
+qsv 12
+dft 15 57 1
+qsv 12
+mr 70 21 -22
+qsv 12
+att 23 31 1
+qsv 12
+qv 53 34
+qsv 12
+att 1 86 1
+qsv 12
+qtvs 31 1
+qsv 12
+ap 95 DPO-bot-95 46
+qsv 12
+qv 60 40
+qsv 12
+qv 9 37
+qsv 12
+qv 1 19
+qsv 12
+att 14 37 1
+qsv 12
+qci 60 14
+qsv 12
+att 1 84 1
+qsv 12
+qv 90 77
+qsv 12
+ar 22 59 120
+qsv 12
+qv 34 62
+qsv 12
+dft 1 94 1
+qsv 12
+dft 1 72 1
+qsv 12
+att 11 51 1
+qsv 12
+qv 9 9
+qsv 12
+qv 10 79
+qsv 12
+mr 35 88 -82
+qsv 12
+qv 62 10
+qsv 12
+mr 36 58 -41
+qsv 12
+ap 96 DPO-bot-96 135
+qsv 12
+qv 38 12
+qsv 12
+att 32 21 1
+qsv 12
+att 68 58 1
+qsv 12
+ar 81 53 12
+qsv 12
+att 1 92 1
+qsv 12
+att 3 2 1
+qsv 12
+att 1 76 1
+qsv 12
+qv 80 32
+qsv 12
+qv 80 40
+qsv 12
+ar 9 40 63
+qsv 12
+qsp 46 79
+qsv 12
+qv 82 9
+qsv 12
+qv 39 93
+qsv 12
+att 11 43 1
+qsv 12
+dft 1 94 1
+qsv 12
+qcs
+qsv 12
+att 32 51 1
+qsv 12
+qci 78 83
+qsv 12
+qv 67 68
+qsv 12
+qba 10
+qsv 12
+att 15 57 1
+qsv 12
+qsp 88 28
+qsv 12
+qv 24 47
+qsv 12
+qci 45 88
+qsv 12
+qv 29 22
+qsv 12
+att 30 22 1
+qsv 12
+qci 26 34
+qsv 12
+qv 52 36
+qsv 12
+qv 80 85
+qsv 12
+att 1 93 1
+qsv 12
+qsp 55 81
+qsv 12
+at 40 1
+qsv 12
+att 1 60 1
+qsv 12
+qv 32 3
+qsv 12
+qbs
+qsv 12
+qv 80 28
+qsv 12
+att 1 85 1
+qsv 12
+ap 90 DPO-bot-90 129
+qsv 12
+qv 69 26
+qsv 12
+qbs
+qsv 12
+qba 73
+qsv 12
+qsp 36 82
+qsv 12
+qci 63 27
+qsv 12
+qcs
+qsv 12
+at 43 1
+qsv 12
+att 82 79 1
+qsv 12
+qsp 66 90
+qsv 12
+dft 82 79 1
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+qci 51 50
+qsv 12
+qbs
+qsv 12
+qba 4
+qsv 12
+qv 51 55
+qsv 12
+qci 89 60
+qsv 12
+qv 74 20
+qsv 12
+att 1 73 1
+qsv 12
+att 1 65 1
+qsv 12
+qcs
+qsv 12
+qv 55 43
+qsv 12
+qci 1 1
+qsv 12
+qsp 15 6
+qsv 12
+qv 78 84
+qsv 12
+qci 41 29
+qsv 12
+ar 96 41 30
+qsv 12
+qci 79 51
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+qci 33 3
+qsv 12
+qv 59 65
+qsv 12
+dft 21 89 1
+qsv 12
+qv 2 86
+qsv 12
+att 1 91 1
+qsv 12
+qv 34 64
+qsv 12
+qcs
+qsv 12
+qci 17 93
+qsv 12
+qv 21 58
+qsv 12
+qtvs 25 1
+qsv 12
+att 1 84 1
+qsv 12
+qv 17 57
+qsv 12
+att 1 72 1
+qsv 12
+ar 74 19 23
+qsv 12
+qci 10 77
+qsv 12
+att 40 40 1
+qsv 12
+dft 11 43 1
+qsv 12
+qci 68 11
+qsv 12
+att 1 86 1
+qsv 12
+att 1 55 1
+qsv 12
+qv 55 40
+qsv 12
+att 1 73 1
+qsv 12
+att 20 48 1
+qsv 12
+qv 24 51
+qsv 12
+ar 75 71 15
+qsv 12
+qtvs 71 1
+qsv 12
+att 21 89 1
+qsv 12
+dt 57 1
+qsv 12
+qv 84 69
+qsv 12
+qts
+qsv 12
+qv 86 59
+qsv 12
+ar 36 76 30
+qsv 12
+at 7 1
+qsv 12
+qts
+qsv 12
+qci 84 10
+qsv 12
+att 13 49 1
+qsv 12
+att 61 66 1
+qsv 12
+qv 41 73
+qsv 12
+att 25 27 1
+qsv 12
+dft 97 96 94
+qsv 12
+att 34 50 1
+qsv 12
+qv 7 47
+qsv 12
+att 58 44 1
+qsv 12
+att 1 86 1
+qsv 12
+qci 18 85
+qsv 12
+att 26 54 1
+qsv 12
+ar 30 43 18
+qsv 12
+ap 97 DPO-bot-97 33
+qsv 12
+att 38 42 1
+qsv 12
+att 6 53 1
+qsv 12
+ar 71 45 116
+qsv 12
+att 1 73 1
+qsv 12
+qci 34 37
+qsv 12
+ap 98 DPO-bot-98 195
+qsv 12
+qv 20 79
+qsv 12
+att 9 77 1
+qsv 12
+ar 21 69 101
+qsv 12
+att 42 38 1
+qsv 12
+qv 23 95
+qsv 12
+ar 32 69 33
+qsv 12
+att 27 25 1
+qsv 12
+ap 76 DPO-bot-76 33
+qsv 12
+qci 40 23
+qsv 12
+att 41 37 1
+qsv 12
+att 9 77 1
+qsv 12
+ar 97 1 95
+qsv 12
+att 8 34 1
+qsv 12
+qcs
+qsv 12
+att 71 75 1
+qsv 12
+qv 40 73
+qsv 12
+mr 37 85 -167
+qsv 12
+qv 31 76
+qsv 12
+qcs
+qsv 12
+att 22 31 1
+qsv 12
+ar 6 98 18
+qsv 12
+qv 47 95
+qsv 12
+qci 7 61
+qsv 12
+dft 49 45 1
+qsv 12
+qv 72 47
+qsv 12
+qci 19 2
+qsv 12
+qci 9 50
+qsv 12
+dft 1 70 1
+qsv 12
+mr 74 7 -189
+qsv 12
+qv 12 18
+qsv 12
+att 1 67 1
+qsv 12
+dft 1 32 1
+qsv 12
+att 32 1 1
+qsv 12
+att 36 76 1
+qsv 12
+qts
+qsv 12
+qtvs 41 1
+qsv 12
+dt 67 1
+qsv 12
+qba 6
+qsv 12
+qbs
+qsv 12
+qtvs 1 1
+qsv 12
+qci 80 44
+qsv 12
+att 2 23 1
+qsv 12
+dft 41 59 1
+qsv 12
+att 1 94 1
+qsv 12
+att 1 87 1
+qsv 12
+qci 84 81
+qsv 12
+att 6 9 1
+qsv 12
+qcs
+qsv 12
+att 6 53 1
+qsv 12
+att 53 81 1
+qsv 12
+ar 77 8 195
+qsv 12
+qts
+qsv 12
+dt 73 1
+qsv 12
+qv 57 61
+qsv 12
+ap 99 DPO-bot-99 112
+qsv 12
+at 71 1
+qsv 12
+qba 6
+qsv 12
+qba 72
+qsv 12
+dft 1 98 1
+qsv 12
+qtvs 51 1
+qsv 12
+qts
+qsv 12
+att 10 33 1
+qsv 12
+att 1 80 1
+qsv 12
+qts
+qsv 12
+mr 17 98 -175
+qsv 12
+dft 50 42 1
+qsv 12
+qba 38
+qsv 12
+att 68 58 1
+qsv 12
+qv 15 3
+qsv 12
+att 43 11 1
+qsv 12
+att 3 46 1
+qsv 12
+qv 32 39
+qsv 12
+qci 55 23
+qsv 12
+dft 75 71 1
+qsv 12
+qv 71 5
+qsv 12
+dft 69 32 1
+qsv 12
+dt 1 1
+qsv 12
+att 2 3 1
+qsv 12
+att 1 92 1
+qsv 12
+dft 19 74 1
+qsv 12
+att 79 82 1
+qsv 12
+qtav 5 1
+qsv 12
+att 10 14 1
+qsv 12
+ap 73 DPO-bot-73 196
+qsv 12
+qsp 53 31
+qsv 12
+qv 59 38
+qsv 12
+att 7 27 1
+qsv 12
+qv 89 60
+qsv 12
+qv 86 86
+qsv 12
+qv 16 66
+qsv 12
+qci 21 24
+qsv 12
+ap 99 DPO-bot-99 112
+qsv 12
+qv 49 17
+qsv 12
+qsp 74 55
+qsv 12
+dft 41 14 1
+qsv 12
+att 44 24 1
+qsv 12
+qci 40 24
+qsv 12
+ar 50 3 6
+qsv 12
+att 1 85 1
+qsv 12
+qci 44 93
+qsv 12
+ap 13 DPO-bot-13 95
+qsv 12
+att 41 37 1
+qsv 12
+qv 36 94
+qsv 12
+qci 87 90
+qsv 12
+att 1 91 1
+qsv 12
+qts
+qsv 12
+qv 53 32
+qsv 12
+qba 93
+qsv 12
+att 1 86 1
+qsv 12
+att 36 76 1
+qsv 12
+qcs
+qsv 12
+qts
+qsv 12
+dft 50 64 1
+qsv 12
+qci 70 58
+qsv 12
+qci 25 92
+qsv 12
+att 28 40 1
+qsv 12
+qsp 18 37
+qsv 12
+at 95 1
+qsv 12
+ap 100 DPO-bot-100 175
+qsv 12
+qv 50 98
+qsv 12
+qv 15 81
+qsv 12
+qv 40 29
+qsv 12
+qci 70 86
+qsv 12
+att 1 85 1
+qsv 12
+qv 40 4
+qsv 12
+att 1 98 1
+qsv 12
+mr 75 86 -73
+qsv 12
+qtav 7 1
+qsv 12
+at 57 1
+qsv 12
+ar 97 8 103
+qsv 12
+qv 81 99
+qsv 12
+att 9 33 1
+qsv 12
+att 21 89 1
+qsv 12
+att 13 31 1
+qsv 12
+qv 14 63
+qsv 12
+qcs
+qsv 12
+qv 6 67
+qsv 12
+qv 70 43
+qsv 12
+qbs
+qsv 12
+att 33 2 1
+qsv 12
+qci 76 16
+qsv 12
+att 35 27 1
+qsv 12
+mr 69 60 -25
+qsv 12
+qv 1 76
+qsv 12
+qv 98 34
+qsv 12
+att 1 80 1
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+att 1 56 1
+qsv 12
+qv 87 46
+qsv 12
+qv 26 13
+qsv 12
+att 3 46 1
+qsv 12
+att 24 29 1
+qsv 12
+qci 13 71
+qsv 12
+mr 90 33 -45
+qsv 12
+qv 10 26
+qsv 12
+qci 95 28
+qsv 12
+qtav 12 1
+qsv 12
+qts
+qsv 12
+att 1 29 1
+qsv 12
+qci 33 98
+qsv 12
+qtav 63 1
+qsv 12
+qv 65 26
+qsv 12
+qv 28 99
+qsv 12
+qbs
+qsv 12
+qv 73 18
+qsv 12
+qba 57
+qsv 12
+qv 89 43
+qsv 12
+qv 38 68
+qsv 12
+qcs
+qsv 12
+ar 31 66 43
+qsv 12
+att 5 3 1
+qsv 12
+ap 60 DPO-bot-60 6
+qsv 12
+ar 58 88 152
+qsv 12
+mr 12 52 -53
+qsv 12
+qci 25 1
+qsv 12
+att 1 85 1
+qsv 12
+att 58 88 1
+qsv 12
+ap 101 DPO-bot-101 46
+qsv 12
+qbs
+qsv 12
+att 1 32 1
+qsv 12
+att 44 58 1
+qsv 12
+att 20 11 1
+qsv 12
+att 42 38 1
+qsv 12
+att 1 55 1
+qsv 12
+qv 58 50
+qsv 12
+att 45 49 1
+qsv 12
+qv 91 98
+qsv 12
+qv 79 55
+qsv 12
+qv 14 99
+qsv 12
+qv 16 39
+qsv 12
+att 3 46 1
+qsv 12
+dft 71 75 1
+qsv 12
+dft 59 22 1
+qsv 12
+qci 56 21
+qsv 12
+qv 59 29
+qsv 12
+qv 82 11
+qsv 12
+dft 1 73 1
+qsv 12
+qci 81 87
+qsv 12
+qv 4 47
+qsv 12
+qtav 83 1
+qsv 12
+qtvs 3 1
+qsv 12
+ap 102 DPO-bot-102 40
+qsv 12
+qtav 66 1
+qsv 12
+qci 18 64
+qsv 12
+ar 102 52 3
+qsv 12
+qci 6 4
+qsv 12
+att 18 7 1
+qsv 12
+att 7 28 1
+qsv 12
+qtav 54 1
+qsv 12
+at 22 1
+qsv 12
+qv 8 100
+qsv 12
+qv 44 29
+qsv 12
+qv 75 97
+qsv 12
+qv 40 97
+qsv 12
+qba 97
+qsv 12
+qv 58 55
+qsv 12
+mr 10 68 -30
+qsv 12
+att 22 54 1
+qsv 12
+att 38 42 1
+qsv 12
+ar 32 90 91
+qsv 12
+qv 82 52
+qsv 12
+att 45 49 1
+qsv 12
+qts
+qsv 12
+qv 32 20
+qsv 12
+qv 52 41
+qsv 12
+qci 1 43
+qsv 12
+qv 41 61
+qsv 12
+att 4 1 1
+qsv 12
+qv 17 73
+qsv 12
+qv 76 61
+qsv 12
+att 44 58 1
+qsv 12
+att 21 89 1
+qsv 12
+qci 43 13
+qsv 12
+qv 42 1
+qsv 12
+qv 70 36
+qsv 12
+att 61 66 1
+qsv 12
+att 22 59 1
+qsv 12
+qv 102 59
+qsv 12
+qci 31 31
+qsv 12
+qtav 33 1
+qsv 12
+att 17 74 1
+qsv 12
+qbs
+qsv 12
+att 1 73 1
+qsv 12
+dft 19 3 1
+qsv 12
+qv 15 64
+qsv 12
+qci 9 88
+qsv 12
+ap 49 DPO-bot-49 6
+qsv 12
+qci 4 18
+qsv 12
+qv 96 46
+qsv 12
+att 1 96 1
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+att 1 87 1
+qsv 12
+qsp 55 73
+qsv 12
+att 47 53 1
+qsv 12
+qci 60 63
+qsv 12
+qbs
+qsv 12
+qbs
+qsv 12
+att 1 87 1
+qsv 12
+qv 100 77
+qsv 12
+att 21 32 1
+qsv 12
+att 8 34 1
+qsv 12
+qtav 34 1
+qsv 12
+att 1 86 1
+qsv 12
+qv 98 13
+qsv 12
+att 1 84 1
+qsv 12
+qba 73
+qsv 12
+qci 87 97
+qsv 12
+qci 97 102
+qsv 12
+qtav 102 97
+qsv 12
+ar 24 60 49
+qsv 12
+att 103 102 70
+qsv 12
+att 50 34 1
+qsv 12
+qv 32 65
+qsv 12
+qv 101 101
+qsv 12
+at 3 1
+qsv 12
+qci 54 65
+qsv 12
+qv 14 6
+qsv 12
+att 1 99 1
+qsv 12
+att 81 53 1
+qsv 12
+qci 14 32
+qsv 12
+att 6 53 1
+qsv 12
+ar 93 4 101
+qsv 12
+att 71 75 1
+qsv 12
+qci 34 87
+qsv 12
+at 1 1
+qsv 12
+qci 85 63
+qsv 12
+att 22 54 1
+qsv 12
+att 14 83 1
+qsv 12
+att 27 31 1
+qsv 12
+att 4 93 1
+qsv 12
+qv 30 51
+qsv 12
+qv 69 45
+qsv 12
+att 1 95 1
+qsv 12
+qv 53 20
+qsv 12
+ap 103 DPO-bot-103 27
+qsv 12
+att 42 38 1
+qsv 12
+att 1 92 1
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+mr 72 86 -120
+qsv 12
+dft 82 83 1
+qsv 12
+qv 65 33
+qsv 12
+qts
+qsv 12
+qv 2 44
+qsv 12
+qtvs 13 1
+qsv 12
+qbs
+qsv 12
+qsp 90 91
+qsv 12
+att 1 56 1
+qsv 12
+qts
+qsv 12
+att 1 97 1
+qsv 12
+qci 37 70
+qsv 12
+qci 94 36
+qsv 12
+qv 35 82
+qsv 12
+ar 97 81 57
+qsv 12
+qv 76 32
+qsv 12
+qv 2 95
+qsv 12
+att 1 86 1
+qsv 12
+att 71 75 1
+qsv 12
+dft 44 24 1
+qsv 12
+att 26 54 1
+qsv 12
+att 1 72 1
+qsv 12
+qv 62 7
+qsv 12
+qsp 19 54
+qsv 12
+ar 76 20 130
+qsv 12
+qci 74 22
+qsv 12
+ap 104 DPO-bot-104 198
+qsv 12
+att 52 49 1
+qsv 12
+ar 11 94 91
+qsv 12
+att 30 16 1
+qsv 12
+ar 18 33 113
+qsv 12
+ar 101 10 198
+qsv 12
+att 14 83 1
+qsv 12
+att 7 27 1
+qsv 12
+att 28 29 1
+qsv 12
+qbs
+qsv 12
+qv 101 17
+qsv 12
+att 19 2 1
+qsv 12
+att 1 73 1
+qsv 12
+qv 51 3
+qsv 12
+qv 98 51
+qsv 12
+ar 93 61 82
+qsv 12
+att 43 30 1
+qsv 12
+att 10 33 1
+qsv 12
+qci 24 23
+qsv 12
+att 3 46 1
+qsv 12
+qcs
+qsv 12
+qv 57 23
+qsv 12
+ap 74 DPO-bot-74 25
+qsv 12
+qv 16 62
+qsv 12
+ap 82 DPO-bot-82 75
+qsv 12
+qv 59 52
+qsv 12
+dft 1 98 1
+qsv 12
+ar 99 102 162
+qsv 12
+mr 89 55 -69
+qsv 12
+qv 52 66
+qsv 12
+qci 20 79
+qsv 12
+qba 18
+qsv 12
+qv 93 82
+qsv 12
+qtav 41 1
+qsv 12
+att 66 57 1
+qsv 12
+qci 14 50
+qsv 12
+qv 8 64
+qsv 12
+at 46 1
+qsv 12
+qts
+qsv 12
+qv 102 17
+qsv 12
+qtvs 4 1
+qsv 12
+qbs
+qsv 12
+qtvs 3 1
+qsv 12
+ap 52 DPO-bot-52 81
+qsv 12
+qci 46 24
+qsv 12
+qba 66
+qsv 12
+att 22 17 1
+qsv 12
+qv 85 90
+qsv 12
+dt 86 1
+qsv 12
+qv 12 49
+qsv 12
+qci 49 102
+qsv 12
+qci 11 66
+qsv 12
+mr 88 81 -18
+qsv 12
+qci 14 16
+qsv 12
+qv 104 84
+qsv 12
+qv 19 72
+qsv 12
+dft 29 36 1
+qsv 12
+qv 56 2
+qsv 12
+qv 90 83
+qsv 12
+att 81 97 1
+qsv 12
+qci 41 94
+qsv 12
+qci 66 25
+qsv 12
+qv 30 3
+qsv 12
+qci 98 19
+qsv 12
+ap 105 DPO-bot-105 131
+qsv 12
+dft 4 15 1
+qsv 12
+qci 79 18
+qsv 12
+qci 3 101
+qsv 12
+att 41 35 4
+qsv 12
+mr 78 17 -183
+qsv 12
+att 81 53 1
+qsv 12
+qv 60 61
+qsv 12
+att 29 62 1
+qsv 12
+ar 58 48 49
+qsv 12
+qv 96 74
+qsv 12
+qv 22 46
+qsv 12
+qcs
+qsv 12
+qv 31 82
+qsv 12
+att 32 90 1
+qsv 12
+qv 90 101
+qsv 12
+att 71 75 1
+qsv 12
+qbs
+qsv 12
+ap 93 DPO-bot-93 28
+qsv 12
+qcs
+qsv 12
+mr 13 83 -106
+qsv 12
+qv 67 6
+qsv 12
+dft 1 91 1
+qsv 12
+qba 70
+qsv 12
+ap 106 DPO-bot-106 124
+qsv 12
+qtav 58 1
+qsv 12
+qci 33 2
+qsv 12
+qv 94 6
+qsv 12
+mr 64 61 -133
+qsv 12
+qbs
+qsv 12
+att 32 90 1
+qsv 12
+qv 40 75
+qsv 12
+ar 94 104 25
+qsv 12
+dt 72 1
+qsv 12
+qv 63 9
+qsv 12
+ar 67 104 58
+qsv 12
+att 57 15 1
+qsv 12
+att 7 28 1
+qsv 12
+dft 81 97 1
+qsv 12
+qci 18 24
+qsv 12
+att 1 72 1
+qsv 12
+ap 20 DPO-bot-20 100
+qsv 12
+qv 90 29
+qsv 12
+qv 92 95
+qsv 12
+qv 95 83
+qsv 12
+qba 89
+qsv 12
+qv 89 76
+qsv 12
+ar 55 68 131
+qsv 12
+qtav 42 1
+qsv 12
+qci 83 27
+qsv 12
+qci 35 26
+qsv 12
+qv 67 88
+qsv 12
+att 1 56 1
+qsv 12
+att 1 80 1
+qsv 12
+att 58 48 1
+qsv 12
+qci 93 96
+qsv 12
+qts
+qsv 12
+att 1 98 1
+qsv 12
+qv 60 35
+qsv 12
+qv 17 20
+qsv 12
+qci 55 60
+qsv 12
+qts
+qsv 12
+at 17 1
+qsv 12
+att 23 6 1
+qsv 12
+qsp 56 7
+qsv 12
+att 1 72 1
+qsv 12
+qv 106 80
+qsv 12
+qv 21 81
+qsv 12
+dft 1 1 1
+qsv 12
+att 75 71 1
+qsv 12
+att 16 7 1
+qsv 12
+qba 62
+qsv 12
+att 6 17 1
+qsv 12
+qv 34 73
+qsv 12
+att 14 8 1
+qsv 12
+at 71 1
+qsv 12
+qv 8 59
+qsv 12
+dft 3 46 1
+qsv 12
+ap 107 DPO-bot-107 189
+qsv 12
+qts
+qsv 12
+att 47 6 1
+qsv 12
+qv 60 50
+qsv 12
+qv 39 84
+qsv 12
+att 33 2 1
+qsv 12
+dft 68 58 1
+qsv 12
+qci 87 47
+qsv 12
+qv 26 81
+qsv 12
+qsp 55 102
+qsv 12
+qci 86 69
+qsv 12
+dt 91 1
+qsv 12
+dft 61 66 1
+qsv 12
+dft 26 54 1
+qsv 12
+ar 10 49 186
+qsv 12
+att 43 30 1
+qsv 12
+att 1 98 1
+qsv 12
+att 20 48 1
+qsv 12
+mr 65 83 -177
+qsv 12
+qv 31 38
+qsv 12
+dft 7 22 1
+qsv 12
+qci 105 51
+qsv 12
+qba 46
+qsv 12
+att 1 84 1
+qsv 12
+qci 84 44
+qsv 12
+qv 77 62
+qsv 12
+ar 98 8 111
+qsv 12
+qv 95 12
+qsv 12
+att 10 101 1
+qsv 12
+qci 34 52
+qsv 12
+att 108 107 84
+qsv 12
+att 30 16 1
+qsv 12
+att 108 162 89
+qsv 12
+qci 61 21
+qsv 12
+qv 101 21
+qsv 12
+qci 51 19
+qsv 12
+mr 31 14 -39
+qsv 12
+qtvs 81 1
+qsv 12
+qtav 142 1
+qsv 12
+att 1 73 2
+qsv 12
+qv 50 12
+qsv 12
+at 11 5
+qsv 12
+qv 17 77
+qsv 12
+qtav 62 1
+qsv 12
+att 32 69 1
+qsv 12
+qv 48 27
+qsv 12
+qci 27 55
+qsv 12
+qci 87 84
+qsv 12
+att 68 55 1
+qsv 12
+att 45 71 1
+qsv 12
+qba 66
+qsv 12
+att 24 60 1
+qsv 12
+qtvs 36 1
+qsv 12
+qts
+qsv 12
+ar 53 51 65
+qsv 12
+att 26 7 1
+qsv 12
+ap 108 DPO-bot-108 191
+qsv 12
+qtvs 102 1
+qsv 12
+qts
+qsv 12
+qci 86 104
+qsv 12
+ar 104 21 143
+qsv 12
+qci 33 73
+qsv 12
+qtav 47 1
+qsv 12
+ap 84 DPO-bot-84 186
+qsv 12
+qv 7 13
+qsv 12
+qv 56 14
+qsv 12
+att 51 10 1
+qsv 12
+att 8 98 1
+qsv 12
+qv 104 83
+qsv 12
+qv 85 67
+qsv 12
+att 41 59 1
+qsv 12
+dft 10 51 1
+qsv 12
+qv 14 68
+qsv 12
+qtvs 9 1
+qsv 12
+att 22 30 1
+qsv 12
+qts
+qsv 12
+qv 52 47
+qsv 12
+dft 1 105 1
+qsv 12
+qtav 23 1
+qsv 12
+qci 2 12
+qsv 12
+qv 46 85
+qsv 12
+att 77 9 1
+qsv 12
+qci 31 96
+qsv 12
+att 1 91 1
+qsv 12
+ap 41 DPO-bot-41 91
+qsv 12
+att 33 1 1
+qsv 12
+att 82 79 1
+qsv 12
+mr 85 12 -144
+qsv 12
+att 29 15 1
+qsv 12
+qci 44 87
+qsv 12
+mr 48 89 -178
+qsv 12
+qv 104 40
+qsv 12
+qsp 57 53
+qsv 12
+qtav 46 1
+qsv 12
+qci 92 18
+qsv 12
+att 41 35 1
+qsv 12
+qsp 14 90
+qsv 12
+att 71 45 1
+qsv 12
+att 1 73 1
+qsv 12
+att 22 24 1
+qsv 12
+att 1 86 1
+qsv 12
+ar 106 85 99
+qsv 12
+qv 35 101
+qsv 12
+qci 97 87
+qsv 12
+att 42 50 1
+qsv 12
+qv 24 7
+qsv 12
+att 1 103 1
+qsv 12
+qci 83 69
+qsv 12
+att 35 27 1
+qsv 12
+ap 58 DPO-bot-58 85
+qsv 12
+qv 94 97
+qsv 12
+att 1 91 1
+qsv 12
+ap 109 DPO-bot-109 192
+qsv 12
+qtav 79 1
+qsv 12
+qci 81 201
+qsv 12
+att 40 40 1
+qsv 12
+qv 25 25
+qsv 12
+qv 86 38
+qsv 12
+att 47 53 1
+qsv 12
+qv 52 48
+qsv 12
+att 1 33 1
+qsv 12
+qv 45 81
+qsv 12
+qcs
+qsv 12
+qba 11
+qsv 12
+qv 67 83
+qsv 12
+qbs
+qsv 12
+qci 108 84
+qsv 12
+qbs
+qsv 12
+qci 107 82
+qsv 12
+dft 5 30 1
+qsv 12
+qv 49 44
+qsv 12
+att 1 70 1
+qsv 12
+qv 67 18
+qsv 12
+at 65 1
+qsv 12
+att 1 84 1
+qsv 12
+qci 69 14
+qsv 12
+qts
+qsv 12
+qv 40 96
+qsv 12
+qv 10 6
+qsv 12
+att 1 108 1
+qsv 12
+qv 32 93
+qsv 12
+qbs
+qsv 12
+qv 85 95
+qsv 12
+ar 109 74 51
+qsv 12
+dft 57 15 1
+qsv 12
+att 110 109 9
+qsv 12
+ar 84 62 16
+qsv 12
+qv 67 5
+qsv 12
+dft 29 23 1
+qsv 12
+att 82 79 1
+qsv 12
+dft 1 87 1
+qsv 12
+qba 78
+qsv 12
+att 10 101 1
+qsv 12
+att 32 51 1
+qsv 12
+att 31 27 1
+qsv 12
+att 4 17 1
+qsv 12
+att 19 74 1
+qsv 12
+qcs
+qsv 12
+att 1 33 1
+qsv 12
+at 58 1
+qsv 12
+qsp 53 90
+qsv 12
+ar 109 97 84
+qsv 12
+att 99 102 1
+qsv 12
+att 4 17 1
+qsv 12
+qv 94 39
+qsv 12
+qcs
+qsv 12
+ap 30 DPO-bot-30 193
+qsv 12
+att 33 35 1
+qsv 12
+qci 35 50
+qsv 12
+qci 43 72
+qsv 12
+qbs
+qsv 12
+att 11 43 1
+qsv 12
+qv 82 49
+qsv 12
+qci 109 91
+qsv 12
+att 1 86 1
+qsv 12
+mr 9 17 -195
+qsv 12
+qv 42 37
+qsv 12
+qsp 95 76
+qsv 12
+mr 52 99 -167
+qsv 12
+ar 99 75 49
+qsv 12
+qv 62 42
+qsv 12
+ap 110 DPO-bot-110 99
+qsv 12
+qv 29 53
+qsv 12
+qv 98 80
+qsv 12
+qv 26 59
+qsv 12
+att 43 30 1
+qsv 12
+att 34 13 1
+qsv 12
+qv 57 14
+qsv 12
+qci 4 53
+qsv 12
+qci 80 9
+qsv 12
+qv 74 40
+qsv 12
+qv 38 70
+qsv 12
+att 50 42 1
+qsv 12
+qci 9 63
+qsv 12
+att 1 105 1
+qsv 12
+qsp 75 92
+qsv 12
+att 99 102 1
+qsv 12
+qba 94
+qsv 12
+att 1 73 1
+qsv 12
+qv 96 42
+qsv 12
+qba 32
+qsv 12
+ar 102 110 126
+qsv 12
+qcs
+qsv 12
+qv 84 63
+qsv 12
+dt 17 1
+qsv 12
+qv 151 38
+qsv 12
+qv 60 95
+qsv 12
+qsp 104 67
+qsv 12
+dft 42 38 1
+qsv 12
+qsp 75 99
+qsv 12
+dft 1 63 1
+qsv 12
+at 4 1
+qsv 12
+att 1 80 1
+qsv 12
+qv 56 106
+qsv 12
+qv 59 90
+qsv 12
+qts
+qsv 12
+att 89 21 1
+qsv 12
+qtav 154 93
+qsv 12
+qv 86 5
+qsv 12
+qbs
+qsv 12
+qci 18 51
+qsv 12
+qv 40 71
+qsv 12
+qv 101 51
+qsv 12
+att 24 44 1
+qsv 12
+att 50 64 1
+qsv 12
+ap 111 DPO-bot-111 82
+qsv 12
+qv 7 62
+qsv 12
+qcs
+qsv 12
+qci 105 5
+qsv 12
+att 11 43 1
+qsv 12
+qtav 66 1
+qsv 12
+qts
+qsv 12
+att 1 110 1
+qsv 12
+qba 18
+qsv 12
+att 54 26 1
+qsv 12
+att 102 99 1
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+qv 3 10
+qsv 12
+att 82 79 1
+qsv 12
+ar 64 91 172
+qsv 12
+qci 29 36
+qsv 12
+att 6 3 1
+qsv 12
+qba 34
+qsv 12
+dft 68 55 1
+qsv 12
+att 58 68 1
+qsv 12
+att 10 101 1
+qsv 12
+qts
+qsv 12
+qci 111 61
+qsv 12
+qcs
+qsv 12
+ar 99 77 6
+qsv 12
+att 32 69 1
+qsv 12
+qv 40 76
+qsv 12
+qtav 39 1
+qsv 12
+att 40 20 1
+qsv 12
+qv 40 47
+qsv 12
+qci 19 32
+qsv 12
+att 61 93 1
+qsv 12
+att 8 34 1
+qsv 12
+qv 74 16
+qsv 12
+dt 36 1
+qsv 12
+att 14 11 1
+qsv 12
+qv 78 60
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+ap 112 DPO-bot-112 72
+qsv 12
+att 21 69 1
+qsv 12
+att 3 46 1
+qsv 12
+qts
+qsv 12
+qv 41 11
+qsv 12
+qtvs 109 1
+qsv 12
+ap 50 DPO-bot-50 71
+qsv 12
+qci 56 27
+qsv 12
+qv 88 40
+qsv 12
+qv 86 73
+qsv 12
+qtav 33 1
+qsv 12
+qv 104 97
+qsv 12
+qba 56
+qsv 12
+att 42 38 1
+qsv 12
+ap 89 DPO-bot-89 35
+qsv 12
+qv 10 56
+qsv 12
+att 75 99 1
+qsv 12
+dft 4 44 1
+qsv 12
+att 99 102 1
+qsv 12
+qbs
+qsv 12
+mr 80 25 -92
+qsv 12
+qv 87 64
+qsv 12
+qcs
+qsv 12
+att 9 16 1
+qsv 12
+ap 113 DPO-bot-113 59
+qsv 12
+qbs
+qsv 12
+mr 67 60 -148
+qsv 12
+qtav 81 1
+qsv 12
+dft 30 20 1
+qsv 12
+qv 39 49
+qsv 12
+ap 114 DPO-bot-114 176
+qsv 12
+at 100 1
+qsv 12
+qsp 36 83
+qsv 12
+dft 7 18 1
+qsv 12
+qba 62
+qsv 12
+att 42 15 1
+qsv 12
+qci 13 91
+qsv 12
+qv 22 44
+qsv 12
+att 15 42 1
+qsv 12
+att 34 50 1
+qsv 12
+dft 1 110 1
+qsv 12
+att 21 14 1
+qsv 12
+at 43 1
+qsv 12
+ap 115 DPO-bot-115 108
+qsv 12
+qcs
+qsv 12
+qts
+qsv 12
+qtav 93 1
+qsv 12
+att 21 32 1
+qsv 12
+qv 90 53
+qsv 12
+mr 4 15 -132
+qsv 12
+qv 58 19
+qsv 12
+att 1 78 1
+qsv 12
+qv 20 23
+qsv 12
+att 22 23 1
+qsv 12
+dft 58 68 1
+qsv 12
+qv 78 23
+qsv 12
+qv 80 61
+qsv 12
+qtav 64 1
+qsv 12
+qv 54 36
+qsv 12
+qci 34 19
+qsv 12
+qtvs 66 1
+qsv 12
+att 29 15 1
+qsv 12
+qv 26 67
+qsv 12
+qsp 77 30
+qsv 12
+qsp 92 86
+qsv 12
+dft 1 86 1
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+dt 56 1
+qsv 12
+ap 99 DPO-bot-99 112
+qsv 12
+mr 4 76 -171
+qsv 12
+ap 116 DPO-bot-116 177
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+qba 115
+qsv 12
+att 67 104 1
+qsv 12
+at 89 1
+qsv 12
+qsp 21 4
+qsv 12
+qv 39 34
+qsv 12
+qv 8 16
+qsv 12
+qtvs 12 1
+qsv 12
+qci 65 115
+qsv 12
+qsp 46 16
+qsv 12
+att 1 103 1
+qsv 12
+qv 109 30
+qsv 12
+qts
+qsv 12
+ar 99 18 191
+qsv 12
+qv 57 91
+qsv 12
+qv 19 34
+qsv 12
+dft 9 19 1
+qsv 12
+qv 60 47
+qsv 12
+qv 97 30
+qsv 12
+qtvs 42 1
+qsv 12
+ap 117 DPO-bot-117 92
+qsv 12
+qv 9 92
+qsv 12
+att 26 4 1
+qsv 12
+qbs
+qsv 12
+qv 39 105
+qsv 12
+att 15 3 1
+qsv 12
+att 52 49 1
+qsv 12
+at 106 1
+qsv 12
+qci 70 70
+qsv 12
+qv 1 35
+qsv 12
+ap 118 DPO-bot-118 156
+qsv 12
+qci 46 40
+qsv 12
+qci 103 74
+qsv 12
+dft 15 13 1
+qsv 12
+att 5 12 1
+qsv 12
+dft 1 111 1
+qsv 12
+att 30 43 1
+qsv 12
+at 93 1
+qsv 12
+qv 113 112
+qsv 12
+qv 29 75
+qsv 12
+att 1 114 1
+qsv 12
+qcs
+qsv 12
+ar 74 38 85
+qsv 12
+att 1 56 1
+qsv 12
+dft 29 28 1
+qsv 12
+att 12 24 1
+qsv 12
+ar 18 104 126
+qsv 12
+att 12 8 1
+qsv 12
+mr 31 79 -90
+qsv 12
+qci 71 18
+qsv 12
+ap 119 DPO-bot-119 200
+qsv 12
+qv 57 3
+qsv 12
+dft 1 112 1
+qsv 12
+qci 73 80
+qsv 12
+qv 51 93
+qsv 12
+att 11 94 1
+qsv 12
+att 19 74 1
+qsv 12
+att 15 57 1
+qsv 12
+qtvs 99 1
+qsv 12
+att 32 21 1
+qsv 12
+att 8 98 1
+qsv 12
+att 62 29 1
+qsv 12
+qci 43 22
+qsv 12
+qv 6 87
+qsv 12
+qci 82 97
+qsv 12
+qba 47
+qsv 12
+qtvs 110 1
+qsv 12
+qv 90 57
+qsv 12
+att 68 55 1
+qsv 12
+qci 17 108
+qsv 12
+qv 112 9
+qsv 12
+att 53 81 1
+qsv 12
+dft 49 52 1
+qsv 12
+att 74 38 1
+qsv 12
+att 1 114 1
+qsv 12
+qv 61 116
+qsv 12
+att 81 97 1
+qsv 12
+att 1 110 1
+qsv 12
+qv 112 88
+qsv 12
+qci 31 66
+qsv 12
+att 3 6 1
+qsv 12
+qv 67 86
+qsv 12
+att 4 17 1
+qsv 12
+att 61 93 1
+qsv 12
+qv 69 51
+qsv 12
+qci 56 79
+qsv 12
+qv 39 104
+qsv 12
+qci 3 116
+qsv 12
+qci 60 65
+qsv 12
+ap 53 DPO-bot-53 25
+qsv 12
+qtvs 3 1
+qsv 12
+qba 7
+qsv 12
+att 90 32 1
+qsv 12
+qsp 73 81
+qsv 12
+mr 25 116 -164
+qsv 12
+qci 54 27
+qsv 12
+at 59 1
+qsv 12
+qtav 61 1
+qsv 12
+qtvs 5 1
+qsv 12
+ar 84 56 26
+qsv 12
+qv 109 54
+qsv 12
+att 106 85 1
+qsv 12
+att 29 36 1
+qsv 12
+qbs
+qsv 12
+ar 24 38 111
+qsv 12
+att 7 27 1
+qsv 12
+ap 58 DPO-bot-58 85
+qsv 12
+ap 13 DPO-bot-13 95
+qsv 12
+qv 24 77
+qsv 12
+qv 92 54
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+dt 40 1
+qsv 12
+qci 65 11
+qsv 12
+qci 52 1
+qsv 12
+att 16 8 1
+qsv 12
+mr 118 82 -167
+qsv 12
+qv 93 46
+qsv 12
+att 64 91 1
+qsv 12
+ar 47 113 106
+qsv 12
+qtav 117 1
+qsv 12
+qci 4 59
+qsv 12
+qv 5 8
+qsv 12
+att 22 31 1
+qsv 12
+qci 35 93
+qsv 12
+qv 12 5
+qsv 12
+qv 72 75
+qsv 12
+qsp 101 45
+qsv 12
+qtvs 89 1
+qsv 12
+qba 53
+qsv 12
+qci 26 117
+qsv 12
+qtav 73 1
+qsv 12
+qv 76 111
+qsv 12
+qv 90 7
+qsv 12
+qts
+qsv 12
+dft 4 30 1
+qsv 12
+qtav 47 1
+qsv 12
+att 1 70 1
+qsv 12
+qv 39 109
+qsv 12
+qci 85 115
+qsv 12
+att 21 69 1
+qsv 12
+qsp 23 50
+qsv 12
+qci 83 128
+qsv 12
+qv 42 19
+qsv 12
+att 68 58 1
+qsv 12
+dft 84 56 1
+qsv 12
+qv 2 56
+qsv 12
+qv 11 64
+qsv 12
+dt 47 1
+qsv 12
+ar 46 113 71
+qsv 12
+qcs
+qsv 12
+qci 85 82
+qsv 12
+att 1 39 1
+qsv 12
+ap 120 DPO-bot-120 61
+qsv 12
+att 1 114 1
+qsv 12
+att 23 31 1
+qsv 12
+qtav 5 1
+qsv 12
+att 29 23 6
+qsv 12
+qv 85 68
+qsv 12
+att 1 87 1
+qsv 12
+att 1 87 1
+qsv 12
+ar 92 2 88
+qsv 12
+qci 95 65
+qsv 12
+att 52 49 1
+qsv 12
+qsp 67 4
+qsv 12
+qbs
+qsv 12
+qv 94 4
+qsv 12
+qci 3 102
+qsv 12
+dft 50 64 1
+qsv 12
+qci 111 16
+qsv 12
+att 104 67 1
+qsv 12
+att 24 38 1
+qsv 12
+qv 68 74
+qsv 12
+qv 57 30
+qsv 12
+att 14 5 1
+qsv 12
+att 44 58 1
+qsv 12
+qv 93 59
+qsv 12
+att 21 89 1
+qsv 12
+qts
+qsv 12
+ar 20 105 26
+qsv 12
+att 53 51 1
+qsv 12
+att 20 105 1
+qsv 12
+ap 121 DPO-bot-121 5
+qsv 12
+mr 35 99 -109
+qsv 12
+ap 122 DPO-bot-122 197
+qsv 12
+att 11 94 1
+qsv 12
+att 49 52 1
+qsv 12
+mr 107 19 -36
+qsv 12
+att 13 49 1
+qsv 12
+qci 122 44
+qsv 12
+at 54 1
+qsv 12
+ar 11 45 81
+qsv 12
+qbs
+qsv 12
+qci 3 42
+qsv 12
+att 30 22 3
+qsv 12
+att 1 37 1
+qsv 12
+dft 1 116 1
+qsv 12
+qv 118 1
+qsv 12
+att 99 102 1
+qsv 12
+qci 19 99
+qsv 12
+qv 45 49
+qsv 12
+qv 60 121
+qsv 12
+qv 85 56
+qsv 12
+qci 52 106
+qsv 12
+qsp 98 69
+qsv 12
+att 123 172 79
+qsv 12
+qci 8 4
+qsv 12
+qtav 103 1
+qsv 12
+qtav 86 1
+qsv 12
+qci 50 116
+qsv 12
+qts
+qsv 12
+dt 33 1
+qsv 12
+qv 34 54
+qsv 12
+att 1 70 1
+qsv 12
+qv 18 27
+qsv 12
+qv 74 82
+qsv 12
+ar 31 65 186
+qsv 12
+qci 40 86
+qsv 12
+qtav 85 1
+qsv 12
+qtav 58 1
+qsv 12
+qv 101 107
+qsv 12
+dt 91 1
+qsv 12
+qci 116 108
+qsv 12
+qv 78 78
+qsv 12
+qtav 7 1
+qsv 12
+att 20 105 1
+qsv 12
+qv 102 81
+qsv 12
+qci 78 21
+qsv 12
+qbs
+qsv 12
+qcs
+qsv 12
+att 29 24 1
+qsv 12
+qbs
+qsv 12
+qv 69 93
+qsv 12
+qci 94 48
+qsv 12
+att 9 77 1
+qsv 12
+dt 51 1
+qsv 12
+qci 33 74
+qsv 12
+qv 12 35
+qsv 12
+qv 71 52
+qsv 12
+att 17 74 1
+qsv 12
+ar 78 89 149
+qsv 12
+qci 30 44
+qsv 12
+qci 53 8
+qsv 12
+att 3 19 1
+qsv 12
+qci 116 57
+qsv 12
+qts
+qsv 12
+qci 64 18
+qsv 12
+ap 123 DPO-bot-123 146
+qsv 12
+at 99 1
+qsv 12
+ap 124 DPO-bot-124 167
+qsv 12
+qci 68 73
+qsv 12
+dft 19 74 1
+qsv 12
+qci 19 63
+qsv 12
+att 1 107 1
+qsv 12
+att 53 81 1
+qsv 12
+att 27 25 1
+qsv 12
+dft 35 41 1
+qsv 12
+qv 8 148
+qsv 12
+att 40 20 1
+qsv 12
+mr 77 81 -21
+qsv 12
+qba 56
+qsv 12
+mr 81 63 -161
+qsv 12
+qtvs 78 1
+qsv 12
+ar 84 32 195
+qsv 12
+att 83 82 1
+qsv 12
+ar 64 68 74
+qsv 12
+qv 122 3
+qsv 12
+qtav 108 1
+qsv 12
+qv 32 54
+qsv 12
+qv 63 114
+qsv 12
+ap 93 DPO-bot-93 28
+qsv 12
+dt 120 1
+qsv 12
+qci 45 15
+qsv 12
+ap 125 DPO-bot-125 95
+qsv 12
+att 1 73 1
+qsv 12
+qv 6 92
+qsv 12
+qts
+qsv 12
+ar 29 100 178
+qsv 12
+att 1 70 1
+qsv 12
+att 27 35 1
+qsv 12
+qci 95 65
+qsv 12
+qci 39 49
+qsv 12
+ap 72 DPO-bot-72 49
+qsv 12
+att 4 36 1
+qsv 12
+qtvs 9 1
+qsv 12
+qci 56 41
+qsv 12
+ar 75 54 144
+qsv 12
+qtvs 48 1
+qsv 12
+qv 107 77
+qsv 12
+at 75 1
+qsv 12
+att 1 80 1
+qsv 12
+qci 59 88
+qsv 12
+qts
+qsv 12
+qv 56 9
+qsv 12
+qtvs 90 1
+qsv 12
+dft 79 82 1
+qsv 12
+qci 107 56
+qsv 12
+qv 122 109
+qsv 12
+dt 6 1
+qsv 12
+qci 119 102
+qsv 12
+qv 52 112
+qsv 12
+dft 104 67 1
+qsv 12
+qbs
+qsv 12
+att 126 207 14
+qsv 12
+qci 104 57
+qsv 12
+ar 103 8 58
+qsv 12
+ap 122 DPO-bot-122 197
+qsv 12
+qbs
+qsv 12
+qci 84 1
+qsv 12
+qci 95 94
+qsv 12
+att 13 2 1
+qsv 12
+qv 1 17
+qsv 12
+qbs
+qsv 12
+at 68 1
+qsv 12
+qba 124
+qsv 12
+qv 16 58
+qsv 12
+att 1 117 1
+qsv 12
+qv 72 81
+qsv 12
+mr 100 90 -56
+qsv 12
+qv 92 130
+qsv 12
+att 97 81 1
+qsv 12
+qci 12 94
+qsv 12
+qv 21 67
+qsv 12
+qci 106 7
+qsv 12
+qv 88 47
+qsv 12
+mr 170 6 -6
+qsv 12
+qci 42 116
+qsv 12
+qv 10 104
+qsv 12
+att 12 5 1
+qsv 12
+qsp 9 94
+qsv 12
+dft 46 113 1
+qsv 12
+att 11 94 1
+qsv 12
+qv 109 112
+qsv 12
+att 10 101 1
+qsv 12
+qts
+qsv 12
+att 1 39 1
+qsv 12
+att 20 48 1
+qsv 12
+qtav 73 1
+qsv 12
+qv 26 124
+qsv 12
+att 1 114 1
+qsv 12
+qci 22 61
+qsv 12
+att 24 60 1
+qsv 12
+qbs
+qsv 12
+qci 97 74
+qsv 12
+att 97 81 1
+qsv 12
+qv 93 70
+qsv 12
+qv 40 83
+qsv 12
+ap 107 DPO-bot-107 189
+qsv 12
+qv 102 7
+qsv 12
+qv 125 100
+qsv 12
+ap 126 DPO-bot-126 187
+qsv 12
+att 22 23 1
+qsv 12
+qci 58 76
+qsv 12
+att 8 7 1
+qsv 12
+mr 64 171 -110
+qsv 12
+att 68 19 1
+qsv 12
+qba 27
+qsv 12
+att 41 59 1
+qsv 12
+at 63 1
+qsv 12
+at 85 1
+qsv 12
+ar 59 43 107
+qsv 12
+qci 31 98
+qsv 12
+att 5 46 1
+qsv 12
+qv 26 53
+qsv 12
+qv 68 2
+qsv 12
+qci 85 126
+qsv 12
+qv 93 2
+qsv 12
+qcs
+qsv 12
+at 24 1
+qsv 12
+dft 8 103 1
+qsv 12
+att 106 85 1
+qsv 12
+qba 83
+qsv 12
+qts
+qsv 12
+att 11 20 1
+qsv 12
+qci 81 96
+qsv 12
+qv 15 82
+qsv 12
+att 56 84 1
+qsv 12
+att 19 25 1
+qsv 12
+qci 102 106
+qsv 12
+qv 78 63
+qsv 12
+qci 1 30
+qsv 12
+ap 127 DPO-bot-127 161
+qsv 12
+att 8 16 1
+qsv 12
+att 1 34 1
+qsv 12
+qv 25 25
+qsv 12
+ar 82 83 14
+qsv 12
+qv 117 92
+qsv 12
+att 64 91 1
+qsv 12
+qtav 28 1
+qsv 12
+dft 59 43 1
+qsv 12
+qv 27 113
+qsv 12
+ap 28 DPO-bot-28 70
+qsv 12
+at 42 1
+qsv 12
+dt 87 1
+qsv 12
+qtvs 22 1
+qsv 12
+qci 101 76
+qsv 12
+qbs
+qsv 12
+dt 13 1
+qsv 12
+qtav 69 1
+qsv 12
+qcs
+qsv 12
+dft 64 68 1
+qsv 12
+att 8 98 1
+qsv 12
+att 17 45 1
+qsv 12
+mr 84 79 -108
+qsv 12
+qtav 83 1
+qsv 12
+att 1 112 1
+qsv 12
+dft 12 23 1
+qsv 12
+att 20 48 1
+qsv 12
+qba 48
+qsv 12
+qci 45 19
+qsv 12
+qba 58
+qsv 12
+qv 43 20
+qsv 12
+att 40 20 1
+qsv 12
+dft 1 115 1
+qsv 12
+att 53 81 1
+qsv 12
+qbs
+qsv 12
+att 128 127 21
+qsv 12
+qv 81 49
+qsv 12
+ap 128 DPO-bot-128 11
+qsv 12
+qv 1 5
+qsv 12
+qv 87 128
+qsv 12
+qv 22 121
+qsv 12
+qci 76 45
+qsv 12
+mr 61 82 -129
+qsv 12
+at 94 1
+qsv 12
+att 104 67 1
+qsv 12
+qv 212 79
+qsv 12
+qv 92 44
+qsv 12
+qv 101 96
+qsv 12
+qv 86 100
+qsv 12
+qv 22 2
+qsv 12
+qci 39 127
+qsv 12
+qci 10 102
+qsv 12
+att 1 120 1
+qsv 12
+qv 35 63
+qsv 12
+ar 77 67 113
+qsv 12
+att 1 73 1
+qsv 12
+qv 12 100
+qsv 12
+att 20 76 1
+qsv 12
+att 31 66 1
+qsv 12
+ap 59 DPO-bot-59 141
+qsv 12
+att 62 21 1
+qsv 12
+qts
+qsv 12
+qsp 36 16
+qsv 12
+ap 129 DPO-bot-129 191
+qsv 12
+qv 119 27
+qsv 12
+qci 28 84
+qsv 12
+qci 29 75
+qsv 12
+qv 59 127
+qsv 12
+att 1 72 1
+qsv 12
+mr 60 61 -139
+qsv 12
+att 1 122 1
+qsv 12
+att 3 50 1
+qsv 12
+qci 48 30
+qsv 12
+qv 27 34
+qsv 12
+ap 130 DPO-bot-130 169
+qsv 12
+qv 15 74
+qsv 12
+qv 76 127
+qsv 12
+qts
+qsv 12
+qtav 104 1
+qsv 12
+qba 40
+qsv 12
+att 8 34 1
+qsv 12
+qci 33 88
+qsv 12
+qba 122
+qsv 12
+qv 117 93
+qsv 12
+ar 96 73 18
+qsv 12
+qv 10 125
+qsv 12
+qsp 83 29
+qsv 12
+qci 146 80
+qsv 12
+att 61 93 1
+qsv 12
+qsp 130 113
+qsv 12
+qbs
+qsv 12
+qv 59 4
+qsv 12
+qv 13 54
+qsv 12
+att 57 66 1
+qsv 12
+att 77 67 1
+qsv 12
+dt 130 58
+qsv 12
+qv 122 32
+qsv 12
+qci 131 83
+qsv 12
+att 46 113 1
+qsv 12
+att 1 97 1
+qsv 12
+att 1 6 1
+qsv 12
+att 1 70 1
+qsv 12
+mr 124 120 -89
+qsv 12
+att 30 4 1
+qsv 12
+att 1 118 1
+qsv 12
+qv 55 60
+qsv 12
+dft 1 121 1
+qsv 12
+att 1 34 1
+qsv 12
+qci 20 107
+qsv 12
+qv 13 96
+qsv 12
+qci 83 125
+qsv 12
+att 8 97 1
+qsv 12
+qci 8 35
+qsv 12
+qts
+qsv 12
+qsp 118 24
+qsv 12
+qv 96 111
+qsv 12
+att 1 123 1
+qsv 12
+qci 82 116
+qsv 12
+ap 120 DPO-bot-120 61
+qsv 12
+att 1 116 1
+qsv 12
+at 54 1
+qsv 12
+qsp 71 83
+qsv 12
+att 8 97 1
+qsv 12
+mr 35 124 -109
+qsv 12
+att 10 30 1
+qsv 12
+qci 97 3
+qsv 12
+qv 65 104
+qsv 12
+att 85 106 1
+qsv 12
+ap 96 DPO-bot-96 135
+qsv 12
+ap 131 DPO-bot-131 5
+qsv 12
+at 128 1
+qsv 12
+qcs
+qsv 12
+qv 83 96
+qsv 12
+ar 116 89 68
+qsv 12
+qv 31 17
+qsv 12
+ap 132 DPO-bot-132 40
+qsv 12
+qsp 32 31
+qsv 12
+att 8 103 1
+qsv 12
+ap 35 DPO-bot-35 158
+qsv 12
+qv 11 36
+qsv 12
+qbs
+qsv 12
+att 45 11 5
+qsv 12
+qv 34 77
+qsv 12
+att 6 58 1
+qsv 12
+att 1 20 1
+qsv 12
+qv 43 108
+qsv 12
+qbs
+qsv 12
+dft 1 119 1
+qsv 12
+att 74 38 1
+qsv 12
+att 1 107 1
+qsv 12
+qtav 97 1
+qsv 12
+ar 85 6 34
+qsv 12
+qtav 128 1
+qsv 12
+qv 58 109
+qsv 12
+ap 14 DPO-bot-14 182
+qsv 12
+qci 39 2
+qsv 12
+qv 118 40
+qsv 12
+qv 27 123
+qsv 12
+qv 71 62
+qsv 12
+att 1 130 1
+qsv 12
+qv 75 103
+qsv 12
+att 35 41 1
+qsv 12
+att 20 30 1
+qsv 12
+att 5 46 1
+qsv 12
+qci 36 26
+qsv 12
+qba 18
+qsv 12
+att 1 95 1
+qsv 12
+att 3 76 1
+qsv 12
+qv 107 16
+qsv 12
+qv 123 61
+qsv 12
+qtav 24 1
+qsv 12
+att 106 85 1
+qsv 12
+qbs
+qsv 12
+qci 131 71
+qsv 12
+ap 133 DPO-bot-133 53
+qsv 12
+qtav 26 1
+qsv 12
+att 41 59 1
+qsv 12
+qtav 102 1
+qsv 12
+ar 59 131 25
+qsv 12
+qsp 41 105
+qsv 12
+ar 34 67 42
+qsv 12
+dft 82 79 1
+qsv 12
+mr 29 74 -35
+qsv 12
+qci 95 25
+qsv 12
+qts
+qsv 12
+ar 43 107 2
+qsv 12
+qv 15 75
+qsv 12
+qtav 27 1
+qsv 12
+qtvs 91 1
+qsv 12
+qcs
+qsv 12
+ar 45 32 50
+qsv 12
+qv 43 130
+qsv 12
+qv 100 60
+qsv 12
+att 1 120 1
+qsv 12
+qv 72 47
+qsv 12
+att 1 120 1
+qsv 12
+qv 114 67
+qsv 12
+att 32 90 1
+qsv 12
+qci 20 127
+qsv 12
+qcs
+qsv 12
+qtav 72 1
+qsv 12
+att 27 54 1
+qsv 12
+ap 134 DPO-bot-134 32
+qsv 12
+qci 39 81
+qsv 12
+ar 23 62 32
+qsv 12
+qv 2 34
+qsv 12
+at 35 4
+qsv 12
+ap 102 DPO-bot-102 40
+qsv 12
+qbs
+qsv 12
+att 77 67 1
+qsv 12
+qci 38 54
+qsv 12
+att 24 60 1
+qsv 12
+att 1 132 1
+qsv 12
+qci 48 134
+qsv 12
+qv 120 5
+qsv 12
+qci 56 107
+qsv 12
+dft 1 120 1
+qsv 12
+qv 43 47
+qsv 12
+att 27 54 1
+qsv 12
+qbs
+qsv 12
+qbs
+qsv 12
+qci 70 89
+qsv 12
+ar 54 65 102
+qsv 12
+qv 19 15
+qsv 12
+ar 94 33 12
+qsv 12
+qtav 47 1
+qsv 12
+qv 131 98
+qsv 12
+ap 68 DPO-bot-68 147
+qsv 12
+att 1 37 1
+qsv 12
+qbs
+qsv 12
+qba 130
+qsv 12
+qts
+qsv 12
+qv 64 52
+qsv 12
+qts
+qsv 12
+dft 4 44 1
+qsv 12
+at 89 1
+qsv 12
+att 1 87 1
+qsv 12
+qci 109 105
+qsv 12
+qv 114 85
+qsv 12
+att 58 44 1
+qsv 12
+qv 82 14
+qsv 12
+att 91 64 1
+qsv 12
+qci 37 19
+qsv 12
+ar 111 54 108
+qsv 12
+att 24 60 1
+qsv 12
+qv 11 26
+qsv 12
+att 50 42 1
+qsv 12
+att 21 69 1
+qsv 12
+dft 24 12 1
+qsv 12
+dft 1 128 1
+qsv 12
+qv 109 69
+qsv 12
+qci 89 98
+qsv 12
+qci 5 112
+qsv 12
+qci 66 12
+qsv 12
+qts
+qsv 12
+att 1 2 1
+qsv 12
+att 89 116 1
+qsv 12
+qbs
+qsv 12
+qv 60 34
+qsv 12
+qv 55 93
+qsv 12
+att 73 96 1
+qsv 12
+dft 76 36 1
+qsv 12
+qv 11 26
+qsv 12
+qv 66 71
+qsv 12
+ap 60 DPO-bot-60 6
+qsv 12
+qv 131 73
+qsv 12
+ap 59 DPO-bot-59 141
+qsv 12
+qtav 128 1
+qsv 12
+dft 8 16 1
+qsv 12
+qcs
+qsv 12
+qv 59 76
+qsv 12
+att 1 133 1
+qsv 12
+att 17 4 1
+qsv 12
+att 1 127 1
+qsv 12
+qtvs 25 1
+qsv 12
+qtvs 111 1
+qsv 12
+ar 16 99 101
+qsv 12
+qci 24 89
+qsv 12
+qv 61 21
+qsv 12
+qts
+qsv 12
+ar 25 117 89
+qsv 12
+ap 135 DPO-bot-135 139
+qsv 12
+at 51 1
+qsv 12
+att 68 64 1
+qsv 12
+att 1 128 1
+qsv 12
+att 21 104 1
+qsv 12
+qci 51 122
+qsv 12
+qts
+qsv 12
+att 32 90 1
+qsv 12
+qv 107 116
+qsv 12
+qts
+qsv 12
+qv 11 107
+qsv 12
+qv 35 67
+qsv 12
+qv 131 89
+qsv 12
+att 68 55 1
+qsv 12
+qbs
+qsv 12
+att 4 93 1
+qsv 12
+qbs
+qsv 12
+ar 12 31 96
+qsv 12
+dft 82 83 1
+qsv 12
+att 53 81 1
+qsv 12
+dft 33 94 1
+qsv 12
+qci 105 24
+qsv 12
+qv 133 46
+qsv 12
+qsp 117 116
+qsv 12
+qv 18 35
+qsv 12
+qci 53 20
+qsv 12
+qci 103 4
+qsv 12
+qv 7 109
+qsv 12
+att 1 34 2
+qsv 12
+att 34 7 1
+qsv 12
+qcs
+qsv 12
+at 53 1
+qsv 12
+qv 132 133
+qsv 12
+qv 85 44
+qsv 12
+at 83 1
+qsv 12
+att 99 77 1
+qsv 12
+mr 2 130 -78
+qsv 12
+qts
+qsv 12
+qv 78 104
+qsv 12
+att 42 50 1
+qsv 12
+qbs
+qsv 12
+qv 134 89
+qsv 12
+qcs
+qsv 12
+mr 128 30 -43
+qsv 12
+qv 68 62
+qsv 12
+att 36 29 1
+qsv 12
+qtvs 50 1
+qsv 12
+qv 48 11
+qsv 12
+qv 54 63
+qsv 12
+qv 128 12
+qsv 12
+qts
+qsv 12
+att 4 44 1
+qsv 12
+qv 48 58
+qsv 12
+qv 124 17
+qsv 12
+att 31 22 1
+qsv 12
+qv 113 25
+qsv 12
+qci 85 14
+qsv 12
+qts
+qsv 12
+qci 33 95
+qsv 12
+qv 51 119
+qsv 12
+dt 36 1
+qsv 12
+qcs
+qsv 12
+att 22 7 1
+qsv 12
+qv 65 63
+qsv 12
+qci 17 67
+qsv 12
+att 1 95 1
+qsv 12
+qv 25 114
+qsv 12
+qv 57 109
+qsv 12
+ar 38 126 100
+qsv 12
+qci 103 97
+qsv 12
+att 18 104 1
+qsv 12
+ap 136 DPO-bot-136 78
+qsv 12
+qci 6 94
+qsv 12
+qba 46
+qsv 12
+att 19 3 1
+qsv 12
+att 62 84 1
+qsv 12
+qv 39 71
+qsv 12
+ar 90 18 31
+qsv 12
+qv 22 10
+qsv 12
+att 78 89 1
+qsv 12
+qtav 3 1
+qsv 12
+qv 43 122
+qsv 12
+qv 135 19
+qsv 12
+at 11 5
+qsv 12
+qv 100 101
+qsv 12
+qci 44 134
+qsv 12
+qci 67 99
+qsv 12
+qv 17 106
+qsv 12
+qci 49 26
+qsv 12
+qv 116 91
+qsv 12
+ap 78 DPO-bot-78 16
+qsv 12
+att 9 40 1
+qsv 12
+ap 137 DPO-bot-137 91
+qsv 12
+att 1 63 1
+qsv 12
+dft 1 123 1
+qsv 12
+att 3 15 1
+qsv 12
+att 38 74 1
+qsv 12
+att 43 107 1
+qsv 12
+qci 109 49
+qsv 12
+qba 131
+qsv 12
+att 25 19 1
+qsv 12
+att 1 128 1
+qsv 12
+att 7 27 1
+qsv 12
+qci 109 17
+qsv 12
+dt 79 1
+qsv 12
+dft 31 13 1
+qsv 12
+mr 57 48 -79
+qsv 12
+qci 13 27
+qsv 12
+dft 1 109 1
+qsv 12
+att 61 66 1
+qsv 12
+qtav 42 1
+qsv 12
+att 20 7 1
+qsv 12
+qv 80 25
+qsv 12
+att 60 24 1
+qsv 12
+qbs
+qsv 12
+att 5 9 1
+qsv 12
+dft 1 133 1
+qsv 12
+qv 137 39
+qsv 12
+dft 12 13 1
+qsv 12
+qbs
+qsv 12
+ar 114 114 74
+qsv 12
+qci 125 6
+qsv 12
+qv 60 121
+qsv 12
+qci 85 116
+qsv 12
+mr 43 66 -62
+qsv 12
+att 26 54 1
+qsv 12
+mr 71 84 -111
+qsv 12
+att 50 42 1
+qsv 12
+qv 74 58
+qsv 12
+att 49 52 1
+qsv 12
+qci 100 134
+qsv 12
+qv 243 133
+qsv 12
+ar 103 44 120
+qsv 12
+qsp 136 72
+qsv 12
+qv 29 33
+qsv 12
+ap 138 DPO-bot-138 70
+qsv 12
+qci 71 121
+qsv 12
+qci 16 67
+qsv 12
+qcs
+qsv 12
+qci 38 62
+qsv 12
+qba 17
+qsv 12
+qts
+qsv 12
+qv 24 137
+qsv 12
+qv 42 68
+qsv 12
+qci 113 73
+qsv 12
+ar 65 81 14
+qsv 12
+mr 4 1 -8
+qsv 12
+att 68 55 1
+qsv 12
+ar 87 28 147
+qsv 12
+qcs
+qsv 12
+qv 77 27
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+att 104 18 1
+qsv 12
+qv 58 100
+qsv 12
+qbs
+qsv 12
+qci 76 48
+qsv 12
+qv 58 80
+qsv 12
+qci 9 41
+qsv 12
+qbs
+qsv 12
+att 1 110 1
+qsv 12
+qv 95 114
+qsv 12
+ar 50 93 148
+qsv 12
+att 30 43 1
+qsv 12
+qv 132 58
+qsv 12
+dft 15 4 1
+qsv 12
+att 30 20 1
+qsv 12
+qci 5 98
+qsv 12
+att 47 53 1
+qsv 12
+ar 73 81 103
+qsv 12
+qv 86 100
+qsv 12
+dft 94 11 1
+qsv 12
+att 1 135 1
+qsv 12
+ar 83 69 35
+qsv 12
+att 97 81 1
+qsv 12
+qv 43 117
+qsv 12
+att 10 101 1
+qsv 12
+ap 139 DPO-bot-139 160
+qsv 12
+qcs
+qsv 12
+qci 53 254
+qsv 12
+qtvs 36 1
+qsv 12
+att 40 9 1
+qsv 12
+ar 132 25 117
+qsv 12
+qv 134 70
+qsv 12
+at 47 1
+qsv 12
+att 24 12 1
+qsv 12
+qci 93 131
+qsv 12
+qci 110 112
+qsv 12
+qv 52 54
+qsv 12
+qv 118 31
+qsv 12
+att 1 95 1
+qsv 12
+qv 12 31
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+qv 5 94
+qsv 12
+att 9 16 1
+qsv 12
+dft 1 95 1
+qsv 12
+qv 7 25
+qsv 12
+att 1 80 1
+qsv 12
+att 90 18 1
+qsv 12
+qbs
+qsv 12
+qv 138 37
+qsv 12
+qv 44 93
+qsv 12
+qtvs 26 1
+qsv 12
+att 6 3 1
+qsv 12
+qtvs 118 1
+qsv 12
+qsp 85 126
+qsv 12
+at 25 1
+qsv 12
+qts
+qsv 12
+att 5 3 1
+qsv 12
+at 91 1
+qsv 12
+at 14 1
+qsv 12
+dft 1 109 1
+qsv 12
+qba 61
+qsv 12
+att 49 52 1
+qsv 12
+qv 84 44
+qsv 12
+qv 73 3
+qsv 12
+qba 86
+qsv 12
+qts
+qsv 12
+ap 140 DPO-bot-140 148
+qsv 12
+qv 119 7
+qsv 12
+ap 141 DPO-bot-141 175
+qsv 12
+qv 29 1
+qsv 12
+att 20 76 1
+qsv 12
+att 8 97 1
+qsv 12
+att 142 233 33
+qsv 12
+dft 1 110 1
+qsv 12
+att 1 120 1
+qsv 12
+att 1 134 1
+qsv 12
+qsp 46 25
+qsv 12
+att 85 106 1
+qsv 12
+att 10 49 1
+qsv 12
+qv 32 133
+qsv 12
+qv 65 95
+qsv 12
+ar 43 110 1
+qsv 12
+qv 121 66
+qsv 12
+att 18 90 1
+qsv 12
+ar 84 113 166
+qsv 12
+qv 25 134
+qsv 12
+qcs
+qsv 12
+qv 138 49
+qsv 12
+ap 10 DPO-bot-10 1
+qsv 12
+ap 142 DPO-bot-142 134
+qsv 12
+qci 75 120
+qsv 12
+qv 75 139
+qsv 12
+ar 27 39 185
+qsv 12
+qtav 2 1
+qsv 12
+qsp 52 1
+qsv 12
+qci 88 49
+qsv 12
+ar 58 47 187
+qsv 12
+qts
+qsv 12
+qv 122 70
+qsv 12
+att 39 27 1
+qsv 12
+qtvs 75 1
+qsv 12
+at 125 1
+qsv 12
+qci 43 127
+qsv 12
+dft 26 54 1
+qsv 12
+qci 95 3
+qsv 12
+qv 82 138
+qsv 12
+qv 114 98
+qsv 12
+qcs
+qsv 12
+qv 21 108
+qsv 12
+qv 43 47
+qsv 12
+att 24 44 1
+qsv 12
+qv 111 11
+qsv 12
+qv 85 14
+qsv 12
+qv 46 42
+qsv 12
+qsp 28 7
+qsv 12
+att 1 112 1
+qsv 12
+qtvs 21 1
+qsv 12
+qv 17 15
+qsv 12
+qv 70 25
+qsv 12
+qcs
+qsv 12
+qba 14
+qsv 12
+att 89 116 1
+qsv 12
+qv 97 66
+qsv 12
+att 14 83 2
+qsv 12
+qv 18 69
+qsv 12
+qts
+qsv 12
+qtav 92 1
+qsv 12
+dft 19 25 1
+qsv 12
+qv 130 66
+qsv 12
+att 6 85 1
+qsv 12
+ap 117 DPO-bot-117 92
+qsv 12
+mr 31 22 -175
+qsv 12
+qbs
+qsv 12
+dft 3 41 1
+qsv 12
+dt 17 1
+qsv 12
+at 53 1
+qsv 12
+qci 87 16
+qsv 12
+ap 143 DPO-bot-143 50
+qsv 12
+qv 27 47
+qsv 12
+att 5 9 1
+qsv 12
+att 1 137 1
+qsv 12
+qv 83 77
+qsv 12
+att 27 39 1
+qsv 12
+att 6 85 1
+qsv 12
+mr 32 50 -76
+qsv 12
+att 1 108 1
+qsv 12
+qba 141
+qsv 12
+qci 16 25
+qsv 12
+qv 59 27
+qsv 12
+qcs
+qsv 12
+att 33 94 1
+qsv 12
+qtav 115 1
+qsv 12
+dft 17 74 1
+qsv 12
+qtvs 136 1
+qsv 12
+att 82 79 1
+qsv 12
+qv 62 121
+qsv 12
+qv 54 88
+qsv 12
+att 14 11 1
+qsv 12
+att 1 137 1
+qsv 12
+qv 108 60
+qsv 12
+att 1 80 1
+qsv 12
+qbs
+qsv 12
+qv 88 10
+qsv 12
+qv 29 141
+qsv 12
+qci 43 118
+qsv 12
+dft 9 77 1
+qsv 12
+qsp 124 123
+qsv 12
+att 84 113 1
+qsv 12
+qba 84
+qsv 12
+qv 60 79
+qsv 12
+qci 244 134
+qsv 12
+qv 79 33
+qsv 12
+att 6 47 1
+qsv 12
+qv 73 1
+qsv 12
+qv 28 110
+qsv 12
+qv 7 67
+qsv 12
+qv 138 37
+qsv 12
+at 269 17
+qsv 12
+att 102 99 1
+qsv 12
+qtav 26 1
+qsv 12
+dft 1 122 1
+qsv 12
+ap 4 DPO-bot-4 108
+qsv 12
+att 20 40 1
+qsv 12
+ap 33 DPO-bot-33 22
+qsv 12
+ar 76 62 88
+qsv 12
+qv 12 95
+qsv 12
+ap 34 DPO-bot-34 148
+qsv 12
+dft 68 55 1
+qsv 12
+qv 137 90
+qsv 12
+qcs
+qsv 12
+att 96 73 1
+qsv 12
+qci 106 125
+qsv 12
+att 106 85 1
+qsv 12
+qci 27 83
+qsv 12
+mr 66 41 -89
+qsv 12
+qbs
+qsv 12
+ar 38 51 165
+qsv 12
+qv 22 46
+qsv 12
+qv 120 16
+qsv 12
+att 1 139 1
+qsv 12
+qci 28 29
+qsv 12
+dt 132 1
+qsv 12
+qsp 23 86
+qsv 12
+qv 74 129
+qsv 12
+att 75 71 1
+qsv 12
+qbs
+qsv 12
+att 31 27 1
+qsv 12
+mr 7 139 -187
+qsv 12
+qba 56
+qsv 12
+dft 58 88 1
+qsv 12
+qv 36 38
+qsv 12
+at 21 1
+qsv 12
+qv 85 10
+qsv 12
+qtav 91 1
+qsv 12
+dt 87 1
+qsv 12
+att 27 39 1
+qsv 12
+att 43 30 1
+qsv 12
+att 1 63 1
+qsv 12
+qv 57 105
+qsv 12
+att 1 63 1
+qsv 12
+qba 2
+qsv 12
+att 31 12 1
+qsv 12
+dft 1 32 1
+qsv 12
+dft 53 51 1
+qsv 12
+qv 26 47
+qsv 12
+at 43 1
+qsv 12
+att 24 38 1
+qsv 12
+ap 88 DPO-bot-88 152
+qsv 12
+att 15 42 1
+qsv 12
+att 82 79 1
+qsv 12
+qci 139 129
+qsv 12
+qci 45 101
+qsv 12
+qci 18 14
+qsv 12
+qci 218 18
+qsv 12
+qba 23
+qsv 12
+qts
+qsv 12
+qv 64 6
+qsv 12
+att 38 24 1
+qsv 12
+qv 25 78
+qsv 12
+qci 25 21
+qsv 12
+qci 78 79
+qsv 12
+att 5 30 1
+qsv 12
+qbs
+qsv 12
+qci 96 50
+qsv 12
+att 25 19 1
+qsv 12
+ar 118 61 96
+qsv 12
+qtvs 46 1
+qsv 12
+qcs
+qsv 12
+att 73 96 1
+qsv 12
+qba 81
+qsv 12
+qv 53 60
+qsv 12
+mr 49 6 -8
+qsv 12
+dft 107 43 1
+qsv 12
+att 8 12 1
+qsv 12
+att 68 55 1
+qsv 12
+qv 11 121
+qsv 12
+ar 72 39 156
+qsv 12
+qtav 74 1
+qsv 12
+dft 59 41 1
+qsv 12
+att 52 49 1
+qsv 12
+dt 45 1
+qsv 12
+ap 31 DPO-bot-31 84
+qsv 12
+ar 129 68 31
+qsv 12
+dft 12 2 1
+qsv 12
+att 33 21 1
+qsv 12
+att 5 46 1
+qsv 12
+ar 23 166 119
+qsv 12
+qv 4 56
+qsv 12
+dft 71 45 1
+qsv 12
+att 1 124 1
+qsv 12
+qv 126 70
+qsv 12
+qtvs 112 1
+qsv 12
+att 144 188 36
+qsv 12
+qv 72 64
+qsv 12
+qv 141 99
+qsv 12
+att 15 13 1
+qsv 12
+att 33 1 1
+qsv 12
+att 1 63 1
+qsv 12
+dft 59 41 1
+qsv 12
+att 1 134 1
+qsv 12
+ar 97 46 165
+qsv 12
+qv 67 48
+qsv 12
+qsp 124 7
+qsv 12
+att 6 52 1
+qsv 12
+qci 37 10
+qsv 12
+qv 107 32
+qsv 12
+qv 45 26
+qsv 12
+att 58 88 1
+qsv 12
+dft 61 118 1
+qsv 12
+att 11 45 1
+qsv 12
+qbs
+qsv 12
+qba 100
+qsv 12
+qtvs 88 1
+qsv 12
+ar 93 22 78
+qsv 12
+qci 112 69
+qsv 12
+qv 130 135
+qsv 12
+att 9 19 1
+qsv 12
+qci 125 32
+qsv 12
+dt 163 76
+qsv 12
+qv 133 107
+qsv 12
+qv 1 112
+qsv 12
+qci 122 10
+qsv 12
+qv 74 112
+qsv 12
+qts
+qsv 12
+qv 129 31
+qsv 12
+qci 95 46
+qsv 12
+qv 111 116
+qsv 12
+mr 62 108 -98
+qsv 12
+att 38 126 1
+qsv 12
+qba 113
+qsv 12
+att 25 117 1
+qsv 12
+qv 79 122
+qsv 12
+at 86 1
+qsv 12
+dft 15 29 1
+qsv 12
+att 15 26 1
+qsv 12
+ap 6 DPO-bot-6 21
+qsv 12
+qcs
+qsv 12
+qv 139 22
+qsv 12
+qts
+qsv 12
+mr 81 121 -54
+qsv 12
+qv 2 26
+qsv 12
+qv 103 35
+qsv 12
+ar 77 75 189
+qsv 12
+qv 47 49
+qsv 12
+ar 96 23 72
+qsv 12
+dt 40 1
+qsv 12
+qci 52 75
+qsv 12
+ar 73 46 12
+qsv 12
+qv 214 98
+qsv 12
+att 1 121 1
+qsv 12
+qv 87 131
+qsv 12
+att 1 63 1
+qsv 12
+qbs
+qsv 12
+ar 83 112 159
+qsv 12
+dft 20 105 1
+qsv 12
+att 81 73 1
+qsv 12
+qci 15 84
+qsv 12
+qci 98 42
+qsv 12
+qci 132 8
+qsv 12
+qbs
+qsv 12
+att 1 19 1
+qsv 12
+qv 52 109
+qsv 12
+att 77 67 1
+qsv 12
+qci 124 37
+qsv 12
+att 23 96 1
+qsv 12
+att 24 60 1
+qsv 12
+qv 84 92
+qsv 12
+ar 119 107 166
+qsv 12
+ar 3 58 22
+qsv 12
+qv 99 60
+qsv 12
+att 18 104 1
+qsv 12
+qci 59 34
+qsv 12
+att 2 92 1
+qsv 12
+att 34 13 1
+qsv 12
+qci 109 102
+qsv 12
+att 73 96 1
+qsv 12
+ap 26 DPO-bot-26 150
+qsv 12
+mr 64 39 -74
+qsv 12
+dft 79 82 1
+qsv 12
+att 3 50 1
+qsv 12
+dt 70 1
+qsv 12
+att 2 6 1
+qsv 12
+qtav 124 1
+qsv 12
+mr 85 100 -96
+qsv 12
+qts
+qsv 12
+qtav 16 1
+qsv 12
+qbs
+qsv 12
+dft 30 5 1
+qsv 12
+qci 88 132
+qsv 12
+qtav 94 1
+qsv 12
+att 14 41 1
+qsv 12
+mr 9 39 -198
+qsv 12
+qv 121 136
+qsv 12
+mr 56 22 -149
+qsv 12
+mr 65 1 -183
+qsv 12
+qv 92 138
+qsv 12
+qv 10 16
+qsv 12
+att 50 34 1
+qsv 12
+qv 86 4
+qsv 12
+qv 112 8
+qsv 12
+qbs
+qsv 12
+att 1 136 1
+qsv 12
+att 84 56 1
+qsv 12
+qci 142 134
+qsv 12
+qv 72 128
+qsv 12
+qv 102 31
+qsv 12
+qci 36 119
+qsv 12
+att 41 37 1
+qsv 12
+qv 62 98
+qsv 12
+qsp 16 132
+qsv 12
+ar 109 98 120
+qsv 12
+qci 53 8
+qsv 12
+att 6 13 1
+qsv 12
+qv 108 70
+qsv 12
+qcs
+qsv 12
+qtav 6 1
+qsv 12
+ap 144 DPO-bot-144 140
+qsv 12
+qv 52 63
+qsv 12
+qv 87 35
+qsv 12
+qv 52 45
+qsv 12
+dft 11 45 1
+qsv 12
+ar 19 51 48
+qsv 12
+qbs
+qsv 12
+qci 71 23
+qsv 12
+qv 118 69
+qsv 12
+qv 92 135
+qsv 12
+att 47 113 1
+qsv 12
+qv 123 88
+qsv 12
+ap 84 DPO-bot-84 186
+qsv 12
+att 68 129 1
+qsv 12
+qts
+qsv 12
+ap 145 DPO-bot-145 180
+qsv 12
+att 38 24 1
+qsv 12
+qv 53 138
+qsv 12
+qci 127 41
+qsv 12
+qv 140 62
+qsv 12
+qci 116 129
+qsv 12
+qv 39 113
+qsv 12
+qv 44 125
+qsv 12
+ap 146 DPO-bot-146 188
+qsv 12
+att 85 106 1
+qsv 12
+qv 68 128
+qsv 12
+att 97 46 1
+qsv 12
+qv 38 89
+qsv 12
+qv 6 132
+qsv 12
+qtav 78 1
+qsv 12
+att 74 17 1
+qsv 12
+qci 45 73
+qsv 12
+qv 9 33
+qsv 12
+att 8 16 1
+qsv 12
+ar 91 70 87
+qsv 12
+ar 133 145 175
+qsv 12
+qtav 89 1
+qsv 12
+at 123 1
+qsv 12
+qci 41 136
+qsv 12
+att 1 122 1
+qsv 12
+dft 91 70 1
+qsv 12
+qbs
+qsv 12
+qv 51 108
+qsv 12
+ar 16 8 13
+qsv 12
+ar 58 95 54
+qsv 12
+qci 26 80
+qsv 12
+qts
+qsv 12
+qv 193 136
+qsv 12
+att 147 176 44
+qsv 12
+dft 25 132 1
+qsv 12
+qv 101 128
+qsv 12
+att 49 10 1
+qsv 12
+qv 106 55
+qsv 12
+ar 34 108 155
+qsv 12
+att 31 34 1
+qsv 12
+ap 102 DPO-bot-102 40
+qsv 12
+att 110 43 1
+qsv 12
+dft 8 34 1
+qsv 12
+qv 125 44
+qsv 12
+qv 39 108
+qsv 12
+qv 19 112
+qsv 12
+mr 41 141 -47
+qsv 12
+at 17 1
+qsv 12
+att 4 20 1
+qsv 12
+att 19 8 1
+qsv 12
+att 1 115 1
+qsv 12
+ar 32 99 78
+qsv 12
+att 45 71 1
+qsv 12
+att 1 80 1
+qsv 12
+att 1 86 1
+qsv 12
+att 38 74 1
+qsv 12
+qv 95 94
+qsv 12
+qsp 77 39
+qsv 12
+ap 127 DPO-bot-127 161
+qsv 12
+qsp 32 74
+qsv 12
+dft 8 98 1
+qsv 12
+att 20 11 1
+qsv 12
+att 1 123 1
+qsv 12
+qv 135 49
+qsv 12
+att 29 62 1
+qsv 12
+dft 24 60 1
+qsv 12
+att 15 4 1
+qsv 12
+qv 83 84
+qsv 12
+qtvs 47 1
+qsv 12
+qtvs 43 1
+qsv 12
+att 109 98 1
+qsv 12
+qv 77 23
+qsv 12
+dft 44 24 1
+qsv 12
+qci 107 131
+qsv 12
+qtvs 9 1
+qsv 12
+att 54 65 1
+qsv 12
+qcs
+qsv 12
+att 59 131 1
+qsv 12
+qci 143 110
+qsv 12
+qv 109 50
+qsv 12
+qv 37 4
+qsv 12
+att 45 71 1
+qsv 12
+qv 36 13
+qsv 12
+qv 80 34
+qsv 12
+qv 130 66
+qsv 12
+qv 135 14
+qsv 12
+qv 112 37
+qsv 12
+at 24 1
+qsv 12
+att 1 144 1
+qsv 12
+qcs
+qsv 12
+qv 89 116
+qsv 12
+att 20 48 1
+qsv 12
+qv 133 62
+qsv 12
+att 1 32 1
+qsv 12
+qtvs 79 1
+qsv 12
+qv 18 113
+qsv 12
+at 115 1
+qsv 12
+att 5 4 1
+qsv 12
+att 6 53 1
+qsv 12
+qci 63 112
+qsv 12
+mr 65 105 -182
+qsv 12
+ap 147 DPO-bot-147 103
+qsv 12
+qba 119
+qsv 12
+qbs
+qsv 12
+dft 119 107 1
+qsv 12
+ar 13 61 106
+qsv 12
+qbs
+qsv 12
+dft 81 53 1
+qsv 12
+at 90 1
+qsv 12
+att 94 104 1
+qsv 12
+qci 75 39
+qsv 12
+att 84 56 1
+qsv 12
+dt 9 1
+qsv 12
+qv 136 146
+qsv 12
+qsp 24 86
+qsv 12
+qv 88 37
+qsv 12
+qba 9
+qsv 12
+qv 35 111
+qsv 12
+qv 79 13
+qsv 12
+qtav 87 1
+qsv 12
+ap 148 DPO-bot-148 97
+qsv 12
+att 68 129 1
+qsv 12
+qv 118 23
+qsv 12
+mr 25 98 -135
+qsv 12
+att 99 102 1
+qsv 12
+qsp 49 111
+qsv 12
+qv 101 62
+qsv 12
+qci 71 2
+qsv 12
+qv 20 94
+qsv 12
+att 44 103 1
+qsv 12
+att 2 92 1
+qsv 12
+att 1 123 1
+qsv 12
+qv 136 145
+qsv 12
+ap 149 DPO-bot-149 161
+qsv 12
+qv 12 108
+qsv 12
+qcs
+qsv 12
+qci 45 75
+qsv 12
+qv 86 139
+qsv 12
+qcs
+qsv 12
+qv 131 139
+qsv 12
+ap 62 DPO-bot-62 180
+qsv 12
+qv 46 31
+qsv 12
+ar 109 136 4
+qsv 12
+qv 5 37
+qsv 12
+qtvs 26 1
+qsv 12
+qtav 110 1
+qsv 12
+qsp 69 109
+qsv 12
+at 103 1
+qsv 12
+qv 12 142
+qsv 12
+dt 39 1
+qsv 12
+qci 125 36
+qsv 12
+qtav 128 1
+qsv 12
+qci 29 103
+qsv 12
+qv 140 56
+qsv 12
+mr 110 137 -73
+qsv 12
+qv 9 47
+qsv 12
+qv 20 123
+qsv 12
+qv 110 26
+qsv 12
+dft 9 33 1
+qsv 12
+dft 5 46 1
+qsv 12
+att 12 13 1
+qsv 12
+dft 47 113 1
+qsv 12
+qtvs 41 1
+qsv 12
+qv 41 59
+qsv 12
+qv 148 98
+qsv 12
+qba 39
+qsv 12
+att 11 43 1
+qsv 12
+ap 112 DPO-bot-112 72
+qsv 12
+att 31 65 1
+qsv 12
+qv 114 108
+qsv 12
+qci 143 89
+qsv 12
+att 67 77 1
+qsv 12
+qci 75 229
+qsv 12
+att 84 113 1
+qsv 12
+qci 145 106
+qsv 12
+qts
+qsv 12
+dft 35 27 1
+qsv 12
+qv 121 68
+qsv 12
+qci 95 5
+qsv 12
+qbs
+qsv 12
+qv 125 106
+qsv 12
+att 30 16 1
+qsv 12
+dft 21 89 1
+qsv 12
+qtav 77 1
+qsv 12
+qbs
+qsv 12
+att 25 132 1
+qsv 12
+qv 132 144
+qsv 12
+qci 45 10
+qsv 12
+qv 144 127
+qsv 12
+qtvs 134 1
+qsv 12
+qci 262 119
+qsv 12
+mr 127 139 -63
+qsv 12
+qtav 22 1
+qsv 12
+qci 97 32
+qsv 12
+ar 97 3 119
+qsv 12
+att 46 97 1
+qsv 12
+qv 85 169
+qsv 12
+dft 2 12 1
+qsv 12
+qtvs 28 1
+qsv 12
+qts
+qsv 12
+att 59 131 1
+qsv 12
+qtvs 120 1
+qsv 12
+qv 6 78
+qsv 12
+qci 1 28
+qsv 12
+qv 18 22
+qsv 12
+att 29 1 1
+qsv 12
+qv 44 94
+qsv 12
+at 75 1
+qsv 12
+qci 31 33
+qsv 12
+att 44 103 1
+qsv 12
+qts
+qsv 12
+qsp 115 28
+qsv 12
+att 30 43 1
+qsv 12
+qtvs 145 1
+qsv 12
+ap 150 DPO-bot-150 136
+qsv 12
+qci 15 4
+qsv 12
+ar 87 135 44
+qsv 12
+qv 79 40
+qsv 12
+qsp 42 27
+qsv 12
+qv 140 80
+qsv 12
+qtav 126 1
+qsv 12
+qcs
+qsv 12
+qtav 81 1
+qsv 12
+qtvs 24 1
+qsv 12
+mr 8 19 -37
+qsv 12
+qv 52 76
+qsv 12
+qv 63 97
+qsv 12
+dft 35 41 1
+qsv 12
+qtvs 22 1
+qsv 12
+qsp 40 45
+qsv 12
+qci 139 3
+qsv 12
+qv 10 1
+qsv 12
+qci 133 48
+qsv 12
+qts
+qsv 12
+qtav 79 1
+qsv 12
+qbs
+qsv 12
+qv 140 95
+qsv 12
+qv 1 275
+qsv 12
+qci 30 35
+qsv 12
+qsp 33 81
+qsv 12
+att 129 68 1
+qsv 12
+dt 88 1
+qsv 12
+ap 77 DPO-bot-77 74
+qsv 12
+qv 55 59
+qsv 12
+ap 88 DPO-bot-88 152
+qsv 12
+qci 107 88
+qsv 12
+att 95 58 1
+qsv 12
+qv 21 54
+qsv 12
+qv 63 21
+qsv 12
+ap 151 DPO-bot-151 185
+qsv 12
+ap 152 DPO-bot-152 32
+qsv 12
+att 25 132 1
+qsv 12
+att 1 149 1
+qsv 12
+qv 129 59
+qsv 12
+qv 18 29
+qsv 12
+qv 101 6
+qsv 12
+att 41 37 1
+qsv 12
+qsp 41 11
+qsv 12
+qci 18 38
+qsv 12
+qci 123 126
+qsv 12
+att 91 70 1
+qsv 12
+att 43 110 1
+qsv 12
+att 19 68 1
+qsv 12
+dft 44 103 1
+qsv 12
+qv 83 94
+qsv 12
+ap 48 DPO-bot-48 29
+qsv 12
+att 28 87 1
+qsv 12
+att 64 91 1
+qsv 12
+dft 1 121 1
+qsv 12
+ar 39 131 157
+qsv 12
+att 18 99 1
+qsv 12
+att 1 32 1
+qsv 12
+att 1 134 1
+qsv 12
+qsp 22 20
+qsv 12
+qbs
+qsv 12
+att 79 82 1
+qsv 12
+ap 140 DPO-bot-140 148
+qsv 12
+att 58 88 1
+qsv 12
+qci 18 142
+qsv 12
+att 33 18 2
+qsv 12
+at 3 1
+qsv 12
+qbs
+qsv 12
+qv 123 118
+qsv 12
+att 20 105 1
+qsv 12
+att 35 32 1
+qsv 12
+qsp 145 131
+qsv 12
+qba 145
+qsv 12
+qts
+qsv 12
+qv 58 67
+qsv 12
+att 1 134 1
+qsv 12
+at 13 1
+qsv 12
+qv 27 94
+qsv 12
+qci 123 19
+qsv 12
+qv 30 62
+qsv 12
+qv 19 146
+qsv 12
+qv 76 130
+qsv 12
+att 89 78 1
+qsv 12
+qv 72 70
+qsv 12
+qci 52 26
+qsv 12
+dt 103 1
+qsv 12
+ar 77 74 155
+qsv 12
+mr 76 3 -112
+qsv 12
+att 38 126 1
+qsv 12
+mr 64 90 -150
+qsv 12
+qv 119 139
+qsv 12
+ap 153 DPO-bot-153 151
+qsv 12
+qci 33 63
+qsv 12
+qba 82
+qsv 12
+qv 147 23
+qsv 12
+att 10 30 1
+qsv 12
+qv 49 18
+qsv 12
+qci 46 67
+qsv 12
+qci 149 125
+qsv 12
+ap 154 DPO-bot-154 68
+qsv 12
+qv 121 50
+qsv 12
+qtav 104 1
+qsv 12
+qsp 107 29
+qsv 12
+mr 41 136 -52
+qsv 12
+qv 88 57
+qsv 12
+qci 103 59
+qsv 12
+att 33 94 1
+qsv 12
+qci 106 40
+qsv 12
+qci 16 140
+qsv 12
+dft 39 72 1
+qsv 12
+qts
+qsv 12
+att 94 104 1
+qsv 12
+qcs
+qsv 12
+att 145 133 1
+qsv 12
+qtav 136 1
+qsv 12
+qv 102 154
+qsv 12
+qv 51 137
+qsv 12
+qci 25 16
+qsv 12
+ap 1 DPO-bot-1 98
+qsv 12
+att 113 46 1
+qsv 12
+att 1 146 1
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+att 23 96 1
+qsv 12
+qv 38 40
+qsv 12
+att 1 150 1
+qsv 12
+qbs
+qsv 12
+att 9 16 1
+qsv 12
+qsp 143 127
+qsv 12
+qv 151 44
+qsv 12
+qv 80 130
+qsv 12
+ar 135 20 78
+qsv 12
+qv 72 6
+qsv 12
+qtav 29 1
+qsv 12
+qv 37 42
+qsv 12
+qv 50 23
+qsv 12
+qts
+qsv 12
+qts
+qsv 12
+att 96 23 1
+qsv 12
+at 103 1
+qsv 12
+at 90 1
+qsv 12
+dft 82 83 1
+qsv 12
+att 104 94 1
+qsv 12
+qv 132 147
+qsv 12
+qv 93 31
+qsv 12
+at 44 1
+qsv 12
+att 1 148 1
+qsv 12
+dft 10 3 1
+qsv 12
+qv 44 5
+qsv 12
+dt 40 1
+qsv 12
+qci 82 6
+qsv 12
+att 58 95 1
+qsv 12
+at 9 1
+qsv 12
+qci 94 123
+qsv 12
+att 1 115 1
+qsv 12
+ar 106 105 34
+qsv 12
+dft 1 144 1
+qsv 12
+qv 64 4
+qsv 12
+dft 58 44 1
+qsv 12
+at 12 1
+qsv 12
+dt 122 1
+qsv 12
+att 1 80 1
+qsv 12
+ar 9 74 43
+qsv 12
+qv 79 18
+qsv 12
+mr 34 72 -119
+qsv 12
+att 83 112 1
+qsv 12
+qv 123 88
+qsv 12
+qv 48 70
+qsv 12
+qbs
+qsv 12
+qsp 61 145
+qsv 12
+qba 19
+qsv 12
+qtav 136 1
+qsv 12
+att 99 102 1
+qsv 12
+qv 126 52
+qsv 12
+mr 16 28 -93
+qsv 12
+att 32 51 1
+qsv 12
+qv 13 147
+qsv 12
+qv 74 141
+qsv 12
+qci 60 27
+qsv 12
+qv 131 22
+qsv 12
+att 1 122 1
+qsv 12
+ar 73 54 9
+qsv 12
+att 1 122 1
+qsv 12
+qba 13
+qsv 12
+att 1 34 1
+qsv 12
+qv 72 140
+qsv 12
+att 1 144 1
+qsv 12
+qts
+qsv 12
+at 58 1
+qsv 12
+att 81 65 1
+qsv 12
+ap 97 DPO-bot-97 33
+qsv 12
+att 126 38 1
+qsv 12
+qv 130 46
+qsv 12
+mr 18 84 -88
+qsv 12
+att 39 72 1
+qsv 12
+ar 16 122 134
+qsv 12
+att 27 7 1
+qsv 12
+qci 147 75
+qsv 12
+ap 155 DPO-bot-155 199
+qsv 12
+qtvs 124 1
+qsv 12
+qci 17 136
+qsv 12
+att 47 53 1
+qsv 12
+qv 150 76
+qsv 12
+att 31 22 1
+qsv 12
+qv 140 24
+qsv 12
+ap 156 DPO-bot-156 184
+qsv 12
+mr 52 45 -11
+qsv 12
+qci 149 66
+qsv 12
+att 89 78 1
+qsv 12
+ar 51 51 171
+qsv 12
+qv 78 83
+qsv 12
+qtav 280 21
+qsv 12
+qci 89 37
+qsv 12
+qcs
+qsv 12
+qtvs 29 1
+qsv 12
+att 89 78 1
+qsv 12
+att 6 2 1
+qsv 12
+qv 35 102
+qsv 12
+ar 25 90 167
+qsv 12
+ap 157 DPO-bot-157 102
+qsv 12
+qci 1 59
+qsv 12
+qts
+qsv 12
+mr 61 125 -141
+qsv 12
+qci 124 218
+qsv 12
+att 43 59 3
+qsv 12
+att 6 4 1
+qsv 12
+qts
+qsv 12
+qv 130 16
+qsv 12
+qci 107 57
+qsv 12
+dft 39 72 1
+qsv 12
+att 45 49 1
+qsv 12
+qbs
+qsv 12
+qcs
+qsv 12
+ar 77 85 159
+qsv 12
+qv 129 78
+qsv 12
+qsp 62 2
+qsv 12
+att 1 134 1
+qsv 12
+ap 32 DPO-bot-32 148
+qsv 12
+qv 66 38
+qsv 12
+ar 37 80 182
+qsv 12
+qv 68 6
+qsv 12
+qbs
+qsv 12
+qv 5 152
+qsv 12
+qv 15 150
+qsv 12
+qsp 58 120
+qsv 12
+qci 34 41
+qsv 12
+att 42 15 1
+qsv 12
+qsp 131 64
+qsv 12
+qcs
+qsv 12
+qci 93 130
+qsv 12
+qv 53 52
+qsv 12
+att 25 132 1
+qsv 12
+ar 16 54 83
+qsv 12
+qcs
+qsv 12
+att 22 93 1
+qsv 12
+att 158 309 25
+qsv 12
+qci 97 103
+qsv 12
+att 34 108 1
+qsv 12
+qci 80 53
+qsv 12
+att 68 55 1
+qsv 12
+qv 18 129
+qsv 12
+qci 68 110
+qsv 12
+qv 37 142
+qsv 12
+qv 77 55
+qsv 12
+ar 151 88 81
+qsv 12
+att 1 125 1
+qsv 12
+att 46 5 1
+qsv 12
+ap 158 DPO-bot-158 64
+qsv 12
+qba 34
+qsv 12
+mr 82 90 -145
+qsv 12
+qv 155 6
+qsv 12
+att 159 172 79
+qsv 12
+qba 135
+qsv 12
+qci 70 36
+qsv 12
+att 32 45 1
+qsv 12
+att 6 52 1
+qsv 12
+att 81 53 1
+qsv 12
+att 3 46 1
+qsv 12
+qv 39 90
+qsv 12
+qv 152 155
+qsv 12
+qts
+qsv 12
+qv 100 86
+qsv 12
+qv 58 83
+qsv 12
+qts
+qsv 12
+att 95 58 1
+qsv 12
+qv 143 27
+qsv 12
+ar 12 78 19
+qsv 12
+dft 109 136 1
+qsv 12
+at 133 1
+qsv 12
+qtvs 62 1
+qsv 12
+dt 29 1
+qsv 12
+att 6 1 1
+qsv 12
+att 37 80 1
+qsv 12
+att 94 11 1
+qsv 12
+att 18 11 5
+qsv 12
+att 54 111 1
+qsv 12
+qts
+qsv 12
+att 83 112 1
+qsv 12
+qtav 122 1
+qsv 12
+qci 22 8
+qsv 12
+qsp 70 111
+qsv 12
+ar 39 37 2
+qsv 12
+att 16 122 1
+qsv 12
+qv 85 55
+qsv 12
+qci 99 25
+qsv 12
+att 1 143 1
+qsv 12
+dft 43 110 1
+qsv 12
+qcs
+qsv 12
+qci 28 90
+qsv 12
+dft 9 74 1
+qsv 12
+qsp 134 154
+qsv 12
+dft 106 105 1
+qsv 12
+qtvs 99 1
+qsv 12
+qv 39 14
+qsv 12
+dt 68 1
+qsv 12
+qv 131 142
+qsv 12
+att 49 52 1
+qsv 12
+qv 141 138
+qsv 12
+qtav 72 1
+qsv 12
+att 43 59 1
+qsv 12
+att 22 93 1
+qsv 12
+qtav 97 1
+qsv 12
+qv 130 47
+qsv 12
+qv 66 107
+qsv 12
+att 92 2 1
+qsv 12
+qci 75 94
+qsv 12
+att 6 47 1
+qsv 12
+ap 159 DPO-bot-159 5
+qsv 12
+qv 100 65
+qsv 12
+qci 118 102
+qsv 12
+att 109 136 1
+qsv 12
+qv 101 125
+qsv 12
+qsp 57 150
+qsv 12
+qbs
+qsv 12
+qci 110 72
+qsv 12
+qtav 16 1
+qsv 12
+qci 59 77
+qsv 12
+qv 144 5
+qsv 12
+mr 93 136 -17
+qsv 12
+qsp 85 278
+qsv 12
+qv 82 109
+qsv 12
+qbs
+qsv 12
+qba 150
+qsv 12
+qci 21 17
+qsv 12
+qcs
+qsv 12
+dft 1 155 1
+qsv 12
+qv 54 28
+qsv 12
+qci 98 78
+qsv 12
+qci 133 4
+qsv 12
+att 81 53 1
+qsv 12
+qsp 4 37
+qsv 12
+att 80 37 1
+qsv 12
+dt 151 1
+qsv 12
+att 32 45 1
+qsv 12
+qv 92 23
+qsv 12
+qci 32 95
+qsv 12
+ar 57 13 158
+qsv 12
+qci 50 33
+qsv 12
+att 151 88 1
+qsv 12
+qv 45 55
+qsv 12
+qci 57 112
+qsv 12
+ar 32 46 57
+qsv 12
+att 99 75 1
+qsv 12
+ar 83 151 153
+qsv 12
+qtvs 54 1
+qsv 12
+at 14 1
+qsv 12
+qbs
+qsv 12
+dft 54 111 1
+qsv 12
+qv 56 135
+qsv 12
+att 1 138 1
+qsv 12
+att 22 17 1
+qsv 12
+qv 45 145
+qsv 12
+att 1 140 1
+qsv 12
+at 118 1
+qsv 12
+dft 11 14 1
+qsv 12
+att 23 96 1
+qsv 12
+att 5 36 1
+qsv 12
+qv 88 60
+qsv 12
+qv 129 16
+qsv 12
+ar 107 123 42
+qsv 12
+qba 131
+qsv 12
+at 143 1
+qsv 12
+att 1 155 1
+qsv 12
+qcs
+qsv 12
+att 1 155 1
+qsv 12
+qv 44 141
+qsv 12
+qv 25 25
+qsv 12
+qci 90 207
+qsv 12
+qcs
+qsv 12
+qtav 66 1
+qsv 12
+qv 44 12
+qsv 12
+qv 91 13
+qsv 12
+ar 140 96 157
+qsv 12
+qci 49 15
+qsv 12
+ar 26 43 33
+qsv 12
+dft 59 22 1
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+att 20 30 1
+qsv 12
+qv 142 51
+qsv 12
+qv 105 6
+qsv 12
+att 11 51 1
+qsv 12
+att 37 80 1
+qsv 12
+qci 28 151
+qsv 12
+qbs
+qsv 12
+qv 3 100
+qsv 12
+qv 136 2
+qsv 12
+qtvs 38 3
+qsv 12
+qci 45 81
+qsv 12
+qts
+qsv 12
+ar 126 62 133
+qsv 12
+qv 149 46
+qsv 12
+att 1 128 1
+qsv 12
+att 44 58 1
+qsv 12
+dft 109 98 1
+qsv 12
+qv 35 158
+qsv 12
+qts
+qsv 12
+att 22 59 1
+qsv 12
+dft 47 53 1
+qsv 12
+ar 71 8 43
+qsv 12
+qtvs 47 1
+qsv 12
+ar 102 146 130
+qsv 12
+att 14 5 1
+qsv 12
+mr 67 120 -176
+qsv 12
+att 18 90 1
+qsv 12
+qci 143 115
+qsv 12
+att 14 11 5
+qsv 12
+qv 94 22
+qsv 12
+qbs
+qsv 12
+qv 60 98
+qsv 12
+qci 102 86
+qsv 12
+dft 58 88 1
+qsv 12
+qtvs 66 1
+qsv 12
+qci 21 153
+qsv 12
+qbs
+qsv 12
+qci 50 135
+qsv 12
+qcs
+qsv 12
+qtav 139 1
+qsv 12
+at 98 1
+qsv 12
+qv 90 71
+qsv 12
+att 22 59 1
+qsv 12
+dft 13 34 1
+qsv 12
+ap 44 DPO-bot-44 77
+qsv 12
+qv 108 59
+qsv 12
+ap 90 DPO-bot-90 129
+qsv 12
+att 89 116 1
+qsv 12
+dft 19 74 1
+qsv 12
+qci 39 26
+qsv 12
+mr 44 97 -85
+qsv 12
+qv 66 143
+qsv 12
+att 96 73 1
+qsv 12
+qtav 141 1
+qsv 12
+att 20 76 1
+qsv 12
+qbs
+qsv 12
+qtvs 148 1
+qsv 12
+dft 26 43 1
+qsv 12
+qba 22
+qsv 12
+qci 91 133
+qsv 12
+qv 78 126
+qsv 12
+qsp 75 70
+qsv 12
+att 90 32 1
+qsv 12
+qci 140 36
+qsv 12
+qv 78 59
+qsv 12
+ap 160 DPO-bot-160 9
+qsv 12
+qv 119 123
+qsv 12
+qv 107 69
+qsv 12
+att 3 5 1
+qsv 12
+qv 99 28
+qsv 12
+att 1 154 1
+qsv 12
+qci 6 47
+qsv 12
+qci 136 18
+qsv 12
+qci 29 38
+qsv 12
+qv 50 55
+qsv 12
+att 109 136 1
+qsv 12
+qv 130 55
+qsv 12
+qv 8 72
+qsv 12
+at 159 1
+qsv 12
+dt 48 1
+qsv 12
+att 4 15 1
+qsv 12
+att 8 18 1
+qsv 12
+att 21 69 1
+qsv 12
+att 16 122 1
+qsv 12
+ap 138 DPO-bot-138 70
+qsv 12
+att 43 110 1
+qsv 12
+ar 128 148 106
+qsv 12
+att 35 33 1
+qsv 12
+ar 108 121 32
+qsv 12
+dt 138 1
+qsv 12
+qv 110 151
+qsv 12
+qtav 152 1
+qsv 12
+ap 143 DPO-bot-143 50
+qsv 12
+qv 23 52
+qsv 12
+qv 108 62
+qsv 12
+qv 58 143
+qsv 12
+qv 87 40
+qsv 12
+qv 122 156
+qsv 12
+qv 133 156
+qsv 12
+att 81 53 1
+qsv 12
+qbs
+qsv 12
+qtvs 58 1
+qsv 12
+att 3 42 1
+qsv 12
+att 64 68 1
+qsv 12
+att 64 91 1
+qsv 12
+qv 112 90
+qsv 12
+dt 77 1
+qsv 12
+att 83 112 1
+qsv 12
+qtvs 59 1
+qsv 12
+qsp 121 66
+qsv 12
+qv 20 116
+qsv 12
+qv 97 96
+qsv 12
+qv 42 139
+qsv 12
+qci 9 16
+qsv 12
+qv 141 140
+qsv 12
+dft 81 65 1
+qsv 12
+qci 58 44
+qsv 12
+dft 8 103 1
+qsv 12
+ar 63 133 12
+qsv 12
+ap 161 DPO-bot-161 184
+qsv 12
+qci 68 141
+qsv 12
+qv 15 67
+qsv 12
+att 68 58 1
+qsv 12
+qv 40 129
+qsv 12
+qci 108 37
+qsv 12
+att 13 57 1
+qsv 12
+qv 92 59
+qsv 12
+qv 3 17
+qsv 12
+ar 154 191 25
+qsv 12
+qv 124 19
+qsv 12
+qba 55
+qsv 12
+att 98 109 1
+qsv 12
+ap 162 DPO-bot-162 34
+qsv 12
+att 58 47 1
+qsv 12
+qsp 156 81
+qsv 12
+qv 74 59
+qsv 12
+qv 108 101
+qsv 12
+qv 149 44
+qsv 12
+qts
+qsv 12
+qv 17 322
+qsv 12
+att 1 157 1
+qsv 12
+att 87 135 1
+qsv 12
+qv 102 42
+qsv 12
+qv 51 99
+qsv 12
+qtav 86 1
+qsv 12
+att 1 154 1
+qsv 12
+ap 163 DPO-bot-163 74
+qsv 12
+att 164 163 95
+qsv 12
+qbs
+qsv 12
+dft 37 80 1
+qsv 12
+qv 21 163
+qsv 12
+qsp 99 5
+qsv 12
+ar 146 52 26
+qsv 12
+att 43 110 1
+qsv 12
+qci 83 117
+qsv 12
+qcs
+qsv 12
+att 50 42 1
+qsv 12
+qba 154
+qsv 12
+qci 44 37
+qsv 12
+qv 51 117
+qsv 12
+qbs
+qsv 12
+qv 94 53
+qsv 12
+qv 136 146
+qsv 12
+att 108 121 1
+qsv 12
+ar 54 97 141
+qsv 12
+qv 96 131
+qsv 12
+att 58 48 1
+qsv 12
+att 108 121 1
+qsv 12
+qv 146 160
+qsv 12
+qba 96
+qsv 12
+qv 72 38
+qsv 12
+qv 108 99
+qsv 12
+att 140 96 1
+qsv 12
+qtav 135 1
+qsv 12
+qv 127 119
+qsv 12
+qv 157 31
+qsv 12
+qv 160 61
+qsv 12
+qci 81 90
+qsv 12
+qci 44 137
+qsv 12
+qci 134 2
+qsv 12
+qbs
+qsv 12
+att 148 128 1
+qsv 12
+qba 9
+qsv 12
+qv 119 148
+qsv 12
+at 62 1
+qsv 12
+att 40 28 1
+qsv 12
+qv 90 87
+qsv 12
+att 2 33 1
+qsv 12
+dft 52 49 1
+qsv 12
+ap 164 DPO-bot-164 77
+qsv 12
+ar 106 124 63
+qsv 12
+att 1 120 1
+qsv 12
+qcs
+qsv 12
+dft 38 74 1
+qsv 12
+ar 131 70 162
+qsv 12
+qsp 75 154
+qsv 12
+att 8 71 1
+qsv 12
+dft 37 39 1
+qsv 12
+qtav 27 1
+qsv 12
+att 84 56 1
+qsv 12
+att 8 97 1
+qsv 12
+qci 35 161
+qsv 12
+qci 25 17
+qsv 12
+qv 92 129
+qsv 12
+qv 26 83
+qsv 12
+mr 76 12 -73
+qsv 12
+mr 143 92 -149
+qsv 12
+qtvs 88 1
+qsv 12
+qci 65 152
+qsv 12
+qbs
+qsv 12
+qv 22 130
+qsv 12
+att 16 6 1
+qsv 12
+at 45 1
+qsv 12
+ar 139 138 131
+qsv 12
+qci 100 159
+qsv 12
+att 165 164 16
+qsv 12
+qci 9 27
+qsv 12
+mr 106 89 -32
+qsv 12
+qci 167 42
+qsv 12
+qv 70 8
+qsv 12
+qv 37 142
+qsv 12
+att 20 135 1
+qsv 12
+ar 16 152 66
+qsv 12
+dft 54 65 1
+qsv 12
+qci 45 42
+qsv 12
+att 1 159 1
+qsv 12
+qsp 56 49
+qsv 12
+qv 102 66
+qsv 12
+ar 113 146 118
+qsv 12
+ar 40 94 175
+qsv 12
+qv 74 4
+qsv 12
+qci 31 114
+qsv 12
+att 107 43 1
+qsv 12
+att 1 120 1
+qsv 12
+qci 103 52
+qsv 12
+ap 165 DPO-bot-165 173
+qsv 12
+qv 144 155
+qsv 12
+att 61 66 1
+qsv 12
+qba 9
+qsv 12
+qv 26 128
+qsv 12
+qv 114 92
+qsv 12
+att 63 133 1
+qsv 12
+qci 31 23
+qsv 12
+qcs
+qsv 12
+qv 55 1
+qsv 12
+qv 157 157
+qsv 12
+qci 94 21
+qsv 12
+dft 106 105 1
+qsv 12
+att 29 24 1
+qsv 12
+mr 157 67 -67
+qsv 12
+att 84 113 1
+qsv 12
+att 69 21 1
+qsv 12
+dft 1 147 1
+qsv 12
+att 20 135 1
+qsv 12
+att 166 317 39
+qsv 12
+qv 65 120
+qsv 12
+at 74 1
+qsv 12
+ar 90 24 6
+qsv 12
+at 131 1
+qsv 12
+qv 149 115
+qsv 12
+qsp 11 11
+qsv 12
+att 34 31 1
+qsv 12
+mr 81 90 -132
+qsv 12
+att 39 72 1
+qsv 12
+dft 2 92 1
+qsv 12
+ar 71 120 61
+qsv 12
+qsp 53 161
+qsv 12
+dft 31 66 1
+qsv 12
+att 107 123 1
+qsv 12
+ap 11 DPO-bot-11 120
+qsv 12
+qv 60 5
+qsv 12
+att 17 29 1
+qsv 12
+qv 125 45
+qsv 12
+att 104 94 1
+qsv 12
+qtav 13 1
+qsv 12
+qbs
+qsv 12
+qtav 1 1
+qsv 12
+qci 122 44
+qsv 12
+qv 147 152
+qsv 12
+ap 166 DPO-bot-166 115
+qsv 12
+qv 11 144
+qsv 12
+qts
+qsv 12
+ar 62 138 128
+qsv 12
+ar 127 126 112
+qsv 12
+qts
+qsv 12
+ap 123 DPO-bot-123 146
+qsv 12
+qtvs 90 1
+qsv 12
+qts
+qsv 12
+qv 71 62
+qsv 12
+att 95 58 1
+qsv 12
+qbs
+qsv 12
+qv 88 43
+qsv 12
+att 16 152 1
+qsv 12
+dft 61 66 1
+qsv 12
+qsp 70 140
+qsv 12
+qv 166 79
+qsv 12
+qtav 53 1
+qsv 12
+qv 147 20
+qsv 12
+att 3 10 1
+qsv 12
+ar 84 138 73
+qsv 12
+qci 151 69
+qsv 12
+qv 96 12
+qsv 12
+dft 106 124 1
+qsv 12
+att 32 84 1
+qsv 12
+qci 130 122
+qsv 12
+att 64 68 1
+qsv 12
+att 77 75 1
+qsv 12
+qci 43 160
+qsv 12
+att 35 41 1
+qsv 12
+qcs
+qsv 12
+qv 44 128
+qsv 12
+dft 140 96 1
+qsv 12
+qv 26 98
+qsv 12
+att 37 39 1
+qsv 12
+qv 71 117
+qsv 12
+qv 106 64
+qsv 12
+qv 7 303
+qsv 12
+ar 141 73 6
+qsv 12
+att 59 41 1
+qsv 12
+qbs
+qsv 12
+att 13 49 1
+qsv 12
+qci 69 52
+qsv 12
+dft 1 142 1
+qsv 12
+qv 21 9
+qsv 12
+att 16 54 1
+qsv 12
+qv 10 49
+qsv 12
+qci 16 148
+qsv 12
+ar 313 76 79
+qsv 12
+dft 61 93 1
+qsv 12
+qv 129 166
+qsv 12
+ar 155 8 170
+qsv 12
+dft 31 66 1
+qsv 12
+att 99 102 1
+qsv 12
+qts
+qsv 12
+ap 167 DPO-bot-167 71
+qsv 12
+qts
+qsv 12
+att 1 86 1
+qsv 12
+qts
+qsv 12
+qba 99
+qsv 12
+qci 88 54
+qsv 12
+qci 145 121
+qsv 12
+at 39 1
+qsv 12
+att 6 52 1
+qsv 12
+qv 134 65
+qsv 12
+qv 16 29
+qsv 12
+qci 108 2
+qsv 12
+att 106 124 1
+qsv 12
+ap 168 DPO-bot-168 55
+qsv 12
+at 112 1
+qsv 12
+qsp 131 54
+qsv 12
+qci 69 39
+qsv 12
+qv 162 148
+qsv 12
+qv 137 81
+qsv 12
+qv 63 112
+qsv 12
+qv 95 96
+qsv 12
+qtvs 7 1
+qsv 12
+qcs
+qsv 12
+qv 46 80
+qsv 12
+qsp 78 50
+qsv 12
+qts
+qsv 12
+ap 17 DPO-bot-17 84
+qsv 12
+dft 26 43 1
+qsv 12
+att 67 104 1
+qsv 12
+att 62 138 1
+qsv 12
+qv 79 17
+qsv 12
+att 16 122 1
+qsv 12
+att 1 163 1
+qsv 12
+att 29 100 1
+qsv 12
+qbs
+qsv 12
+qci 12 144
+qsv 12
+att 61 118 1
+qsv 12
+att 32 35 4
+qsv 12
+qv 137 83
+qsv 12
+qtvs 3 1
+qsv 12
+ap 163 DPO-bot-163 74
+qsv 12
+mr 31 16 -11
+qsv 12
+qba 191
+qsv 12
+att 49 45 1
+qsv 12
+att 34 50 1
+qsv 12
+qtvs 10 1
+qsv 12
+att 69 83 1
+qsv 12
+qv 137 109
+qsv 12
+qv 87 161
+qsv 12
+att 33 10 1
+qsv 12
+ap 9 DPO-bot-9 147
+qsv 12
+qtvs 166 1
+qsv 12
+dt 79 1
+qsv 12
+at 10 1
+qsv 12
+qv 165 74
+qsv 12
+att 58 95 1
+qsv 12
+qv 139 104
+qsv 12
+qcs
+qsv 12
+ap 169 DPO-bot-169 25
+qsv 12
+ap 170 DPO-bot-170 37
+qsv 12
+att 24 60 1
+qsv 12
+qci 96 129
+qsv 12
+qci 29 10
+qsv 12
+qv 145 80
+qsv 12
+att 8 155 1
+qsv 12
+ar 96 127 85
+qsv 12
+att 49 52 1
+qsv 12
+dft 138 139 1
+qsv 12
+att 83 82 1
+qsv 12
+at 38 1
+qsv 12
+att 8 14 1
+qsv 12
+att 132 25 1
+qsv 12
+att 1 165 1
+qsv 12
+att 58 68 1
+qsv 12
+qv 36 51
+qsv 12
+qts
+qsv 12
+att 74 77 1
+qsv 12
+qtvs 86 1
+qsv 12
+att 106 124 1
+qsv 12
+dt 98 1
+qsv 12
+qv 27 4
+qsv 12
+qba 148
+qsv 12
+qci 42 128
+qsv 12
+att 1 137 1
+qsv 12
+att 104 67 1
+qsv 12
+att 46 97 1
+qsv 12
+dft 91 70 1
+qsv 12
+qci 108 33
+qsv 12
+ap 171 DPO-bot-171 145
+qsv 12
+qv 89 72
+qsv 12
+qv 27 80
+qsv 12
+ap 146 DPO-bot-146 188
+qsv 12
+qtvs 101 1
+qsv 12
+qtvs 34 1
+qsv 12
+qv 115 101
+qsv 12
+dt 11 1
+qsv 12
+qv 51 311
+qsv 12
+att 103 44 1
+qsv 12
+qv 157 158
+qsv 12
+qtvs 88 1
+qsv 12
+qv 100 35
+qsv 12
+att 29 100 1
+qsv 12
+att 146 113 1
+qsv 12
+ap 93 DPO-bot-93 28
+qsv 12
+att 28 87 1
+qsv 12
+qts
+qsv 12
+att 23 96 1
+qsv 12
+att 1 168 1
+qsv 12
+qv 119 108
+qsv 12
+qv 22 48
+qsv 12
+qci 49 30
+qsv 12
+qv 72 107
+qsv 12
+qv 25 42
+qsv 12
+qv 169 39
+qsv 12
+att 50 42 1
+qsv 12
+qci 50 162
+qsv 12
+ap 160 DPO-bot-160 9
+qsv 12
+ar 20 74 181
+qsv 12
+att 96 23 1
+qsv 12
+qv 28 157
+qsv 12
+qsp 97 104
+qsv 12
+att 23 96 1
+qsv 12
+ap 172 DPO-bot-172 67
+qsv 12
+qsp 36 171
+qsv 12
+att 62 29 1
+qsv 12
+qv 108 43
+qsv 12
+att 6 12 1
+qsv 12
+ar 171 163 63
+qsv 12
+qv 67 99
+qsv 12
+qtvs 38 1
+qsv 12
+mr 119 140 -164
+qsv 12
+qv 162 76
+qsv 12
+ap 173 DPO-bot-173 70
+qsv 12
+att 104 94 1
+qsv 12
+att 29 100 1
+qsv 12
+att 54 73 1
+qsv 12
+qv 8 80
+qsv 12
+qv 126 73
+qsv 12
+ar 91 85 99
+qsv 12
+qci 65 68
+qsv 12
+qci 170 40
+qsv 12
+qv 161 154
+qsv 12
+qv 89 127
+qsv 12
+qtav 133 1
+qsv 12
+qci 43 83
+qsv 12
+ar 113 11 64
+qsv 12
+ar 157 13 116
+qsv 12
+at 140 1
+qsv 12
+qci 69 226
+qsv 12
+qv 78 81
+qsv 12
+ar 141 149 151
+qsv 12
+att 114 114 1
+qsv 12
+qv 33 43
+qsv 12
+qv 132 102
+qsv 12
+att 89 78 1
+qsv 12
+dft 68 129 1
+qsv 12
+qv 11 114
+qsv 12
+ar 33 81 163
+qsv 12
+qcs
+qsv 12
+att 8 18 1
+qsv 12
+qv 9 156
+qsv 12
+att 83 82 1
+qsv 12
+ar 50 99 176
+qsv 12
+att 96 127 1
+qsv 12
+att 72 39 1
+qsv 12
+qv 156 43
+qsv 12
+qcs
+qsv 12
+qv 33 18
+qsv 12
+dft 58 88 1
+qsv 12
+qcs
+qsv 12
+qcs
+qsv 12
+qts
+qsv 12
+qci 76 57
+qsv 12
+at 129 1
+qsv 12
+qv 150 171
+qsv 12
+att 50 64 1
+qsv 12
+qv 62 8
+qsv 12
+qts
+qsv 12
+dft 96 73 1
+qsv 12
+att 13 57 1
+qsv 12
+att 12 78 1
+qsv 12
+dft 54 111 1
+qsv 12
+at 63 1
+qsv 12
+qtav 110 1
+qsv 12
+qba 18
+qsv 12
+ap 174 DPO-bot-174 178
+qsv 12
+qv 79 57
+qsv 12
+at 49 1
+qsv 12
+qts
+qsv 12
+qci 107 120
+qsv 12
+qci 107 9
+qsv 12
+at 34 1
+qsv 12
+att 10 49 1
+qsv 12
+qbs
+qsv 12
+qv 65 113
+qsv 12
+att 3 97 1
+qsv 12
+qci 61 48
+qsv 12
+qv 85 88
+qsv 12
+qtvs 51 1
+qsv 12
+mr 64 130 -76
+qsv 12
+att 8 103 1
+qsv 12
+att 6 52 1
+qsv 12
+att 1 156 1
+qsv 12
+att 15 26 1
+qsv 12
+att 128 148 1
+qsv 12
+qci 2 43
+qsv 12
+dft 1 125 1
+qsv 12
+qv 111 39
+qsv 12
+qts
+qsv 12
+att 1 29 1
+qsv 12
+qtvs 144 1
+qsv 12
+qci 155 109
+qsv 12
+att 71 120 1
+qsv 12
+ar 35 54 59
+qsv 12
+qci 55 74
+qsv 12
+qv 47 149
+qsv 12
+ap 175 DPO-bot-175 35
+qsv 12
+att 2 92 1
+qsv 12
+qci 88 323
+qsv 12
+att 18 99 1
+qsv 12
+qv 28 3
+qsv 12
+ap 16 DPO-bot-16 49
+qsv 12
+qts
+qsv 12
+att 1 174 1
+qsv 12
+qsp 173 130
+qsv 12
+att 71 75 1
+qsv 12
+att 1 147 1
+qsv 12
+qv 143 50
+qsv 12
+qsp 75 52
+qsv 12
+att 151 88 1
+qsv 12
+qv 121 138
+qsv 12
+qba 22
+qsv 12
+qts
+qsv 12
+qv 61 61
+qsv 12
+qv 72 120
+qsv 12
+qbs
+qsv 12
+qsp 87 53
+qsv 12
+att 89 78 1
+qsv 12
+qci 126 88
+qsv 12
+att 77 67 1
+qsv 12
+qcs
+qsv 12
+qtvs 162 1
+qsv 12
+qci 120 46
+qsv 12
+qci 75 125
+qsv 12
+att 1 144 1
+qsv 12
+ar 158 165 106
+qsv 12
+att 39 72 1
+qsv 12
+qtvs 33 1
+qsv 12
+qsp 110 153
+qsv 12
+qv 158 32
+qsv 12
+qbs
+qsv 12
+att 108 121 1
+qsv 12
+att 138 139 1
+qsv 12
+qci 142 118
+qsv 12
+qv 137 164
+qsv 12
+att 171 163 1
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+qv 58 10
+qsv 12
+qv 139 35
+qsv 12
+att 13 157 1
+qsv 12
+att 66 57 1
+qsv 12
+qsp 33 108
+qsv 12
+at 118 1
+qsv 12
+qv 167 1
+qsv 12
+qba 138
+qsv 12
+qv 13 22
+qsv 12
+at 5 1
+qsv 12
+qv 10 98
+qsv 12
+qts
+qsv 12
+ap 104 DPO-bot-104 198
+qsv 12
+ap 176 DPO-bot-176 191
+qsv 12
+qci 167 58
+qsv 12
+att 11 11 1
+qsv 12
+dft 165 158 1
+qsv 12
+qv 29 90
+qsv 12
+qv 89 120
+qsv 12
+dt 70 1
+qsv 12
+qv 110 102
+qsv 12
+at 4 1
+qsv 12
+att 63 23 1
+qsv 12
+qv 173 119
+qsv 12
+qv 101 111
+qsv 12
+qtvs 130 1
+qsv 12
+qv 37 84
+qsv 12
+qv 128 135
+qsv 12
+qv 76 104
+qsv 12
+qci 16 101
+qsv 12
+mr 128 22 -94
+qsv 12
+att 1 168 1
+qsv 12
+att 83 112 1
+qsv 12
+qv 110 5
+qsv 12
+qv 30 118
+qsv 12
+qv 123 50
+qsv 12
+qsp 54 110
+qsv 12
+dft 1 97 1
+qsv 12
+qv 111 172
+qsv 12
+qtvs 266 69
+qsv 12
+qci 87 112
+qsv 12
+att 158 165 1
+qsv 12
+mr 51 168 -132
+qsv 12
+at 51 1
+qsv 12
+qts
+qsv 12
+qtvs 152 1
+qsv 12
+qv 72 118
+qsv 12
+ap 177 DPO-bot-177 109
+qsv 12
+qv 57 134
+qsv 12
+qv 31 174
+qsv 12
+qts
+qsv 12
+qv 63 73
+qsv 12
+qsp 48 153
+qsv 12
+att 146 52 1
+qsv 12
+att 90 24 1
+qsv 12
+qv 27 23
+qsv 12
+qci 115 75
+qsv 12
+qci 39 120
+qsv 12
+qv 63 41
+qsv 12
+at 76 1
+qsv 12
+ar 70 123 84
+qsv 12
+qcs
+qsv 12
+qtav 41 1
+qsv 12
+att 1 174 1
+qsv 12
+qci 142 141
+qsv 12
+qv 173 130
+qsv 12
+att 165 158 1
+qsv 12
+att 87 135 1
+qsv 12
+att 33 1 1
+qsv 12
+qbs
+qsv 12
+att 178 332 29
+qsv 12
+att 128 148 1
+qsv 12
+qv 6 115
+qsv 12
+qtvs 35 3
+qsv 12
+qba 69
+qsv 12
+att 2 92 1
+qsv 12
+att 133 145 1
+qsv 12
+qtav 32 1
+qsv 12
+qci 152 34
+qsv 12
+att 43 30 1
+qsv 12
+qsp 5 143
+qsv 12
+dft 10 14 1
+qsv 12
+att 14 21 1
+qsv 12
+qv 120 79
+qsv 12
+qci 166 125
+qsv 12
+at 122 1
+qsv 12
+at 10 1
+qsv 12
+qv 3 36
+qsv 12
+att 31 35 4
+qsv 12
+att 1 160 1
+qsv 12
+qba 166
+qsv 12
+qv 170 173
+qsv 12
+att 19 1 1
+qsv 12
+qtvs 22 1
+qsv 12
+ap 107 DPO-bot-107 189
+qsv 12
+qci 24 47
+qsv 12
+dft 151 88 1
+qsv 12
+qci 127 11
+qsv 12
+qtav 46 1
+qsv 12
+at 122 1
+qsv 12
+qv 89 92
+qsv 12
+qv 10 75
+qsv 12
+qv 55 168
+qsv 12
+qv 148 67
+qsv 12
+qv 26 156
+qsv 12
+qv 110 107
+qsv 12
+mr 57 124 -137
+qsv 12
+ar 150 46 186
+qsv 12
+qts
+qsv 12
+at 86 1
+qsv 12
+qv 167 279
+qsv 12
+ar 89 16 182
+qsv 12
+qci 31 58
+qsv 12
+ar 100 134 20
+qsv 12
+ap 8 DPO-bot-8 109
+qsv 12
+dft 1 168 1
+qsv 12
+ap 39 DPO-bot-39 162
+qsv 12
+att 62 84 1
+qsv 12
+at 5 1
+qsv 12
+ap 155 DPO-bot-155 199
+qsv 12
+qv 67 69
+qsv 12
+qci 118 82
+qsv 12
+att 76 36 1
+qsv 12
+ar 110 103 64
+qsv 12
+qci 89 132
+qsv 12
+qts
+qsv 12
+qv 119 162
+qsv 12
+ap 178 DPO-bot-178 114
+qsv 12
+att 79 82 1
+qsv 12
+ap 179 DPO-bot-179 51
+qsv 12
+qv 142 27
+qsv 12
+ap 139 DPO-bot-139 160
+qsv 12
+ap 180 DPO-bot-180 147
+qsv 12
+att 22 17 1
+qsv 12
+dft 128 148 1
+qsv 12
+qv 89 166
+qsv 12
+qv 26 10
+qsv 12
+qci 127 87
+qsv 12
+qci 68 100
+qsv 12
+qci 151 130
+qsv 12
+at 146 1
+qsv 12
+qtav 159 1
+qsv 12
+att 100 134 1
+qsv 12
+qv 85 121
+qsv 12
+ar 145 136 119
+qsv 12
+qv 36 115
+qsv 12
+qci 153 55
+qsv 12
+qv 46 28
+qsv 12
+qv 111 43
+qsv 12
+at 6 1
+qsv 12
+qv 17 29
+qsv 12
+att 1 166 1
+qsv 12
+att 62 138 1
+qsv 12
+att 77 85 1
+qsv 12
+att 7 26 1
+qsv 12
+att 13 157 1
+qsv 12
+qts
+qsv 12
+dft 42 50 1
+qsv 12
+att 8 155 1
+qsv 12
+att 1 177 1
+qsv 12
+qba 175
+qsv 12
+att 89 78 1
+qsv 12
+qci 28 170
+qsv 12
+att 91 70 1
+qsv 12
+qba 155
+qsv 12
+qv 89 63
+qsv 12
+ap 170 DPO-bot-170 37
+qsv 12
+att 23 63 1
+qsv 12
+qci 93 66
+qsv 12
+qv 6 144
+qsv 12
+qtvs 61 1
+qsv 12
+qv 157 10
+qsv 12
+qv 86 70
+qsv 12
+dft 34 7 1
+qsv 12
+qv 143 85
+qsv 12
+ar 82 97 120
+qsv 12
+qts
+qsv 12
+qci 101 168
+qsv 12
+qv 136 96
+qsv 12
+qci 7 96
+qsv 12
+ap 156 DPO-bot-156 184
+qsv 12
+qbs
+qsv 12
+qv 37 142
+qsv 12
+qv 42 51
+qsv 12
+qtav 46 1
+qsv 12
+qv 95 164
+qsv 12
+qbs
+qsv 12
+att 10 101 1
+qsv 12
+qtav 145 1
+qsv 12
+qtav 73 1
+qsv 12
+at 36 1
+qsv 12
+dft 19 51 1
+qsv 12
+qtvs 135 1
+qsv 12
+qv 57 8
+qsv 12
+qv 101 81
+qsv 12
+qv 150 52
+qsv 12
+qtav 153 1
+qsv 12
+dft 74 20 1
+qsv 12
+qv 84 73
+qsv 12
+qci 72 173
+qsv 12
+qci 115 61
+qsv 12
+qci 146 120
+qsv 12
+qci 120 143
+qsv 12
+mr 153 130 0
+qsv 12
+att 3 9 1
+qsv 12
+att 83 112 1
+qsv 12
+att 152 16 1
+qsv 12
+ar 41 135 30
+qsv 12
+att 6 23 1
+qsv 12
+qv 146 62
+qsv 12
+qci 132 90
+qsv 12
+qts
+qsv 12
+qci 46 6
+qsv 12
+qv 167 62
+qsv 12
+att 97 8 1
+qsv 12
+att 76 36 1
+qsv 12
+qv 155 25
+qsv 12
+at 51 1
+qsv 12
+att 25 132 1
+qsv 12
+att 1 169 1
+qsv 12
+att 41 35 1
+qsv 12
+att 139 138 1
+qsv 12
+ap 181 DPO-bot-181 99
+qsv 12
+qv 131 113
+qsv 12
+qv 10 71
+qsv 12
+qba 149
+qsv 12
+ar 54 97 82
+qsv 12
+qci 165 172
+qsv 12
+qts
+qsv 12
+att 1 143 1
+qsv 12
+qtvs 172 1
+qsv 12
+att 8 155 1
+qsv 12
+att 61 118 1
+qsv 12
+att 104 94 1
+qsv 12
+qci 78 61
+qsv 12
+ap 182 DPO-bot-182 33
+qsv 12
+att 1 125 1
+qsv 12
+qtav 96 1
+qsv 12
+qtav 115 1
+qsv 12
+att 1 168 1
+qsv 12
+qci 110 35
+qsv 12
+att 30 16 1
+qsv 12
+mr 147 113 -190
+qsv 12
+att 42 15 1
+qsv 12
+qv 145 150
+qsv 12
+att 114 114 1
+qsv 12
+qci 32 131
+qsv 12
+qv 107 6
+qsv 12
+qv 101 8
+qsv 12
+qv 160 67
+qsv 12
+att 98 109 1
+qsv 12
+qv 140 106
+qsv 12
+qv 135 128
+qsv 12
+mr 149 142 -50
+qsv 12
+qv 106 30
+qsv 12
+dft 104 21 1
+qsv 12
+qci 160 66
+qsv 12
+qci 39 106
+qsv 12
+qv 32 142
+qsv 12
+ar 134 14 41
+qsv 12
+qts
+qsv 12
+qts
+qsv 12
+qci 20 65
+qsv 12
+qci 36 95
+qsv 12
+dt 71 1
+qsv 12
+ar 132 122 153
+qsv 12
+qv 146 108
+qsv 12
+qbs
+qsv 12
+qci 15 31
+qsv 12
+qts
+qsv 12
+qv 98 37
+qsv 12
+qci 179 154
+qsv 12
+att 26 2 1
+qsv 12
+mr 142 134 -78
+qsv 12
+qv 147 18
+qsv 12
+qbs
+qsv 12
+att 15 4 1
+qsv 12
+ap 21 DPO-bot-21 103
+qsv 12
+qts
+qsv 12
+att 1 162 1
+qsv 12
+att 91 85 1
+qsv 12
+qcs
+qsv 12
+qci 182 14
+qsv 12
+qv 4 162
+qsv 12
+ar 58 141 166
+qsv 12
+qv 66 89
+qsv 12
+qba 101
+qsv 12
+qv 31 84
+qsv 12
+qv 114 38
+qsv 12
+qci 3 122
+qsv 12
+ar 32 40 77
+qsv 12
+at 67 1
+qsv 12
+ar 90 96 133
+qsv 12
+qci 153 161
+qsv 12
+qba 113
+qsv 12
+qv 126 12
+qsv 12
+qcs
+qsv 12
+qci 130 75
+qsv 12
+qv 132 115
+qsv 12
+qcs
+qsv 12
+dft 1 166 1
+qsv 12
+att 163 171 1
+qsv 12
+att 55 68 1
+qsv 12
+att 1 160 1
+qsv 12
+att 58 95 1
+qsv 12
+dft 22 93 1
+qsv 12
+qtav 5 1
+qsv 12
+qtav 83 1
+qsv 12
+qci 70 64
+qsv 12
+ap 183 DPO-bot-183 153
+qsv 12
+att 17 74 1
+qsv 12
+qts
+qsv 12
+at 157 1
+qsv 12
+qv 56 64
+qsv 12
+att 184 235 36
+qsv 12
+qba 55
+qsv 12
+qcs
+qsv 12
+at 142 1
+qsv 12
+qbs
+qsv 12
+qv 95 123
+qsv 12
+qtav 71 1
+qsv 12
+ar 242 66 144
+qsv 12
+qv 59 111
+qsv 12
+att 70 123 1
+qsv 12
+qv 146 92
+qsv 12
+dt 25 1
+qsv 12
+att 68 64 1
+qsv 12
+qv 133 111
+qsv 12
+ap 65 DPO-bot-65 194
+qsv 12
+dt 36 1
+qsv 12
+att 73 96 1
+qsv 12
+ar 44 125 70
+qsv 12
+att 20 40 1
+qsv 12
+qba 182
+qsv 12
+qbs
+qsv 12
+qv 68 110
+qsv 12
+att 1 169 1
+qsv 12
+att 11 51 1
+qsv 12
+qtvs 65 1
+qsv 12
+ap 157 DPO-bot-157 102
+qsv 12
+qcs
+qsv 12
+ap 137 DPO-bot-137 91
+qsv 12
+att 58 141 1
+qsv 12
+qtvs 34 1
+qsv 12
+att 44 125 1
+qsv 12
+qbs
+qsv 12
+ar 39 144 116
+qsv 12
+att 97 81 1
+qsv 12
+att 49 10 1
+qsv 12
+qci 8 97
+qsv 12
+qsp 81 53
+qsv 12
+qv 14 162
+qsv 12
+qv 60 172
+qsv 12
+qci 61 124
+qsv 12
+dft 1 179 1
+qsv 12
+ar 169 90 49
+qsv 12
+ar 99 151 4
+qsv 12
+att 133 63 1
+qsv 12
+qv 15 60
+qsv 12
+qts
+qsv 12
+qv 143 228
+qsv 12
+qv 134 59
+qsv 12
+qci 133 105
+qsv 12
+mr 158 157 -159
+qsv 12
+qci 176 132
+qsv 12
+qcs
+qsv 12
+qv 149 149
+qsv 12
+att 54 65 1
+qsv 12
+at 178 1
+qsv 12
+dft 1 29 1
+qsv 12
+ap 122 DPO-bot-122 197
+qsv 12
+qci 32 81
+qsv 12
+qbs
+qsv 12
+qci 145 165
+qsv 12
+att 39 131 1
+qsv 12
+qci 101 5
+qsv 12
+ar 24 138 94
+qsv 12
+qv 47 163
+qsv 12
+qci 54 131
+qsv 12
+qv 358 114
+qsv 12
+qv 97 30
+qsv 12
+qci 89 83
+qsv 12
+qci 111 38
+qsv 12
+att 29 62 1
+qsv 12
+qv 113 64
+qsv 12
+qtav 74 1
+qsv 12
+att 69 21 1
+qsv 12
+qv 35 128
+qsv 12
+qv 92 49
+qsv 12
+att 57 15 1
+qsv 12
+qv 169 31
+qsv 12
+qv 125 76
+qsv 12
+ar 108 53 108
+qsv 12
+dt 93 1
+qsv 12
+qts
+qsv 12
+qv 83 81
+qsv 12
+qbs
+qsv 12
+qtvs 134 1
+qsv 12
+qci 154 78
+qsv 12
+qv 43 31
+qsv 12
+at 93 1
+qsv 12
+qci 119 177
+qsv 12
+dt 136 1
+qsv 12
+att 16 54 1
+qsv 12
+at 12 1
+qsv 12
+qci 151 160
+qsv 12
+qv 71 72
+qsv 12
+att 32 51 1
+qsv 12
+qci 4 159
+qsv 12
+att 18 99 1
+qsv 12
+att 53 47 1
+qsv 12
+qv 10 96
+qsv 12
+qts
+qsv 12
+qv 108 158
+qsv 12
+qci 181 63
+qsv 12
+att 4 1 1
+qsv 12
+qv 26 6
+qsv 12
+att 83 151 1
+qsv 12
+qtav 14 1
+qsv 12
+qci 114 40
+qsv 12
+qci 114 38
+qsv 12
+qv 120 182
+qsv 12
+qsp 109 81
+qsv 12
+qv 54 135
+qsv 12
+qci 182 132
+qsv 12
+qv 24 13
+qsv 12
+qv 9 129
+qsv 12
+qci 88 70
+qsv 12
+qba 65
+qsv 12
+att 1 142 1
+qsv 12
+qci 112 100
+qsv 12
+qtav 33 3
+qsv 12
+qtvs 166 1
+qsv 12
+qv 105 169
+qsv 12
+att 62 23 1
+qsv 12
+att 1 181 1
+qsv 12
+qci 64 180
+qsv 12
+dft 1 161 1
+qsv 12
+att 1 175 1
+qsv 12
+qci 47 165
+qsv 12
+at 121 1
+qsv 12
+att 184 329 97
+qsv 12
+ap 102 DPO-bot-102 40
+qsv 12
+qv 183 107
+qsv 12
+qsp 43 83
+qsv 12
+att 63 133 1
+qsv 12
+mr 145 2 -89
+qsv 12
+dft 54 22 1
+qsv 12
+att 48 58 1
+qsv 12
+qci 120 41
+qsv 12
+ar 54 52 74
+qsv 12
+dft 52 49 1
+qsv 12
+qci 178 9
+qsv 12
+att 25 132 1
+qsv 12
+att 1 130 1
+qsv 12
+ar 23 151 131
+qsv 12
+qv 94 38
+qsv 12
+qv 35 26
+qsv 12
+att 77 85 1
+qsv 12
+qtvs 83 1
+qsv 12
+att 7 34 1
+qsv 12
+ar 27 13 183
+qsv 12
+att 16 122 1
+qsv 12
+att 107 119 1
+qsv 12
+qci 33 65
+qsv 12
+qv 50 182
+qsv 12
+ar 72 67 179
+qsv 12
+qsp 170 183
+qsv 12
+qv 27 96
+qsv 12
+qbs
+qsv 12
+ar 70 44 92
+qsv 12
+att 107 119 1
+qsv 12
+qbs
+qsv 12
+dft 1 160 1
+qsv 12
+ap 184 DPO-bot-184 177
+qsv 12
+qv 122 139
+qsv 12
+qv 63 17
+qsv 12
+qv 142 126
+qsv 12
+att 66 57 1
+qsv 12
+qci 53 177
+qsv 12
+qv 29 17
+qsv 12
+qtvs 123 1
+qsv 12
+qci 101 39
+qsv 12
+mr 117 74 -140
+qsv 12
+qbs
+qsv 12
+qv 62 122
+qsv 12
+att 150 46 1
+qsv 12
+att 2 92 1
+qsv 12
+qci 111 89
+qsv 12
+qci 152 167
+qsv 12
+ar 122 90 144
+qsv 12
+qv 140 42
+qsv 12
+qci 44 97
+qsv 12
+qv 103 175
+qsv 12
+att 122 90 1
+qsv 12
+qsp 22 109
+qsv 12
+qv 70 5
+qsv 12
+qsp 102 106
+qsv 12
+qtav 179 1
+qsv 12
+qci 97 86
+qsv 12
+at 177 1
+qsv 12
+qba 87
+qsv 12
+qv 24 119
+qsv 12
+att 104 67 1
+qsv 12
+att 82 79 1
+qsv 12
+qv 137 120
+qsv 12
+qcs
+qsv 12
+qci 57 105
+qsv 12
+dft 139 138 1
+qsv 12
+dt 107 1
+qsv 12
+qv 155 147
+qsv 12
+qv 111 137
+qsv 12
+att 1 183 1
+qsv 12
+qbs
+qsv 12
+qba 10
+qsv 12
+qci 138 85
+qsv 12
+qv 87 25
+qsv 12
+dft 1 178 1
+qsv 12
+att 8 18 1
+qsv 12
+dft 70 131 1
+qsv 12
+att 32 45 1
+qsv 12
+att 110 103 1
+qsv 12
+mr 80 137 -84
+qsv 12
+qv 11 73
+qsv 12
+qv 98 52
+qsv 12
+at 12 1
+qsv 12
+qci 61 36
+qsv 12
+qci 23 53
+qsv 12
+qsp 172 23
+qsv 12
+qv 31 146
+qsv 12
+att 10 33 1
+qsv 12
+ap 111 DPO-bot-111 82
+qsv 12
+att 106 85 1
+qsv 12
+qbs
+qsv 12
+att 1 154 1
+qsv 12
+qv 7 103
+qsv 12
+att 107 123 1
+qsv 12
+qv 177 129
+qsv 12
+qv 126 112
+qsv 12
+att 89 116 1
+qsv 12
+qv 139 77
+qsv 12
+ar 151 5 92
+qsv 12
+qci 149 95
+qsv 12
+qv 66 44
+qsv 12
+att 17 4 1
+qsv 12
+qv 96 161
+qsv 12
+at 40 1
+qsv 12
+dft 61 118 1
+qsv 12
+qv 36 25
+qsv 12
+qv 76 59
+qsv 12
+qv 96 25
+qsv 12
+qci 121 60
+qsv 12
+qci 101 1
+qsv 12
+qv 119 61
+qsv 12
+ap 185 DPO-bot-185 60
+qsv 12
+qv 5 141
+qsv 12
+ar 102 18 160
+qsv 12
+qv 55 68
+qsv 12
+qv 3 67
+qsv 12
+qv 148 79
+qsv 12
+ap 22 DPO-bot-22 168
+qsv 12
+qci 3 39
+qsv 12
+qv 143 152
+qsv 12
+att 1 115 1
+qsv 12
+att 23 12 1
+qsv 12
+ar 182 82 66
+qsv 12
+dft 25 27 1
+qsv 12
+qba 61
+qsv 12
+qba 27
+qsv 12
+att 41 135 1
+qsv 12
+qba 166
+qsv 12
+qts
+qsv 12
+dft 11 113 1
+qsv 12
+att 77 74 1
+qsv 12
+qv 99 162
+qsv 12
+qci 12 87
+qsv 12
+qv 57 94
+qsv 12
+att 20 48 1
+qsv 12
+att 30 10 1
+qsv 12
+ap 186 DPO-bot-186 161
+qsv 12
+att 107 123 1
+qsv 12
+qtav 98 1
+qsv 12
+att 1 142 1
+qsv 12
+qv 115 78
+qsv 12
+qts
+qsv 12
+qtvs 19 1
+qsv 12
+ar 182 15 18
+qsv 12
+qv 48 107
+qsv 12
+att 21 104 1
+qsv 12
+qbs
+qsv 12
+qv 58 158
+qsv 12
+qv 41 97
+qsv 12
+qv 33 26
+qsv 12
+dft 68 55 1
+qsv 12
+att 90 24 1
+qsv 12
+att 15 182 1
+qsv 12
+att 122 16 1
+qsv 12
+att 17 29 1
+qsv 12
+qci 183 14
+qsv 12
+qv 9 125
+qsv 12
+ar 176 170 75
+qsv 12
+att 71 75 1
+qsv 12
+qba 123
+qsv 12
+qbs
+qsv 12
+att 89 116 1
+qsv 12
+qv 65 86
+qsv 12
+att 27 35 1
+qsv 12
+qci 84 27
+qsv 12
+qv 86 87
+qsv 12
+qv 55 118
+qsv 12
+qci 123 169
+qsv 12
+att 1 164 1
+qsv 12
+ap 187 DPO-bot-187 56
+qsv 12
+att 10 101 1
+qsv 12
+att 1 115 1
+qsv 12
+qv 8 118
+qsv 12
+at 24 1
+qsv 12
+qci 101 23
+qsv 12
+ap 77 DPO-bot-77 74
+qsv 12
+qv 65 85
+qsv 12
+qci 96 154
+qsv 12
+att 44 58 1
+qsv 12
+att 26 15 1
+qsv 12
+att 33 81 1
+qsv 12
+att 11 94 1
+qsv 12
+ar 40 10 112
+qsv 12
+qv 16 23
+qsv 12
+qci 185 12
+qsv 12
+dft 1 183 1
+qsv 12
+att 53 47 1
+qsv 12
+qba 64
+qsv 12
+qv 181 130
+qsv 12
+att 25 132 1
+qsv 12
+qv 114 102
+qsv 12
+qv 21 177
+qsv 12
+qv 4 110
+qsv 12
+att 107 119 1
+qsv 12
+qsp 124 5
+qsv 12
+att 87 135 1
+qsv 12
+mr 187 106 -96
+qsv 12
+qsp 45 110
+qsv 12
+qtav 47 1
+qsv 12
+qtvs 32 1
+qsv 12
+att 8 155 1
+qsv 12
+qts
+qsv 12
+att 44 70 1
+qsv 12
+att 58 44 1
+qsv 12
+att 26 2 1
+qsv 12
+qv 2 146
+qsv 12
+ap 71 DPO-bot-71 149
+qsv 12
+ap 188 DPO-bot-188 69
+qsv 12
+qcs
+qsv 12
+att 176 170 1
+qsv 12
+dt 134 1
+qsv 12
+qv 74 1
+qsv 12
+qsp 91 56
+qsv 12
+qv 97 40
+qsv 12
+qbs
+qsv 12
+att 45 17 1
+qsv 12
+mr 168 160 -88
+qsv 12
+dt 76 1
+qsv 12
+dt 155 1
+qsv 12
+qbs
+qsv 12
+qv 137 108
+qsv 12
+qci 162 53
+qsv 12
+qv 168 149
+qsv 12
+qv 46 146
+qsv 12
+qci 102 27
+qsv 12
+ar 4 64 134
+qsv 12
+qv 10 110
+qsv 12
+qv 75 97
+qsv 12
+qts
+qsv 12
+qv 44 159
+qsv 12
+at 105 1
+qsv 12
+att 1 143 1
+qsv 12
+att 44 125 1
+qsv 12
+qv 115 163
+qsv 12
+att 5 9 1
+qsv 12
+qci 162 10
+qsv 12
+qci 86 86
+qsv 12
+qv 157 48
+qsv 12
+ar 3 95 99
+qsv 12
+att 1 154 1
+qsv 12
+att 1 164 1
+qsv 12
+mr 59 30 -18
+qsv 12
+qv 25 164
+qsv 12
+qv 63 36
+qsv 12
+qv 108 92
+qsv 12
+qci 49 80
+qsv 12
+ap 189 DPO-bot-189 22
+qsv 12
+qci 109 13
+qsv 12
+qci 185 108
+qsv 12
+att 5 46 1
+qsv 12
+qci 94 79
+qsv 12
+qv 175 101
+qsv 12
+qv 59 94
+qsv 12
+qbs
+qsv 12
+qv 66 137
+qsv 12
+qv 43 169
+qsv 12
+att 1 137 1
+qsv 12
+mr 184 56 -59
+qsv 12
+ar 92 86 83
+qsv 12
+att 171 163 1
+qsv 12
+att 7 28 1
+qsv 12
+ar 111 2 157
+qsv 12
+at 135 1
+qsv 12
+qsp 33 25
+qsv 12
+att 1 185 1
+qsv 12
+qba 31
+qsv 12
+qsp 2 110
+qsv 12
+qv 14 175
+qsv 12
+qv 32 15
+qsv 12
+qcs
+qsv 12
+qv 53 45
+qsv 12
+qci 183 92
+qsv 12
+att 1 181 1
+qsv 12
+qv 188 6
+qsv 12
+qci 51 85
+qsv 12
+att 89 78 1
+qsv 12
+qv 111 17
+qsv 12
+qci 39 77
+qsv 12
+qtav 64 1
+qsv 12
+ar 110 2 150
+qsv 12
+qv 12 41
+qsv 12
+mr 118 57 -92
+qsv 12
+att 123 107 1
+qsv 12
+ar 66 129 105
+qsv 12
+qci 121 139
+qsv 12
+att 53 81 1
+qsv 12
+qv 109 170
+qsv 12
+qci 169 39
+qsv 12
+att 190 189 64
+qsv 12
+qv 148 14
+qsv 12
+dt 29 1
+qsv 12
+qtvs 31 1
+qsv 12
+qci 15 103
+qsv 12
+dt 17 1
+qsv 12
+qv 136 57
+qsv 12
+qsp 6 81
+qsv 12
+att 82 79 1
+qsv 12
+att 22 59 1
+qsv 12
+att 108 121 1
+qsv 12
+qci 135 182
+qsv 12
+att 40 1 1
+qsv 12
+att 26 43 1
+qsv 12
+ar 85 94 188
+qsv 12
+att 83 82 1
+qsv 12
+qtvs 118 1
+qsv 12
+qci 58 73
+qsv 12
+at 146 1
+qsv 12
+mr 25 88 -54
+qsv 12
+qv 44 158
+qsv 12
+ar 153 77 40
+qsv 12
+qv 137 68
+qsv 12
+ar 74 118 173
+qsv 12
+ap 184 DPO-bot-184 177
+qsv 12
+qv 98 144
+qsv 12
+qci 117 76
+qsv 12
+qv 182 93
+qsv 12
+att 1 177 1
+qsv 12
+qv 51 116
+qsv 12
+qv 92 40
+qsv 12
+qv 147 141
+qsv 12
+qv 128 159
+qsv 12
+ar 78 146 13
+qsv 12
+qv 75 53
+qsv 12
+att 1 173 1
+qsv 12
+ap 190 DPO-bot-190 119
+qsv 12
+qba 77
+qsv 12
+qci 22 145
+qsv 12
+qsp 40 178
+qsv 12
+att 140 96 1
+qsv 12
+qv 97 27
+qsv 12
+ar 19 28 150
+qsv 12
+qv 43 82
+qsv 12
+qv 179 138
+qsv 12
+qv 153 98
+qsv 12
+qci 74 31
+qsv 12
+att 126 127 1
+qsv 12
+qv 182 78
+qsv 12
+qba 112
+qsv 12
+qtvs 115 1
+qsv 12
+att 132 122 1
+qsv 12
+qtav 121 1
+qsv 12
+dft 69 32 1
+qsv 12
+att 90 169 1
+qsv 12
+att 68 129 1
+qsv 12
+qci 72 159
+qsv 12
+att 191 303 87
+qsv 12
+att 1 188 1
+qsv 12
+att 125 44 1
+qsv 12
+att 119 107 1
+qsv 12
+qv 90 11
+qsv 12
+qtvs 37 1
+qsv 12
+dft 22 31 1
+qsv 12
+qci 63 163
+qsv 12
+att 1 187 1
+qsv 12
+att 121 108 1
+qsv 12
+dt 2 1
+qsv 12
+qci 149 59
+qsv 12
+qv 170 51
+qsv 12
+att 46 150 1
+qsv 12
+att 1 172 1
+qsv 12
+ar 86 128 161
+qsv 12
+ar 24 122 97
+qsv 12
+att 191 190 11
+qsv 12
+mr 152 184 -101
+qsv 12
+dft 23 63 1
+qsv 12
+qv 147 3
+qsv 12
+at 181 1
+qsv 12
+qts
+qsv 12
+att 32 21 1
+qsv 12
+att 6 16 1
+qsv 12
+att 13 157 1
+qsv 12
+ar 23 87 200
+qsv 12
+ar 84 140 48
+qsv 12
+att 35 33 1
+qsv 12
+ar 33 75 121
+qsv 12
+qv 55 22
+qsv 12
+att 21 69 1
+qsv 12
+qv 148 21
+qsv 12
+qv 118 98
+qsv 12
+qv 118 90
+qsv 12
+qv 1 15
+qsv 12
+dft 151 83 1
+qsv 12
+ar 116 21 173
+qsv 12
+qv 122 86
+qsv 12
+ap 180 DPO-bot-180 147
+qsv 12
+att 14 37 1
+qsv 12
+ap 132 DPO-bot-132 40
+qsv 12
+qcs
+qsv 12
+att 97 46 1
+qsv 12
+ar 99 11 59
+qsv 12
+ap 191 DPO-bot-191 26
+qsv 12
+qv 90 160
+qsv 12
+att 139 138 1
+qsv 12
+dft 44 125 1
+qsv 12
+att 104 67 1
+qsv 12
+qv 88 21
+qsv 12
+qba 159
+qsv 12
+dft 78 146 1
+qsv 12
+ar 110 10 169
+qsv 12
+att 1 161 1
+qsv 12
+qv 80 164
+qsv 12
+qv 74 161
+qsv 12
+att 1 5 1
+qsv 12
+qv 115 64
+qsv 12
+qv 68 44
+qsv 12
+att 62 138 1
+qsv 12
+dft 133 145 1
+qsv 12
+dt 125 1
+qsv 12
+qtav 84 1
+qsv 12
+qsp 75 154
+qsv 12
+qci 5 44
+qsv 12
+ap 192 DPO-bot-192 184
+qsv 12
+ar 18 169 100
+qsv 12
+att 90 169 1
+qsv 12
+dft 49 10 1
+qsv 12
+qci 138 95
+qsv 12
+ar 4 19 20
+qsv 12
+qtvs 151 1
+qsv 12
+qv 25 4
+qsv 12
+qsp 146 118
+qsv 12
+att 6 47 1
+qsv 12
+att 109 136 1
+qsv 12
+qv 141 110
+qsv 12
+qba 136
+qsv 12
+qv 135 144
+qsv 12
+qtav 129 1
+qsv 12
+qv 187 147
+qsv 12
+qci 88 159
+qsv 12
+qtvs 9 1
+qsv 12
+qv 166 32
+qsv 12
+att 50 64 1
+qsv 12
+qv 12 68
+qsv 12
+qv 107 112
+qsv 12
+att 2 92 1
+qsv 12
+att 1 142 1
+qsv 12
+ap 193 DPO-bot-193 158
+qsv 12
+att 23 87 1
+qsv 12
+at 13 1
+qsv 12
+qv 17 108
+qsv 12
+ar 97 60 134
+qsv 12
+at 76 1
+qsv 12
+att 16 152 1
+qsv 12
+ap 194 DPO-bot-194 4
+qsv 12
+qv 79 124
+qsv 12
+mr 1 170 -75
+qsv 12
+qv 96 95
+qsv 12
+qv 117 119
+qsv 12
+ar 16 129 108
+qsv 12
+qv 41 5
+qsv 12
+att 153 77 1
+qsv 12
+qv 84 79
+qsv 12
+qv 50 62
+qsv 12
+qv 165 184
+qsv 12
+att 195 210 51
+qsv 12
+ar 103 27 70
+qsv 12
+qv 175 102
+qsv 12
+att 12 5 1
+qsv 12
+qci 4 181
+qsv 12
+qv 151 112
+qsv 12
+att 100 134 1
+qsv 12
+qci 80 116
+qsv 12
+qbs
+qsv 12
+att 1 187 1
+qsv 12
+qv 63 187
+qsv 12
+qci 70 170
+qsv 12
+att 83 14 1
+qsv 12
+qsp 91 27
+qsv 12
+qv 190 148
+qsv 12
+att 19 8 1
+qsv 12
+qv 54 29
+qsv 12
+ap 43 DPO-bot-43 105
+qsv 12
+qv 72 74
+qsv 12
+qv 118 133
+qsv 12
+qv 20 132
+qsv 12
+ap 95 DPO-bot-95 46
+qsv 12
+qv 32 140
+qsv 12
+qci 190 78
+qsv 12
+qv 44 113
+qsv 12
+qtav 154 1
+qsv 12
+dft 1 184 1
+qsv 12
+att 171 163 1
+qsv 12
+qci 49 40
+qsv 12
+att 131 59 1
+qsv 12
+qv 36 165
+qsv 12
+qv 22 52
+qsv 12
+att 136 145 1
+qsv 12
+qv 64 188
+qsv 12
+qv 162 105
+qsv 12
+att 1 177 1
+qsv 12
+att 14 10 1
+qsv 12
+at 140 1
+qsv 12
+ap 159 DPO-bot-159 5
+qsv 12
+qsp 179 163
+qsv 12
+qci 36 36
+qsv 12
+dft 119 107 1
+qsv 12
+qv 69 168
+qsv 12
+at 19 1
+qsv 12
+ap 40 DPO-bot-40 42
+qsv 12
+att 83 112 1
+qsv 12
+qtav 18 1
+qsv 12
+att 1 177 1
+qsv 12
+att 171 163 1
+qsv 12
+att 113 47 1
+qsv 12
+qsp 16 83
+qsv 12
+att 106 105 1
+qsv 12
+qcs
+qsv 12
+at 28 1
+qsv 12
+att 18 102 1
+qsv 12
+dft 6 16 1
+qsv 12
+qv 82 29
+qsv 12
+att 138 139 1
+qsv 12
+qv 141 78
+qsv 12
+qv 12 134
+qsv 12
+at 185 1
+qsv 12
+qcs
+qsv 12
+ar 134 64 122
+qsv 12
+qtvs 53 1
+qsv 12
+att 47 113 1
+qsv 12
+qv 65 31
+qsv 12
+qsp 118 134
+qsv 12
+att 1 180 1
+qsv 12
+qba 61
+qsv 12
+ap 121 DPO-bot-121 5
+qsv 12
+ar 48 54 94
+qsv 12
+ap 145 DPO-bot-145 180
+qsv 12
+ap 106 DPO-bot-106 124
+qsv 12
+att 91 85 1
+qsv 12
+ap 3 DPO-bot-3 199
+qsv 12
+qba 94
+qsv 12
+att 21 32 1
+qsv 12
+ar 173 159 19
+qsv 12
+ap 195 DPO-bot-195 73
+qsv 12
+qv 104 149
+qsv 12
+qv 154 128
+qsv 12
+qv 143 28
+qsv 12
+qci 52 181
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+qv 116 39
+qsv 12
+qba 162
+qsv 12
+qtav 13 1
+qsv 12
+qtav 123 1
+qsv 12
+qsp 176 47
+qsv 12
+qcs
+qsv 12
+att 1 130 1
+qsv 12
+ar 23 24 60
+qsv 12
+qv 142 35
+qsv 12
+qv 69 151
+qsv 12
+att 3 95 1
+qsv 12
+ar 188 53 2
+qsv 12
+att 128 86 1
+qsv 12
+att 35 32 1
+qsv 12
+qv 53 4
+qsv 12
+qts
+qsv 12
+qba 191
+qsv 12
+qci 50 138
+qsv 12
+qv 19 176
+qsv 12
+att 85 77 1
+qsv 12
+qbs
+qsv 12
+qtav 33 1
+qsv 12
+att 15 29 1
+qsv 12
+att 43 110 1
+qsv 12
+att 35 41 1
+qsv 12
+att 96 140 1
+qsv 12
+qci 189 69
+qsv 12
+qv 167 336
+qsv 12
+qtvs 381 63
+qsv 12
+qci 10 15
+qsv 12
+att 170 176 1
+qsv 12
+at 7 1
+qsv 12
+qbs
+qsv 12
+att 109 136 1
+qsv 12
+qv 87 171
+qsv 12
+dt 73 1
+qsv 12
+qci 93 65
+qsv 12
+qba 17
+qsv 12
+ap 22 DPO-bot-22 168
+qsv 12
+dft 38 42 1
+qsv 12
+qci 126 149
+qsv 12
+qv 88 99
+qsv 12
+qv 39 65
+qsv 12
+att 3 97 1
+qsv 12
+at 72 1
+qsv 12
+att 91 85 1
+qsv 12
+qci 191 32
+qsv 12
+qv 82 66
+qsv 12
+ap 142 DPO-bot-142 134
+qsv 12
+qv 96 175
+qsv 12
+att 53 188 1
+qsv 12
+ar 129 77 141
+qsv 12
+att 1 183 1
+qsv 12
+qv 25 165
+qsv 12
+qci 61 138
+qsv 12
+qba 157
+qsv 12
+qv 127 67
+qsv 12
+qv 188 27
+qsv 12
+qv 74 115
+qsv 12
+qv 104 92
+qsv 12
+att 121 108 1
+qsv 12
+att 165 158 1
+qsv 12
+qv 114 82
+qsv 12
+qv 77 132
+qsv 12
+qv 120 111
+qsv 12
+qv 98 88
+qsv 12
+qv 111 146
+qsv 12
+qv 134 62
+qsv 12
+att 23 2 1
+qsv 12
+att 8 155 1
+qsv 12
+att 39 72 1
+qsv 12
+att 6 52 1
+qsv 12
+qv 188 104
+qsv 12
+qv 25 191
+qsv 12
+att 13 157 1
+qsv 12
+mr 8 173 -111
+qsv 12
+at 153 1
+qsv 12
+qtvs 101 1
+qsv 12
+qv 89 180
+qsv 12
+att 4 19 1
+qsv 12
+qbs
+qsv 12
+qci 149 153
+qsv 12
+dft 145 133 1
+qsv 12
+att 82 83 1
+qsv 12
+qci 27 97
+qsv 12
+ap 196 DPO-bot-196 60
+qsv 12
+qv 103 17
+qsv 12
+att 1 192 1
+qsv 12
+qci 97 117
+qsv 12
+qv 40 31
+qsv 12
+qcs
+qsv 12
+att 43 107 1
+qsv 12
+ar 139 163 145
+qsv 12
+dft 151 5 1
+qsv 12
+att 1 192 1
+qsv 12
+qbs
+qsv 12
+qbs
+qsv 12
+qtav 127 1
+qsv 12
+att 76 62 1
+qsv 12
+att 1 143 1
+qsv 12
+qci 70 256
+qsv 12
+att 1 168 1
+qsv 12
+qv 125 72
+qsv 12
+qv 21 14
+qsv 12
+qv 150 179
+qsv 12
+ar 132 139 182
+qsv 12
+qv 101 68
+qsv 12
+qv 142 112
+qsv 12
+att 61 118 1
+qsv 12
+ar 79 72 92
+qsv 12
+qtvs 186 1
+qsv 12
+qv 84 217
+qsv 12
+att 24 22 1
+qsv 12
+qv 47 68
+qsv 12
+qtav 79 1
+qsv 12
+qv 181 97
+qsv 12
+qcs
+qsv 12
+qts
+qsv 12
+att 29 100 1
+qsv 12
+att 121 108 1
+qsv 12
+att 20 135 1
+qsv 12
+qv 27 37
+qsv 12
+qbs
+qsv 12
+qsp 45 6
+qsv 12
+qv 76 5
+qsv 12
+qv 105 174
+qsv 12
+att 1 168 1
+qsv 12
+dt 119 1
+qsv 12
+att 128 148 1
+qsv 12
+dft 19 51 1
+qsv 12
+ap 197 DPO-bot-197 76
+qsv 12
+att 17 4 1
+qsv 12
+qci 157 57
+qsv 12
+qv 122 176
+qsv 12
+ap 33 DPO-bot-33 22
+qsv 12
+att 144 39 1
+qsv 12
+qba 13
+qsv 12
+qv 163 104
+qsv 12
+qci 54 89
+qsv 12
+qci 21 109
+qsv 12
+att 1 162 1
+qsv 12
+qtvs 131 1
+qsv 12
+att 8 98 1
+qsv 12
+qci 159 149
+qsv 12
+dft 151 23 1
+qsv 12
+qv 16 19
+qsv 12
+dft 35 41 1
+qsv 12
+qv 29 196
+qsv 12
+att 20 30 1
+qsv 12
+qcs
+qsv 12
+qci 187 153
+qsv 12
+qts
+qsv 12
+att 46 97 1
+qsv 12
+att 7 28 1
+qsv 12
+qv 75 135
+qsv 12
+ar 153 40 141
+qsv 12
+qts
+qsv 12
+qsp 110 187
+qsv 12
+qtvs 154 1
+qsv 12
+qtav 130 1
+qsv 12
+qv 116 51
+qsv 12
+ar 108 119 44
+qsv 12
+ap 149 DPO-bot-149 161
+qsv 12
+att 28 19 1
+qsv 12
+qv 37 163
+qsv 12
+att 114 114 1
+qsv 12
+att 1 161 1
+qsv 12
+qci 76 20
+qsv 12
+qci 155 180
+qsv 12
+ap 198 DPO-bot-198 54
+qsv 12
+mr 61 99 -112
+qsv 12
+att 173 159 1
+qsv 12
+qv 121 97
+qsv 12
+qv 100 40
+qsv 12
+qv 132 32
+qsv 12
+mr 60 46 -145
+qsv 12
+qv 133 103
+qsv 12
+att 173 159 1
+qsv 12
+att 1 178 1
+qsv 12
+ar 194 44 10
+qsv 12
+qsp 68 127
+qsv 12
+qv 50 5
+qsv 12
+qsp 80 23
+qsv 12
+qbs
+qsv 12
+qcs
+qsv 12
+qsp 196 162
+qsv 12
+att 126 127 1
+qsv 12
+qba 144
+qsv 12
+qci 127 21
+qsv 12
+qtav 25 1
+qsv 12
+qts
+qsv 12
+att 81 73 1
+qsv 12
+qv 38 189
+qsv 12
+qba 150
+qsv 12
+att 73 141 1
+qsv 12
+qci 67 16
+qsv 12
+att 1 191 1
+qsv 12
+att 1 183 1
+qsv 12
+qtav 168 1
+qsv 12
+qci 178 6
+qsv 12
+qv 95 73
+qsv 12
+ar 113 111 30
+qsv 12
+qsp 32 79
+qsv 12
+att 1 142 1
+qsv 12
+qv 132 185
+qsv 12
+att 6 3 1
+qsv 12
+qts
+qsv 12
+qv 177 77
+qsv 12
+qci 50 186
+qsv 12
+qcs
+qsv 12
+att 1 115 1
+qsv 12
+ap 199 DPO-bot-199 121
+qsv 12
+at 180 1
+qsv 12
+att 90 96 1
+qsv 12
+qv 21 127
+qsv 12
+qv 166 1
+qsv 12
+att 71 120 1
+qsv 12
+qv 78 7
+qsv 12
+qv 121 38
+qsv 12
+qci 52 92
+qsv 12
+qtav 145 1
+qsv 12
+att 200 364 57
+qsv 12
+qci 39 93
+qsv 12
+mr 151 32 -105
+qsv 12
+att 1 175 1
+qsv 12
+qv 146 149
+qsv 12
+ar 9 149 13
+qsv 12
+mr 186 186 -65
+qsv 12
+att 1 175 1
+qsv 12
+mr 143 75 -57
+qsv 12
+dt 11 7
+qsv 12
+qcs
+qsv 12
+ar 20 164 63
+qsv 12
+qv 75 186
+qsv 12
+qv 138 119
+qsv 12
+qv 105 180
+qsv 12
+qv 9 121
+qsv 12
+att 25 117 1
+qsv 12
+qv 94 31
+qsv 12
+att 1 156 1
+qsv 12
+qv 148 72
+qsv 12
+att 94 85 1
+qsv 12
+at 133 1
+qsv 12
+att 49 52 1
+qsv 12
+mr 54 122 -156
+qsv 12
+qv 157 184
+qsv 12
+qsp 46 76
+qsv 12
+qba 33
+qsv 12
+qv 50 196
+qsv 12
+qci 92 167
+qsv 12
+qba 107
+qsv 12
+qv 98 1
+qsv 12
+qci 5 197
+qsv 12
+att 6 16 1
+qsv 12
+ap 200 DPO-bot-200 51
+qsv 12
+dft 46 150 1
+qsv 12
+qv 55 74
+qsv 12
+qsp 70 106
+qsv 12
+qci 52 103
+qsv 12
+qba 124
+qsv 12
+qv 28 45
+qsv 12
+qv 44 32
+qsv 12
+qcs
+qsv 12
+att 133 145 1
+qsv 12
+qv 20 92
+qsv 12
+mr 3 168 -79
+qsv 12
+qv 113 192
+qsv 12
+att 4 17 1
+qsv 12
+ap 59 DPO-bot-59 141
+qsv 12
+qv 158 167
+qsv 12
+qtvs 10 1
+qsv 12
+qtvs 134 1
+qsv 12
+qci 105 173
+qsv 12
+att 1 177 1
+qsv 12
+att 51 53 1
+qsv 12
+att 48 58 1
+qsv 12
+ar 127 114 133
+qsv 12
+att 119 107 1
+qsv 12
+ar 135 39 83
+qsv 12
+att 1 167 1
+qsv 12
+qci 19 155
+qsv 12
+dt 3 1
+qsv 12
+ap 128 DPO-bot-128 11
+qsv 12
+ar 43 144 83
+qsv 12
+ap 201 DPO-bot-201 60
+qsv 12
+ap 202 DPO-bot-202 37
+qsv 12
+att 86 128 1
+qsv 12
+qsp 189 167
+qsv 12
+qsp 63 71
+qsv 12
+att 68 55 1
+qsv 12
+att 74 19 1
+qsv 12
+qv 62 172
+qsv 12
+qsp 146 67
+qsv 12
+dft 52 49 1
+qsv 12
+qv 200 172
+qsv 12
+qv 8 25
+qsv 12
+ar 96 183 116
+qsv 12
+qci 23 72
+qsv 12
+qci 47 136
+qsv 12
+att 106 105 1
+qsv 12
+qv 169 162
+qsv 12
+att 16 152 1
+qsv 12
+qbs
+qsv 12
+qci 181 107
+qsv 12
+qtav 128 1
+qsv 12
+qci 98 130
+qsv 12
+att 1 184 1
+qsv 12
+att 10 99 1
+qsv 12
+qv 46 110
+qsv 12
+qbs
+qsv 12
+att 11 113 1
+qsv 12
+qts
+qsv 12
+qtvs 188 1
+qsv 12
+att 4 30 1
+qsv 12
+att 4 72 1
+qsv 12
+qv 113 62
+qsv 12
+att 64 68 1
+qsv 12
+qv 163 321
+qsv 12
+att 21 62 1
+qsv 12
+qci 14 57
+qsv 12
+dft 203 339 76
+qsv 12
+att 29 36 1
+qsv 12
+ap 202 DPO-bot-202 37
+qsv 12
+att 89 116 1
+qsv 12
+qv 180 63
+qsv 12
+qci 31 139
+qsv 12
+dft 22 31 1
+qsv 12
+qci 144 86
+qsv 12
+qci 124 40
+qsv 12
+qtav 105 1
+qsv 12
+qv 188 23
+qsv 12
+att 12 23 1
+qsv 12
+att 1 200 1
+qsv 12
+qci 158 51
+qsv 12
+qv 144 146
+qsv 12
+qts
+qsv 12
+att 1 189 1
+qsv 12
+qv 27 28
+qsv 12
+qv 2 133
+qsv 12
+ap 193 DPO-bot-193 158
+qsv 12
+att 133 63 1
+qsv 12
+qv 88 129
+qsv 12
+at 28 1
+qsv 12
+qv 105 82
+qsv 12
+att 1 154 1
+qsv 12
+ar 239 155 104
+qsv 12
+att 31 65 1
+qsv 12
+qci 67 162
+qsv 12
+ap 203 DPO-bot-203 164
+qsv 12
+att 52 49 1
+qsv 12
+att 74 19 1
+qsv 12
+att 77 75 1
+qsv 12
+qv 148 194
+qsv 12
+qv 63 84
+qsv 12
+ap 101 DPO-bot-101 46
+qsv 12
+qv 96 124
+qsv 12
+qv 102 20
+qsv 12
+qtvs 75 1
+qsv 12
+qv 65 141
+qsv 12
+qcs
+qsv 12
+qv 141 105
+qsv 12
+qci 21 131
+qsv 12
+att 106 124 1
+qsv 12
+qv 38 113
+qsv 12
+att 94 33 1
+qsv 12
+att 42 50 1
+qsv 12
+qts
+qsv 12
+qci 118 40
+qsv 12
+qtvs 8 1
+qsv 12
+qsp 117 154
+qsv 12
+att 9 8 1
+qsv 12
+qv 92 25
+qsv 12
+att 20 74 1
+qsv 12
+qv 37 143
+qsv 12
+qtav 196 1
+qsv 12
+dft 27 13 1
+qsv 12
+qv 130 121
+qsv 12
+qci 77 118
+qsv 12
+att 1 199 1
+qsv 12
+qv 165 138
+qsv 12
+qci 98 42
+qsv 12
+qci 110 156
+qsv 12
+qbs
+qsv 12
+ap 85 DPO-bot-85 51
+qsv 12
+att 66 57 1
+qsv 12
+qv 128 186
+qsv 12
+mr 79 150 -58
+qsv 12
+at 50 1
+qsv 12
+qci 192 44
+qsv 12
+qci 85 70
+qsv 12
+qtvs 86 1
+qsv 12
+att 7 22 1
+qsv 12
+qv 11 140
+qsv 12
+att 1 5 1
+qsv 12
+qcs
+qsv 12
+dt 98 1
+qsv 12
+qts
+qsv 12
+qbs
+qsv 12
+dft 19 74 1
+qsv 12
+att 25 132 1
+qsv 12
+qv 133 95
+qsv 12
+qv 46 137
+qsv 12
+att 9 51 1
+qsv 12
+qba 156
+qsv 12
+qci 44 42
+qsv 12
+ap 204 DPO-bot-204 180
+qsv 12
+mr 81 10 -14
+qsv 12
+qci 94 127
+qsv 12
+qtvs 158 1
+qsv 12
+att 98 109 1
+qsv 12
+qtav 89 1
+qsv 12
+qba 94
+qsv 12
+qci 40 144
+qsv 12
+att 20 76 1
+qsv 12
+qv 54 23
+qsv 12
+att 10 101 1
+qsv 12
+qv 108 171
+qsv 12
+qba 52
+qsv 12
+att 1 193 1
+qsv 12
+qsp 4 36
+qsv 12
+att 36 76 1
+qsv 12
+qci 163 191
+qsv 12
+ar 141 143 148
+qsv 12
+qv 11 22
+qsv 12
+att 1 142 1
+qsv 12
+qcs
+qsv 12
+ar 160 114 123
+qsv 12
+att 20 30 1
+qsv 12
+qv 13 68
+qsv 12
+qv 136 50
+qsv 12
+qv 193 168
+qsv 12
+qcs
+qsv 12
+dt 142 1
+qsv 12
+qci 189 110
+qsv 12
+dt 30 1
+qsv 12
+ap 205 DPO-bot-205 128
+qsv 12
+qbs
+qsv 12
+att 1 193 1
+qsv 12
+qv 5 187
+qsv 12
+ar 41 36 99
+qsv 12
+qci 158 103
+qsv 12
+qbs
+qsv 12
+ar 26 55 169
+qsv 12
+qcs
+qsv 12
+att 74 118 1
+qsv 12
+qtvs 88 1
+qsv 12
+qv 59 53
+qsv 12
+mr 191 32 -146
+qsv 12
+att 141 143 1
+qsv 12
+qci 154 162
+qsv 12
+qv 33 70
+qsv 12
+att 6 13 1
+qsv 12
+qv 28 142
+qsv 12
+att 45 71 1
+qsv 12
+qv 47 186
+qsv 12
+mr 40 2 -174
+qsv 12
+qv 191 52
+qsv 12
+qci 115 199
+qsv 12
+qv 88 139
+qsv 12
+qv 67 54
+qsv 12
+att 84 140 1
+qsv 12
+qcs
+qsv 12
+qtvs 59 1
+qsv 12
+qv 34 11
+qsv 12
+qci 101 97
+qsv 12
+ap 185 DPO-bot-185 60
+qsv 12
+qv 143 155
+qsv 12
+ap 82 DPO-bot-82 75
+qsv 12
+qba 80
+qsv 12
+att 53 188 1
+qsv 12
+qv 86 75
+qsv 12
+ar 109 187 33
+qsv 12
+att 16 89 1
+qsv 12
+att 22 31 1
+qsv 12
+att 16 152 1
+qsv 12
+qv 52 137
+qsv 12
+att 109 136 1
+qsv 12
+att 96 73 1
+qsv 12
+qci 152 88
+qsv 12
+qv 28 32
+qsv 12
+qv 177 57
+qsv 12
+qsp 20 31
+qsv 12
+qci 62 164
+qsv 12
+att 1 193 1
+qsv 12
+ap 155 DPO-bot-155 199
+qsv 12
+qba 46
+qsv 12
+dft 9 74 1
+qsv 12
+att 61 66 1
+qsv 12
+att 90 122 1
+qsv 12
+att 84 62 1
+qsv 12
+qv 28 88
+qsv 12
+qsp 56 5
+qsv 12
+qv 190 130
+qsv 12
+qv 33 122
+qsv 12
+qv 172 183
+qsv 12
+att 35 32 1
+qsv 12
+qv 157 18
+qsv 12
+qtav 44 1
+qsv 12
+qci 51 201
+qsv 12
+att 1 202 1
+qsv 12
+qv 130 141
+qsv 12
+att 1 147 1
+qsv 12
+qci 179 162
+qsv 12
+qtav 111 1
+qsv 12
+qv 21 36
+qsv 12
+ar 29 154 31
+qsv 12
+mr 39 73 -19
+qsv 12
+ap 38 DPO-bot-38 194
+qsv 12
+ar 132 65 47
+qsv 12
+att 18 169 1
+qsv 12
+ap 143 DPO-bot-143 50
+qsv 12
+mr 92 14 -108
+qsv 12
+att 45 49 2
+qsv 12
+att 40 28 1
+qsv 12
+qv 167 46
+qsv 12
+qv 43 48
+qsv 12
+ap 206 DPO-bot-206 29
+qsv 12
+qv 203 119
+qsv 12
+qts
+qsv 12
+dft 17 4 1
+qsv 12
+ar 171 190 200
+qsv 12
+att 89 116 1
+qsv 12
+qv 28 112
+qsv 12
+qv 145 189
+qsv 12
+ar 183 122 121
+qsv 12
+qci 283 41
+qsv 12
+att 1 204 1
+qsv 12
+qtvs 188 1
+qsv 12
+qci 23 147
+qsv 12
+att 121 108 1
+qsv 12
+qv 74 190
+qsv 12
+qci 136 174
+qsv 12
+qv 54 169
+qsv 12
+qcs
+qsv 12
+qci 144 198
+qsv 12
+qv 38 16
+qsv 12
+qba 15
+qsv 12
+att 119 107 1
+qsv 12
+qv 128 206
+qsv 12
+qts
+qsv 12
+qv 25 132
+qsv 12
+qsp 59 79
+qsv 12
+att 88 151 1
+qsv 12
+qv 121 92
+qsv 12
+dft 24 22 1
+qsv 12
+at 119 1
+qsv 12
+qv 94 191
+qsv 12
+qtvs 2 1
+qsv 12
+dft 27 54 1
+qsv 12
+qba 161
+qsv 12
+qv 49 154
+qsv 12
+dft 14 134 1
+qsv 12
+qci 126 154
+qsv 12
+att 1 178 1
+qsv 12
+qci 61 5
+qsv 12
+dft 20 4 1
+qsv 12
+qv 62 186
+qsv 12
+qtvs 62 1
+qsv 12
+qsp 16 65
+qsv 12
+att 171 190 1
+qsv 12
+qv 183 163
+qsv 12
+qv 42 188
+qsv 12
+qtav 31 1
+qsv 12
+at 48 1
+qsv 12
+qv 177 178
+qsv 12
+att 1 201 1
+qsv 12
+qci 136 164
+qsv 12
+ap 77 DPO-bot-77 74
+qsv 12
+qv 44 48
+qsv 12
+att 23 63 1
+qsv 12
+qci 163 119
+qsv 12
+att 134 64 1
+qsv 12
+ar 160 5 128
+qsv 12
+qv 186 5
+qsv 12
+att 1 130 1
+qsv 12
+att 22 30 1
+qsv 12
+att 97 82 1
+qsv 12
+qv 61 162
+qsv 12
+at 168 1
+qsv 12
+qci 109 36
+qsv 12
+dt 199 1
+qsv 12
+qv 9 123
+qsv 12
+qv 123 9
+qsv 12
+att 28 87 1
+qsv 12
+qci 35 6
+qsv 12
+dt 62 1
+qsv 12
+qci 78 95
+qsv 12
+qv 93 118
+qsv 12
+qv 75 116
+qsv 12
+att 86 128 1
+qsv 12
+qv 28 57
+qsv 12
+at 151 1
+qsv 12
+ar 1 188 35
+qsv 12
+mr 172 163 -22
+qsv 12
+qcs
+qsv 12
+att 66 31 1
+qsv 12
+qci 156 133
+qsv 12
+qv 13 132
+qsv 12
+qbs
+qsv 12
+att 146 52 1
+qsv 12
+att 1 181 1
+qsv 12
+qtav 91 1
+qsv 12
+att 19 4 1
+qsv 12
+qtvs 48 1
+qsv 12
+dt 155 1
+qsv 12
+qv 76 196
+qsv 12
+att 182 15 1
+qsv 12
+qcs
+qsv 12
+at 42 1
+qsv 12
+qci 35 126
+qsv 12
+att 6 4 1
+qsv 12
+qv 58 81
+qsv 12
+att 96 140 1
+qsv 12
+qv 63 169
+qsv 12
+qv 84 143
+qsv 12
+qv 184 91
+qsv 12
+att 1 168 1
+qsv 12
+qci 35 36
+qsv 12
+att 135 87 1
+qsv 12
+mr 129 157 -66
+qsv 12
+dft 153 77 1
+qsv 12
+mr 40 138 -149
+qsv 12
+qv 8 86
+qsv 12
+qsp 17 161
+qsv 12
+qts
+qsv 12
+at 36 1
+qsv 12
+att 207 406 73
+qsv 12
+qsp 183 4
+qsv 12
+qv 144 155
+qsv 12
+dft 85 106 1
+qsv 12
+att 43 30 1
+qsv 12
+ap 207 DPO-bot-207 116
+qsv 12
+qv 103 54
+qsv 12
+dft 2 92 1
+qsv 12
+att 96 127 1
+qsv 12
+qci 200 109
+qsv 12
+qsp 201 151
+qsv 12
+qv 53 149
+qsv 12
+qv 60 96
+qsv 12
+qv 67 12
+qsv 12
+att 21 89 1
+qsv 12
+ar 94 53 135
+qsv 12
+mr 190 117 -165
+qsv 12
+qcs
+qsv 12
+qv 120 83
+qsv 12
+qts
+qsv 12
+qci 143 10
+qsv 12
+qci 104 112
+qsv 12
+qv 44 203
+qsv 12
+qtav 163 1
+qsv 12
+qv 136 3
+qsv 12
+qtav 107 1
+qsv 12
+qci 206 132
+qsv 12
+at 29 1
+qsv 12
+att 1 179 1
+qsv 12
+qbs
+qsv 12
+qci 133 137
+qsv 12
+qci 10 176
+qsv 12
+dft 73 81 1
+qsv 12
+att 121 108 1
+qsv 12
+ap 97 DPO-bot-97 33
+qsv 12
+qv 191 205
+qsv 12
+att 33 81 1
+qsv 12
+qv 194 2
+qsv 12
+ap 119 DPO-bot-119 200
+qsv 12
+att 149 141 1
+qsv 12
+att 1 63 1
+qsv 12
+qbs
+qsv 12
+qv 206 146
+qsv 12
+att 103 110 1
+qsv 12
+qtvs 52 1
+qsv 12
+qcs
+qsv 12
+qci 49 21
+qsv 12
+qv 206 143
+qsv 12
+att 24 122 1
+qsv 12
+qci 162 31
+qsv 12
+att 21 116 1
+qsv 12
+qci 59 151
+qsv 12
+qsp 166 57
+qsv 12
+dft 83 112 1
+qsv 12
+qci 117 45
+qsv 12
+qci 106 162
+qsv 12
+qba 164
+qsv 12
+att 74 118 1
+qsv 12
+ap 10 DPO-bot-10 1
+qsv 12
+att 90 169 1
+qsv 12
+att 2 111 1
+qsv 12
+att 11 99 1
+qsv 12
+ar 162 110 21
+qsv 12
+qv 140 85
+qsv 12
+att 163 171 1
+qsv 12
+qci 21 176
+qsv 12
+qv 205 110
+qsv 12
+att 57 66 1
+qsv 12
+qtvs 9 1
+qsv 12
+qv 129 49
+qsv 12
+at 111 1
+qsv 12
+att 66 57 1
+qsv 12
+qci 92 18
+qsv 12
+qv 115 204
+qsv 12
+mr 105 78 -37
+qsv 12
+qv 206 168
+qsv 12
+att 1 186 1
+qsv 12
+att 1 201 1
+qsv 12
+att 43 30 1
+qsv 12
+qci 3 76
+qsv 12
+dt 62 1
+qsv 12
+dft 208 391 10
+qsv 12
+qci 123 178
+qsv 12
+qv 150 18
+qsv 12
+att 138 139 1
+qsv 12
+att 138 62 1
+qsv 12
+qsp 165 91
+qsv 12
+dt 122 1
+qsv 12
+qv 85 50
+qsv 12
+att 86 92 1
+qsv 12
+qv 36 148
+qsv 12
+dft 58 48 1
+qsv 12
+qcs
+qsv 12
+qci 52 55
+qsv 12
+dft 81 53 1
+qsv 12
+qv 27 49
+qsv 12
+dt 37 1
+qsv 12
+qv 163 9
+qsv 12
+qsp 85 76
+qsv 12
+qv 298 168
+qsv 12
+att 7 18 1
+qsv 12
+qba 127
+qsv 12
+att 73 46 1
+qsv 12
+qbs
+qsv 12
+qtvs 174 1
+qsv 12
+qbs
+qsv 12
+qv 140 176
+qsv 12
+qv 180 29
+qsv 12
+att 208 213 60
+qsv 12
+att 25 117 1
+qsv 12
+att 20 76 1
+qsv 12
+qtvs 85 1
+qsv 12
+att 131 70 1
+qsv 12
+at 132 1
+qsv 12
+qv 121 36
+qsv 12
+att 34 67 1
+qsv 12
+att 159 173 1
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+qv 196 183
+qsv 12
+qci 26 137
+qsv 12
+ar 1 13 17
+qsv 12
+qv 139 159
+qsv 12
+qv 26 42
+qsv 12
+qci 196 205
+qsv 12
+qv 161 185
+qsv 12
+qv 163 11
+qsv 12
+att 1 203 1
+qsv 12
+att 82 79 1
+qsv 12
+qci 185 191
+qsv 12
+ap 76 DPO-bot-76 33
+qsv 12
+qv 140 146
+qsv 12
+qtvs 187 1
+qsv 12
+ap 123 DPO-bot-123 146
+qsv 12
+qci 23 41
+qsv 12
+qci 65 44
+qsv 12
+qci 104 102
+qsv 12
+att 1 172 1
+qsv 12
+qci 203 15
+qsv 12
+qv 168 137
+qsv 12
+qba 132
+qsv 12
+att 1 167 1
+qsv 12
+ap 208 DPO-bot-208 126
+qsv 12
+qbs
+qsv 12
+att 110 162 1
+qsv 12
+qv 80 189
+qsv 12
+ar 3 68 75
+qsv 12
+att 141 143 1
+qsv 12
+qci 69 8
+qsv 12
+dft 160 114 1
+qsv 12
+dft 24 90 3
+qsv 12
+dft 26 55 1
+qsv 12
+qci 75 38
+qsv 12
+qci 152 195
+qsv 12
+att 104 94 1
+qsv 12
+qbs
+qsv 12
+att 1 203 1
+qsv 12
+qv 148 47
+qsv 12
+qv 97 23
+qsv 12
+ar 120 21 86
+qsv 12
+qci 194 88
+qsv 12
+qv 188 160
+qsv 12
+qv 185 192
+qsv 12
+att 51 53 1
+qsv 12
+qtav 203 1
+qsv 12
+dft 11 43 1
+qsv 12
+att 119 107 1
+qsv 12
+qv 72 182
+qsv 12
+ar 34 72 155
+qsv 12
+att 58 48 1
+qsv 12
+att 1 172 1
+qsv 12
+qcs
+qsv 12
+qci 46 172
+qsv 12
+qtav 116 1
+qsv 12
+ar 129 31 129
+qsv 12
+qv 183 196
+qsv 12
+att 10 101 1
+qsv 12
+qtvs 21 1
+qsv 12
+att 5 82 1
+qsv 12
+qv 36 135
+qsv 12
+att 1 206 1
+qsv 12
+qci 197 105
+qsv 12
+qci 142 159
+qsv 12
+qv 50 182
+qsv 12
+qsp 145 18
+qsv 12
+qci 169 29
+qsv 12
+qba 37
+qsv 12
+qv 140 39
+qsv 12
+dft 21 89 1
+qsv 12
+qcs
+qsv 12
+qv 206 202
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+att 132 122 1
+qsv 12
+ap 15 DPO-bot-15 33
+qsv 12
+ap 209 DPO-bot-209 13
+qsv 12
+qv 181 74
+qsv 12
+att 36 29 1
+qsv 12
+att 21 33 1
+qsv 12
+qv 70 17
+qsv 12
+att 114 127 1
+qsv 12
+att 210 209 41
+qsv 12
+qtav 102 1
+qsv 12
+at 182 1
+qsv 12
+qsp 183 173
+qsv 12
+att 96 183 1
+qsv 12
+qsp 72 184
+qsv 12
+at 46 1
+qsv 12
+qcs
+qsv 12
+att 1 130 1
+qsv 12
+at 51 1
+qsv 12
+qsp 150 92
+qsv 12
+qv 169 200
+qsv 12
+dft 1 191 1
+qsv 12
+qv 77 192
+qsv 12
+qv 3 171
+qsv 12
+qci 112 161
+qsv 12
+qv 66 71
+qsv 12
+att 19 57 1
+qsv 12
+qv 128 38
+qsv 12
+dt 208 1
+qsv 12
+mr 6 157 -60
+qsv 12
+att 74 118 1
+qsv 12
+ap 175 DPO-bot-175 35
+qsv 12
+qv 49 78
+qsv 12
+qv 108 115
+qsv 12
+qv 141 131
+qsv 12
+qv 182 10
+qsv 12
+at 180 1
+qsv 12
+at 177 1
+qsv 12
+qts
+qsv 12
+qv 190 186
+qsv 12
+qba 199
+qsv 12
+qbs
+qsv 12
+qts
+qsv 12
+qv 203 200
+qsv 12
+att 6 23 1
+qsv 12
+qv 124 199
+qsv 12
+qbs
+qsv 12
+qci 163 129
+qsv 12
+qsp 52 173
+qsv 12
+att 163 139 1
+qsv 12
+qv 195 122
+qsv 12
+qtav 87 1
+qsv 12
+ar 85 185 43
+qsv 12
+qv 90 55
+qsv 12
+qv 72 113
+qsv 12
+qv 174 19
+qsv 12
+qv 111 55
+qsv 12
+qv 112 184
+qsv 12
+qv 34 41
+qsv 12
+att 10 101 1
+qsv 12
+qv 35 128
+qsv 12
+att 1 198 1
+qsv 12
+qbs
+qsv 12
+att 141 149 1
+qsv 12
+att 1 161 1
+qsv 12
+qv 151 77
+qsv 12
+att 39 135 1
+qsv 12
+qv 105 106
+qsv 12
+ar 173 47 8
+qsv 12
+att 1 202 1
+qsv 12
+qci 187 50
+qsv 12
+att 44 125 1
+qsv 12
+qv 172 45
+qsv 12
+qts
+qsv 12
+qts
+qsv 12
+qci 33 100
+qsv 12
+att 10 101 1
+qsv 12
+ap 210 DPO-bot-210 167
+qsv 12
+qv 203 190
+qsv 12
+qv 106 140
+qsv 12
+dft 66 61 1
+qsv 12
+att 171 163 1
+qsv 12
+qv 120 132
+qsv 12
+qci 31 40
+qsv 12
+qv 172 72
+qsv 12
+dft 173 47 1
+qsv 12
+qtvs 110 1
+qsv 12
+qv 176 170
+qsv 12
+qci 73 138
+qsv 12
+att 1 166 1
+qsv 12
+qci 87 49
+qsv 12
+at 175 1
+qsv 12
+att 84 140 1
+qsv 12
+qci 100 61
+qsv 12
+ap 211 DPO-bot-211 192
+qsv 12
+att 99 32 1
+qsv 12
+att 35 54 1
+qsv 12
+att 106 124 1
+qsv 12
+qv 151 181
+qsv 12
+qv 186 77
+qsv 12
+at 62 1
+qsv 12
+qcs
+qsv 12
+qv 68 38
+qsv 12
+att 1 147 1
+qsv 12
+qts
+qsv 12
+qtvs 85 1
+qsv 12
+qv 41 49
+qsv 12
+att 1 130 1
+qsv 12
+qv 199 157
+qsv 12
+at 204 1
+qsv 12
+ar 52 69 104
+qsv 12
+qv 90 106
+qsv 12
+att 1 203 1
+qsv 12
+att 29 62 1
+qsv 12
+mr 1 44 -200
+qsv 12
+att 128 86 1
+qsv 12
+qci 81 3
+qsv 12
+qv 166 116
+qsv 12
+qba 22
+qsv 12
+ap 156 DPO-bot-156 184
+qsv 12
+qts
+qsv 12
+qv 162 48
+qsv 12
+qci 27 56
+qsv 12
+qcs
+qsv 12
+qci 82 101
+qsv 12
+qci 111 101
+qsv 12
+qtvs 62 1
+qsv 12
+qsp 4 54
+qsv 12
+qv 158 183
+qsv 12
+ar 101 191 98
+qsv 12
+qv 109 101
+qsv 12
+qv 106 47
+qsv 12
+att 1 199 1
+qsv 12
+at 185 1
+qsv 12
+qv 58 160
+qsv 12
+att 90 169 1
+qsv 12
+qv 2 11
+qsv 12
+qts
+qsv 12
+att 131 39 1
+qsv 12
+qv 7 186
+qsv 12
+ap 153 DPO-bot-153 151
+qsv 12
+qv 159 164
+qsv 12
+qv 180 140
+qsv 12
+qtav 5 1
+qsv 12
+qsp 172 147
+qsv 12
+ar 84 11 73
+qsv 12
+qv 106 54
+qsv 12
+ar 64 175 167
+qsv 12
+att 1 203 1
+qsv 12
+ap 212 DPO-bot-212 187
+qsv 12
+qci 159 59
+qsv 12
+att 1 180 1
+qsv 12
+qv 73 158
+qsv 12
+qba 115
+qsv 12
+att 154 29 1
+qsv 12
+att 162 110 1
+qsv 12
+qtav 62 1
+qsv 12
+att 15 26 1
+qsv 12
+qbs
+qsv 12
+qv 160 44
+qsv 12
+ar 141 187 122
+qsv 12
+ap 213 DPO-bot-213 174
+qsv 12
+qv 33 57
+qsv 12
+qv 38 96
+qsv 12
+att 27 7 1
+qsv 12
+ar 188 167 77
+qsv 12
+dft 35 27 1
+qsv 12
+att 68 64 1
+qsv 12
+qv 169 129
+qsv 12
+mr 162 212 -80
+qsv 12
+qv 2 47
+qsv 12
+dft 173 159 1
+qsv 12
+dft 74 118 1
+qsv 12
+qci 108 113
+qsv 12
+dft 54 73 1
+qsv 12
+qtvs 117 1
+qsv 12
+qv 104 13
+qsv 12
+qci 20 180
+qsv 12
+qv 131 156
+qsv 12
+qv 50 35
+qsv 12
+qv 14 133
+qsv 12
+at 98 1
+qsv 12
+att 24 138 1
+qsv 12
+qv 78 38
+qsv 12
+att 122 183 1
+qsv 12
+qv 138 68
+qsv 12
+att 92 86 1
+qsv 12
+qv 85 182
+qsv 12
+qv 193 66
+qsv 12
+att 100 134 1
+qsv 12
+qci 72 213
+qsv 12
+qci 55 8
+qsv 12
+ap 214 DPO-bot-214 160
+qsv 12
+qts
+qsv 12
+mr 79 47 -175
+qsv 12
+qv 196 111
+qsv 12
+dt 185 1
+qsv 12
+mr 37 159 -53
+qsv 12
+at 16 1
+qsv 12
+qci 80 81
+qsv 12
+ap 123 DPO-bot-123 146
+qsv 12
+qv 80 40
+qsv 12
+att 53 81 1
+qsv 12
+att 155 8 1
+qsv 12
+qv 143 70
+qsv 12
+qv 103 127
+qsv 12
+qv 79 50
+qsv 12
+qv 187 15
+qsv 12
+att 16 152 1
+qsv 12
+mr 108 104 -31
+qsv 12
+qts
+qsv 12
+qci 169 168
+qsv 12
+ap 215 DPO-bot-215 56
+qsv 12
+mr 132 37 -189
+qsv 12
+ap 99 DPO-bot-99 112
+qsv 12
+mr 178 32 -136
+qsv 12
+qci 144 203
+qsv 12
+att 1 204 1
+qsv 12
+qci 211 177
+qsv 12
+qtvs 134 1
+qsv 12
+att 39 144 1
+qsv 12
+ap 216 DPO-bot-216 156
+qsv 12
+qv 34 116
+qsv 12
+qv 143 28
+qsv 12
+ar 180 131 148
+qsv 12
+ap 217 DPO-bot-217 164
+qsv 12
+ar 183 133 77
+qsv 12
+att 1 198 1
+qsv 12
+ar 24 29 171
+qsv 12
+qv 212 196
+qsv 12
+dft 107 119 1
+qsv 12
+qcs
+qsv 12
+ar 32 157 38
+qsv 12
+qv 97 189
+qsv 12
+dft 64 134 1
+qsv 12
+qv 27 126
+qsv 12
+qv 150 7
+qsv 12
+qv 24 92
+qsv 12
+qv 172 178
+qsv 12
+qbs
+qsv 12
+qci 28 140
+qsv 12
+att 1 137 1
+qsv 12
+qcs
+qsv 12
+att 1 215 1
+qsv 12
+at 26 1
+qsv 12
+qci 139 93
+qsv 12
+qcs
+qsv 12
+qv 183 99
+qsv 12
+ap 218 DPO-bot-218 111
+qsv 12
+att 1 204 1
+qsv 12
+ap 187 DPO-bot-187 56
+qsv 12
+qcs
+qsv 12
+qbs
+qsv 12
+qbs
+qsv 12
+qv 164 48
+qsv 12
+qts
+qsv 12
+dt 93 1
+qsv 12
+qci 78 113
+qsv 12
+qci 24 8
+qsv 12
+att 81 53 1
+qsv 12
+ar 218 154 83
+qsv 12
+att 1 172 1
+qsv 12
+att 64 50 1
+qsv 12
+qci 206 129
+qsv 12
+qv 54 103
+qsv 12
+mr 50 144 -81
+qsv 12
+ap 219 DPO-bot-219 47
+qsv 12
+mr 150 137 -119
+qsv 12
+att 53 81 1
+qsv 12
+at 158 1
+qsv 12
+att 110 162 1
+qsv 12
+dft 220 435 52
+qsv 12
+qtav 16 1
+qsv 12
+qv 40 196
+qsv 12
+att 19 68 1
+qsv 12
+att 119 108 1
+qsv 12
+ar 95 48 124
+qsv 12
+qci 48 127
+qsv 12
+ar 154 59 19
+qsv 12
+qv 4 114
+qsv 12
+qci 47 194
+qsv 12
+qv 89 15
+qsv 12
+qv 48 11
+qsv 12
+qsp 173 44
+qsv 12
+att 220 270 78
+qsv 12
+qv 12 8
+qsv 12
+dft 1 192 1
+qsv 12
+at 29 1
+qsv 12
+mr 204 162 -109
+qsv 12
+att 44 125 1
+qsv 12
+att 4 93 1
+qsv 12
+qci 131 84
+qsv 12
+ar 215 120 114
+qsv 12
+qts
+qsv 12
+qv 140 127
+qsv 12
+qts
+qsv 12
+qtav 12 1
+qsv 12
+qv 180 170
+qsv 12
+qv 210 79
+qsv 12
+att 1 209 1
+qsv 12
+att 37 14 1
+qsv 12
+qcs
+qsv 12
+dft 1 199 1
+qsv 12
+qv 145 10
+qsv 12
+qv 132 192
+qsv 12
+qv 95 208
+qsv 12
+qsp 155 75
+qsv 12
+dft 129 16 1
+qsv 12
+dft 21 116 1
+qsv 12
+qba 190
+qsv 12
+qcs
+qsv 12
+at 80 1
+qsv 12
+att 12 8 1
+qsv 12
+qci 185 190
+qsv 12
+att 1 172 1
+qsv 12
+qv 125 110
+qsv 12
+qv 75 47
+qsv 12
+qci 73 22
+qsv 12
+att 7 34 1
+qsv 12
+att 220 219 37
+qsv 12
+qci 40 20
+qsv 12
+qsp 191 76
+qsv 12
+ap 220 DPO-bot-220 144
+qsv 12
+qv 101 88
+qsv 12
+att 122 24 1
+qsv 12
+qbs
+qsv 12
+ap 158 DPO-bot-158 64
+qsv 12
+mr 188 114 -135
+qsv 12
+qv 28 136
+qsv 12
+qbs
+qsv 12
+at 106 1
+qsv 12
+dft 165 158 1
+qsv 12
+att 10 2 1
+qsv 12
+ar 196 99 165
+qsv 12
+qtav 88 1
+qsv 12
+att 1 219 1
+qsv 12
+qci 21 94
+qsv 12
+qci 122 215
+qsv 12
+qbs
+qsv 12
+qsp 122 92
+qsv 12
+qcs
+qsv 12
+att 185 85 1
+qsv 12
+qtvs 105 1
+qsv 12
+qv 60 102
+qsv 12
+att 171 190 1
+qsv 12
+qtvs 47 1
+qsv 12
+qtav 22 3
+qsv 12
+ap 201 DPO-bot-201 60
+qsv 12
+qv 25 140
+qsv 12
+att 6 3 1
+qsv 12
+qci 101 126
+qsv 12
+ap 187 DPO-bot-187 56
+qsv 12
+att 1 202 1
+qsv 12
+qv 5 140
+qsv 12
+qv 154 206
+qsv 12
+qsp 31 119
+qsv 12
+dft 54 65 1
+qsv 12
+qci 44 186
+qsv 12
+ar 189 18 111
+qsv 12
+ap 72 DPO-bot-72 49
+qsv 12
+qts
+qsv 12
+qv 152 109
+qsv 12
+mr 97 207 -43
+qsv 12
+ar 21 78 61
+qsv 12
+qv 66 207
+qsv 12
+qci 55 23
+qsv 12
+qv 66 104
+qsv 12
+qv 44 18
+qsv 12
+qsp 8 9
+qsv 12
+att 1 177 1
+qsv 12
+qci 101 30
+qsv 12
+att 91 70 1
+qsv 12
+qts
+qsv 12
+ap 106 DPO-bot-106 124
+qsv 12
+qv 20 72
+qsv 12
+qv 76 166
+qsv 12
+qci 180 154
+qsv 12
+qv 68 160
+qsv 12
+ar 87 197 163
+qsv 12
+qci 128 65
+qsv 12
+qv 350 15
+qsv 12
+qv 145 15
+qsv 12
+qts
+qsv 12
+ar 199 36 93
+qsv 12
+qv 124 205
+qsv 12
+qtvs 111 1
+qsv 12
+qba 109
+qsv 12
+att 1 200 1
+qsv 12
+ar 219 44 42
+qsv 12
+qtav 112 1
+qsv 12
+qv 118 119
+qsv 12
+att 109 98 1
+qsv 12
+dft 141 149 1
+qsv 12
+qv 183 94
+qsv 12
+qba 149
+qsv 12
+att 23 62 1
+qsv 12
+dft 19 51 1
+qsv 12
+at 110 1
+qsv 12
+qba 79
+qsv 12
+dt 11 1
+qsv 12
+qv 195 10
+qsv 12
+qci 113 76
+qsv 12
+att 7 28 1
+qsv 12
+ap 221 DPO-bot-221 183
+qsv 12
+qv 108 142
+qsv 12
+att 1 205 1
+qsv 12
+dft 1 201 1
+qsv 12
+qtvs 189 1
+qsv 12
+att 8 77 1
+qsv 12
+qtav 184 1
+qsv 12
+qv 170 152
+qsv 12
+qv 169 201
+qsv 12
+att 39 144 1
+qsv 12
+mr 120 52 -108
+qsv 12
+qv 208 29
+qsv 12
+dft 139 163 1
+qsv 12
+qv 37 137
+qsv 12
+att 108 121 1
+qsv 12
+qba 158
+qsv 12
+ar 135 44 23
+qsv 12
+att 122 183 1
+qsv 12
+qv 196 28
+qsv 12
+qtvs 38 1
+qsv 12
+qsp 102 143
+qsv 12
+qsp 142 187
+qsv 12
+qsp 21 201
+qsv 12
+att 1 142 1
+qsv 12
+qci 135 187
+qsv 12
+qts
+qsv 12
+qv 25 179
+qsv 12
+qts
+qsv 12
+qci 5 135
+qsv 12
+ap 94 DPO-bot-94 157
+qsv 12
+dft 66 57 1
+qsv 12
+qcs
+qsv 12
+qv 135 70
+qsv 12
+qsp 139 12
+qsv 12
+att 1 208 1
+qsv 12
+qcs
+qsv 12
+att 54 73 1
+qsv 12
+qci 132 86
+qsv 12
+att 32 99 1
+qsv 12
+qv 97 25
+qsv 12
+ar 212 174 120
+qsv 12
+qv 19 69
+qsv 12
+qsp 74 122
+qsv 12
+ar 195 151 181
+qsv 12
+qv 155 4
+qsv 12
+qcs
+qsv 12
+att 83 82 1
+qsv 12
+qsp 212 163
+qsv 12
+qcs
+qsv 12
+qsp 125 155
+qsv 12
+att 170 176 1
+qsv 12
+qci 149 187
+qsv 12
+qv 180 212
+qsv 12
+qv 203 142
+qsv 12
+qv 45 161
+qsv 12
+att 1 193 1
+qsv 12
+att 81 65 1
+qsv 12
+qv 165 193
+qsv 12
+att 139 138 1
+qsv 12
+qv 122 92
+qsv 12
+qsp 71 200
+qsv 12
+qci 40 36
+qsv 12
+qv 64 213
+qsv 12
+qv 87 193
+qsv 12
+dft 54 48 1
+qsv 12
+att 62 76 1
+qsv 12
+qci 44 161
+qsv 12
+qci 89 175
+qsv 12
+qci 58 208
+qsv 12
+qci 107 104
+qsv 12
+att 89 116 1
+qsv 12
+qsp 5 12
+qsv 12
+att 72 79 1
+qsv 12
+qci 102 154
+qsv 12
+qv 81 123
+qsv 12
+dft 10 40 1
+qsv 12
+att 3 12 1
+qsv 12
+att 127 126 1
+qsv 12
+qv 74 85
+qsv 12
+qci 65 76
+qsv 12
+att 77 129 1
+qsv 12
+ap 207 DPO-bot-207 116
+qsv 12
+qts
+qsv 12
+qtav 4 1
+qsv 12
+qci 51 10
+qsv 12
+qbs
+qsv 12
+att 1 186 1
+qsv 12
+qv 32 160
+qsv 12
+dft 127 114 1
+qsv 12
+att 48 54 1
+qsv 12
+att 58 88 1
+qsv 12
+qv 128 11
+qsv 12
+qv 167 337
+qsv 12
+qv 155 161
+qsv 12
+att 51 19 1
+qsv 12
+qv 53 158
+qsv 12
+qba 206
+qsv 12
+qv 140 15
+qsv 12
+qci 180 184
+qsv 12
+qtav 198 1
+qsv 12
+ap 222 DPO-bot-222 151
+qsv 12
+ap 164 DPO-bot-164 77
+qsv 12
+qv 186 27
+qsv 12
+dft 25 117 1
+qsv 12
+att 1 147 1
+qsv 12
+qtav 86 1
+qsv 12
+qv 26 47
+qsv 12
+att 44 219 1
+qsv 12
+qv 174 217
+qsv 12
+qv 113 208
+qsv 12
+att 74 77 1
+qsv 12
+qv 154 217
+qsv 12
+att 85 185 1
+qsv 12
+ap 27 DPO-bot-27 142
+qsv 12
+qcs
+qsv 12
+att 1 205 1
+qsv 12
+att 128 148 1
+qsv 12
+att 171 190 1
+qsv 12
+qv 57 105
+qsv 12
+qci 23 44
+qsv 12
+qsp 66 203
+qsv 12
+qci 109 127
+qsv 12
+qv 51 99
+qsv 12
+dft 99 102 1
+qsv 12
+mr 178 16 -137
+qsv 12
+qsp 115 25
+qsv 12
+att 154 59 1
+qsv 12
+ar 112 96 7
+qsv 12
+dft 97 60 1
+qsv 12
+dft 82 83 1
+qsv 12
+qbs
+qsv 12
+qci 207 1
+qsv 12
+ap 39 DPO-bot-39 162
+qsv 12
+att 1 178 1
+qsv 12
+ap 210 DPO-bot-210 167
+qsv 12
+qci 40 124
+qsv 12
+at 59 1
+qsv 12
+qtvs 87 1
+qsv 12
+ar 19 141 71
+qsv 12
+att 33 94 1
+qsv 12
+dft 148 128 1
+qsv 12
+qtav 415 59
+qsv 12
+ar 23 150 16
+qsv 12
+dft 2 92 1
+qsv 12
+qci 187 139
+qsv 12
+att 141 187 1
+qsv 12
+ar 26 83 128
+qsv 12
+qv 1 196
+qsv 12
+qv 88 36
+qsv 12
+dft 40 10 1
+qsv 12
+qci 349 66
+qsv 12
+att 20 164 1
+qsv 12
+qcs
+qsv 12
+qv 193 10
+qsv 12
+qv 185 127
+qsv 12
+mr 102 100 -139
+qsv 12
+att 23 150 1
+qsv 12
+ap 223 DPO-bot-223 21
+qsv 12
+qci 15 120
+qsv 12
+qci 17 50
+qsv 12
+att 37 80 1
+qsv 12
+att 15 182 1
+qsv 12
+qv 42 280
+qsv 12
+att 23 150 1
+qsv 12
+qci 179 140
+qsv 12
+mr 51 180 -165
+qsv 12
+att 1 213 1
+qsv 12
+ar 141 26 184
+qsv 12
+qci 53 71
+qsv 12
+qv 212 86
+qsv 12
+att 23 151 1
+qsv 12
+dft 99 11 1
+qsv 12
+qcs
+qsv 12
+dft 80 37 1
+qsv 12
+qv 169 6
+qsv 12
+att 120 215 1
+qsv 12
+qv 129 1
+qsv 12
+att 1 207 1
+qsv 12
+att 89 116 1
+qsv 12
+dft 131 70 1
+qsv 12
+att 224 336 57
+qsv 12
+qcs
+qsv 12
+dt 43 1
+qsv 12
+att 101 191 1
+qsv 12
+qts
+qsv 12
+dt 22 1
+qsv 12
+qv 157 3
+qsv 12
+qv 77 188
+qsv 12
+qv 40 118
+qsv 12
+qts
+qsv 12
+qcs
+qsv 12
+qv 169 6
+qsv 12
+qcs
+qsv 12
+att 79 72 1
+qsv 12
+qcs
+qsv 12
+at 220 1
+qsv 12
+att 20 105 1
+qsv 12
+qv 159 128
+qsv 12
+qci 160 74
+qsv 12
+qv 34 165
+qsv 12
+att 1 203 1
+qsv 12
+att 26 55 1
+qsv 12
+qv 188 105
+qsv 12
+qv 62 65
+qsv 12
+qv 118 165
+qsv 12
+att 44 194 1
+qsv 12
+att 110 162 1
+qsv 12
+at 143 1
+qsv 12
+qv 111 16
+qsv 12
+qtvs 211 1
+qsv 12
+qv 58 135
+qsv 12
+qv 169 72
+qsv 12
+att 1 217 1
+qsv 12
+ap 224 DPO-bot-224 154
+qsv 12
+ap 143 DPO-bot-143 50
+qsv 12
+qv 75 98
+qsv 12
+mr 63 55 -192
+qsv 12
+ap 225 DPO-bot-225 189
+qsv 12
+att 69 52 1
+qsv 12
+att 64 175 1
+qsv 12
+att 21 14 1
+qsv 12
+qv 45 20
+qsv 12
+qba 184
+qsv 12
+ar 29 23 101
+qsv 12
+qbs
+qsv 12
+qci 85 25
+qsv 12
+mr 108 78 -95
+qsv 12
+att 71 120 1
+qsv 12
+qci 64 31
+qsv 12
+qci 39 94
+qsv 12
+att 61 118 1
+qsv 12
+att 133 145 1
+qsv 12
+att 62 84 1
+qsv 12
+att 30 10 1

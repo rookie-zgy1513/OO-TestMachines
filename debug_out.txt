@@ -1,0 +1,174 @@
+10
+C-8024 2
+C-4120 1
+A-7908 2
+B-4000 2
+B-7745 2
+C-1874 1
+B-9124 1
+C-1023 2
+B-1783 2
+A-6408 1
+[2024-01-02] OPEN
+[2024-01-02] 61726739 queried credit score
+[2024-01-02] 61726739 ordered B-1783
+[2024-01-02] 61726739 queried credit score
+[2024-01-02] 61726739 borrowed B-1783
+[2024-01-02] 61726739 queried credit score
+[2024-01-02] 89138410 queried credit score
+[2024-01-02] 61726739 queried credit score
+[2024-01-02] 89138410 ordered B-1783
+[2024-01-02] 61726739 queried credit score
+[2024-01-02] 52046847 queried credit score
+[2024-01-02] CLOSE
+[2024-01-03] OPEN
+[2024-01-03] 61726739 queried credit score
+[2024-01-03] 61726739 picked B-1783
+[2024-01-03] CLOSE
+[2024-01-07] OPEN
+[2024-01-07] 61726739 queried credit score
+[2024-01-07] 89138410 picked B-1783
+[2024-01-07] CLOSE
+[2024-01-17] OPEN
+[2024-01-17] 61726739 queried credit score
+[2024-01-17] 61726739 returned B-1783
+[2024-01-17] CLOSE
+[2024-03-05] OPEN
+[2024-03-05] 61726739 queried credit score
+[2024-03-05] 52046847 donated AU-1145
+[2024-03-05] 61726739 queried credit score
+[2024-03-05] 55978782 donated CU-5290
+[2024-03-05] 61726739 queried credit score
+[2024-03-05] 23375922 ordered A-7908
+[2024-03-05] 61726739 queried credit score
+[2024-03-05] 55978782 queried credit score
+[2024-03-05] 61726739 queried credit score
+[2024-03-05] 55978782 queried credit score
+[2024-03-05] CLOSE
+[2024-03-07] OPEN
+[2024-03-07] 61726739 queried credit score
+[2024-03-07] 30730204 ordered C-8024
+[2024-03-07] 61726739 queried credit score
+[2024-03-07] 94740194 queried AU-1145
+[2024-03-07] 61726739 queried credit score
+[2024-03-07] 61726739 borrowed B-4000
+[2024-03-07] 61726739 queried credit score
+[2024-03-07] 55978782 borrowed C-4120
+[2024-03-07] 61726739 queried credit score
+[2024-03-07] 73956546 borrowed B-4000
+[2024-03-07] CLOSE
+[2024-03-11] OPEN
+[2024-03-11] 61726739 queried credit score
+[2024-03-11] 30730204 picked C-8024
+[2024-03-11] CLOSE
+[2024-03-15] OPEN
+[2024-03-15] 61726739 queried credit score
+[2024-03-15] 73956546 returned B-4000
+[2024-03-15] CLOSE
+[2024-03-21] OPEN
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 30730204 donated BU-7445
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 30730204 donated CU-8556
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 55978782 donated CU-0134
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 52046847 borrowed AU-1145
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 23375922 borrowed A-6408
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 73956546 queried credit score
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 43633728 borrowed C-1874
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 43633728 queried credit score
+[2024-03-21] 61726739 queried credit score
+[2024-03-21] 73956546 queried credit score
+[2024-03-21] CLOSE
+[2024-03-23] OPEN
+[2024-03-23] 61726739 queried credit score
+[2024-03-23] 52046847 queried credit score
+[2024-03-23] 61726739 queried credit score
+[2024-03-23] 73956546 ordered C-1023
+[2024-03-23] 61726739 queried credit score
+[2024-03-23] 30730204 borrowed C-8024
+[2024-03-23] 61726739 queried credit score
+[2024-03-23] 23375922 queried credit score
+[2024-03-23] 61726739 queried credit score
+[2024-03-23] 23375922 ordered C-1874
+[2024-03-23] CLOSE
+[2024-03-24] OPEN
+[2024-03-24] 61726739 queried credit score
+[2024-03-24] 73956546 picked C-1023
+[2024-03-24] CLOSE
+[2024-03-25] OPEN
+[2024-03-25] 61726739 queried credit score
+[2024-03-25] 23375922 picked C-1874
+[2024-03-25] CLOSE
+[2024-03-31] OPEN
+[2024-03-31] 61726739 queried credit score
+[2024-03-31] 61726739 renewed B-4000
+[2024-03-31] CLOSE
+[2024-04-03] OPEN
+[2024-04-03] 61726739 queried credit score
+[2024-04-03] 61726739 returned B-4000
+[2024-04-03] CLOSE
+[2024-04-06] OPEN
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 55978782 ordered C-1023
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 43633728 queried BU-7445
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 89138410 borrowed CU-8556
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 30730204 queried credit score
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 73956546 borrowed AU-1145
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 43633728 ordered CU-0134
+[2024-04-06] 61726739 queried credit score
+[2024-04-06] 30730204 ordered B-7745
+[2024-04-06] CLOSE
+[2024-04-08] OPEN
+[2024-04-08] 61726739 queried credit score
+[2024-04-08] 30730204 picked B-7745
+[2024-04-08] CLOSE
+[2024-04-11] OPEN
+[2024-04-11] 61726739 queried credit score
+[2024-04-11] 43633728 renewed C-1874
+[2024-04-11] 61726739 queried credit score
+[2024-04-11] 55978782 picked C-1023
+[2024-04-11] CLOSE
+[2024-04-12] OPEN
+[2024-04-12] 61726739 queried credit score
+[2024-04-12] 73956546 borrowed CU-0134
+[2024-04-12] 61726739 queried credit score
+[2024-04-12] 49978860 ordered A-6408
+[2024-04-12] 61726739 queried credit score
+[2024-04-12] 73956546 queried credit score
+[2024-04-12] 61726739 queried credit score
+[2024-04-12] 61726739 queried A-6408
+[2024-04-12] 61726739 queried credit score
+[2024-04-12] 30730204 borrowed CU-0134
+[2024-04-12] CLOSE
+[2024-04-16] OPEN
+[2024-04-16] 61726739 queried credit score
+[2024-04-16] 89138410 returned CU-8556
+[2024-04-16] CLOSE
+[2024-04-17] OPEN
+[2024-04-17] 61726739 queried credit score
+[2024-04-17] 43633728 returned C-1874
+[2024-04-17] CLOSE
+[2024-04-19] OPEN
+[2024-04-19] 61726739 queried credit score
+[2024-04-19] 73956546 returned CU-0134
+[2024-04-19] CLOSE
+[2024-04-22] OPEN
+[2024-04-22] 61726739 queried credit score
+[2024-04-22] 43633728 borrowed B-9124
+[2024-04-22] 61726739 queried credit score
+[2024-04-22] 52046847 ordered BU-7445
+[2024-04-22] 61726739 queried credit score
+[2024-04-22] 43633728 borrowed AU-1145
+[2024-04-22] 61726739 queried credit score
+[2024-04-22] 61726739 queried credit score
