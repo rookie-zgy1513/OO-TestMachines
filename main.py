@@ -5,7 +5,7 @@ import subprocess
 from DataGenerator import data_generator
 from Checker import Library
 import shutil
-from datetime import date,timedelta
+from datetime import date, timedelta, datetime
 import re
 
 config = json.load(open('config.json',encoding='utf-8'))
@@ -126,8 +126,12 @@ if __name__ == "__main__":
             shutil.rmtree(f"workspace/{i + 1}")
         elif result != "Accepted!":
             failed_list.append(i + 1)
-        print(f"Case {i + 1}: {result}")
+        if result == "Accepted!":
+            print("\033[36mCase {}: {}\033[0m".format(i + 1, "\033[32m" + str(result) + "\033[0m"))
+        else:
+            print("\033[36mCase {}: {}\033[0m".format(i + 1, "\033[31m" + str(result) + "\033[0m"))
     if failed_list:
-        print(f"Failed cases: {failed_list}")
+        print("\033[31mFailed cases: {}\033[0m".format(failed_list))
     else:
-        print("All cases passed!")
+        print("\033[32mAll cases passed!\033[0m")
+    print("\033[35mTest finish time: " + str(datetime.now()) + "\033[0m")

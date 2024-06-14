@@ -1,0 +1,1045 @@
+0
+[2024-01-21] [reject] 04171618 ordered A-0005
+[2024-01-21] [reject] 04171618 borrowed A-0007
+[2024-01-21] [reject] 24087998 ordered A-0005
+[2024-01-21] [reject] 24087998 borrowed A-0011
+[2024-01-21] [accept] 04171618 borrowed C-0002
+[2024-01-21] [reject] 04171618 ordered A-0011
+[2024-01-21] [reject] 92815965 borrowed A-0005
+[2024-01-21] [reject] 12578370 borrowed A-0005
+[2024-01-21] [reject] 92815965 borrowed A-0004
+[2024-01-21] [reject] 24087998 ordered A-0007
+[2024-01-21] A-0004 1
+[2024-01-21] [reject] 92815965 borrowed C-0002
+[2024-01-21] C-0010 2
+[2024-01-21] [reject] 86825418 ordered A-0005
+[2024-01-21] A-0012 1
+[2024-01-21] [reject] 12578370 borrowed A-0012
+[2024-01-21] [reject] 92815965 borrowed A-0005
+[2024-01-21] [reject] 92815965 borrowed A-0012
+[2024-01-21] [reject] 86825418 ordered A-0012
+[2024-01-21] [reject] 04171618 borrowed A-0005
+[2024-01-21] C-0002 0
+[2024-01-21] [reject] 92815965 borrowed C-0002
+[2024-01-21] A-0004 1
+[2024-01-21] [reject] 92815965 ordered A-0012
+[2024-01-21] [reject] 04171618 borrowed A-0007
+[2024-01-21] A-0012 1
+[2024-01-21] A-0004 1
+[2024-01-21] C-0010 2
+[2024-01-21] C-0010 2
+[2024-01-21] [reject] 04171618 ordered A-0012
+[2024-01-21] [reject] 24087998 borrowed A-0004
+[2024-01-21] [reject] 86825418 ordered A-0007
+[2024-01-21] [reject] 24087998 borrowed A-0004
+[2024-01-21] [accept] 24087998 ordered C-0010
+[2024-01-21] [reject] 12578370 borrowed A-0007
+[2024-01-21] [reject] 12578370 borrowed C-0002
+[2024-01-21] A-0007 1
+[2024-01-21] [reject] 92815965 ordered A-0007
+[2024-01-21] [reject] 04171618 borrowed A-0004
+[2024-01-21] [reject] 04171618 borrowed A-0011
+[2024-01-21] [accept] 04171618 borrowed C-0010
+[2024-01-21] [reject] 04171618 ordered C-0002
+[2024-01-21] [reject] 86825418 ordered A-0011
+[2024-01-21] [reject] 04171618 ordered A-0012
+[2024-01-21] [reject] 24087998 ordered A-0004
+[2024-01-21] A-0004 1
+[2024-01-21] A-0011 2
+[2024-01-21] [accept] 92815965 ordered C-0012
+[2024-01-21] [reject] 92815965 ordered A-0011
+[2024-01-21] C-0002 0
+[2024-01-21] C-0010 1
+[2024-01-21] [reject] 12578370 ordered A-0004
+[2024-01-21] [reject] 24087998 borrowed A-0012
+[2024-01-21] A-0005 1
+[2024-01-21] A-0005 1
+[2024-01-21] [reject] 04171618 borrowed A-0004
+[2024-01-21] [accept] 12578370 ordered C-0010
+[2024-01-21] [accept] 92815965 ordered C-0010
+[2024-01-21] [reject] 24087998 borrowed A-0004
+[2024-01-21] [reject] 92815965 borrowed A-0005
+[2024-01-21] [reject] 04171618 ordered A-0012
+[2024-01-21] [accept] 04171618 borrowed C-0012
+[2024-01-21] [reject] 04171618 ordered A-0011
+[2024-01-21] [reject] 86825418 ordered A-0004
+[2024-01-21] [reject] 24087998 borrowed A-0004
+[2024-01-21] [reject] 86825418 ordered A-0004
+[2024-01-21] [reject] 24087998 borrowed A-0011
+[2024-01-21] [reject] 92815965 borrowed A-0012
+[2024-01-21] [reject] 92815965 borrowed C-0012
+[2024-01-21] C-0012 0
+[2024-01-21] [accept] 12578370 ordered C-0012
+[2024-01-21] [reject] 92815965 borrowed A-0011
+[2024-01-21] [reject] 04171618 borrowed A-0005
+[2024-01-21] C-0012 0
+[2024-01-21] C-0012 0
+[2024-01-21] A-0005 1
+[2024-01-21] [reject] 86825418 borrowed A-0012
+[2024-01-21] [reject] 04171618 borrowed A-0011
+[2024-01-21] [reject] 24087998 ordered A-0011
+0
+1
+[2024-01-22] move C-0010 from bs to ao for 24087998
+[2024-01-22] [accept] 24087998 picked C-0010
+[2024-01-22] [reject] 12578370 picked C-0012
+0
+0
+[2024-01-26] [reject] 92815965 picked C-0010
+0
+0
+[2024-01-28] [reject] 92815965 picked C-0010
+[2024-01-28] [reject] 12578370 picked C-0010
+[2024-01-28] [reject] 92815965 picked C-0012
+0
+0
+[2024-03-18] [reject] 04171618 renewed C-0010
+0
+0
+[2024-03-21] [accept] 04171618 renewed C-0002
+0
+0
+[2024-04-20] [reject] 24087998 ordered A-0007
+[2024-04-20] [reject] 04171618 borrowed A-0012
+[2024-04-20] [accept] 12578370 donated CU-0408
+[2024-04-20] [accept] 86825418 ordered C-0002
+[2024-04-20] [reject] 04171618 borrowed A-0005
+[2024-04-20] C-0010 0
+[2024-04-20] C-0012 0
+[2024-04-20] [reject] 24087998 borrowed C-0002
+[2024-04-20] [reject] 04171618 ordered A-0005
+[2024-04-20] [reject] 12578370 borrowed C-0010
+[2024-04-20] CU-0408 1
+[2024-04-20] [reject] 86825418 borrowed A-0004
+[2024-04-20] [reject] 92815965 ordered A-0007
+[2024-04-20] [reject] 86825418 ordered A-0012
+[2024-04-20] [reject] 92815965 borrowed A-0005
+[2024-04-20] [reject] 04171618 ordered A-0012
+[2024-04-20] [accept] 24087998 ordered C-0012
+[2024-04-20] [accept] 24087998 borrowed CU-0408
+[2024-04-20] [reject] 04171618 borrowed A-0007
+[2024-04-20] [reject] 04171618 ordered C-0010
+[2024-04-20] CU-0408 0
+[2024-04-20] [reject] 04171618 ordered A-0011
+[2024-04-20] [reject] 24087998 borrowed C-0010
+[2024-04-20] [reject] 86825418 ordered A-0012
+[2024-04-20] [reject] 24087998 borrowed C-0002
+[2024-04-20] [reject] 24087998 borrowed C-0002
+[2024-04-20] [reject] 86825418 borrowed A-0005
+[2024-04-20] [reject] 24087998 borrowed C-0010
+[2024-04-20] CU-0408 0
+[2024-04-20] [accept] 12578370 ordered C-0012
+[2024-04-20] [reject] 24087998 picked C-0012
+[2024-04-20] [reject] 24087998 ordered A-0012
+[2024-04-20] [reject] 24087998 ordered CU-0408
+[2024-04-20] C-0012 0
+[2024-04-20] [reject] 24087998 borrowed C-0002
+[2024-04-20] [reject] 86825418 ordered A-0012
+[2024-04-20] [reject] 92815965 ordered A-0011
+[2024-04-20] [reject] 12578370 ordered A-0012
+[2024-04-20] A-0007 1
+[2024-04-20] [reject] 92815965 borrowed A-0004
+[2024-04-20] CU-0408 0
+[2024-04-20] [reject] 04171618 borrowed A-0005
+[2024-04-20] [reject] 24087998 ordered A-0011
+[2024-04-20] [reject] 92815965 ordered A-0011
+[2024-04-20] [reject] 86825418 ordered A-0007
+[2024-04-20] [reject] 12578370 borrowed A-0005
+[2024-04-20] [reject] 24087998 ordered A-0012
+[2024-04-20] [reject] 04171618 borrowed C-0010
+[2024-04-20] [reject] 92815965 borrowed A-0012
+[2024-04-20] CU-0408 0
+[2024-04-20] A-0005 1
+[2024-04-20] [accept] 12578370 ordered C-0010
+[2024-04-20] [reject] 86825418 ordered A-0005
+[2024-04-20] [reject] 24087998 borrowed A-0004
+[2024-04-20] [reject] 24087998 borrowed A-0011
+[2024-04-20] [reject] 86825418 ordered A-0004
+[2024-04-20] A-0004 1
+[2024-04-20] [reject] 24087998 ordered A-0012
+[2024-04-20] [accept] 12578370 ordered C-0010
+[2024-04-20] [reject] 24087998 ordered A-0005
+[2024-04-20] [reject] 04171618 borrowed A-0012
+[2024-04-20] [reject] 24087998 borrowed C-0002
+[2024-04-20] [reject] 24087998 borrowed A-0004
+[2024-04-20] A-0012 1
+[2024-04-20] [reject] 04171618 borrowed A-0012
+[2024-04-20] C-0010 0
+[2024-04-20] [reject] 04171618 borrowed A-0012
+[2024-04-20] [reject] 12578370 borrowed A-0007
+[2024-04-20] [reject] 04171618 borrowed A-0007
+[2024-04-20] [reject] 86825418 borrowed A-0012
+[2024-04-20] [reject] 92815965 borrowed A-0007
+[2024-04-20] [reject] 92815965 borrowed A-0011
+[2024-04-20] [accept] 24087998 ordered C-0012
+[2024-04-20] [reject] 12578370 borrowed C-0002
+[2024-04-20] [reject] 12578370 borrowed A-0011
+[2024-04-20] [reject] 24087998 borrowed C-0012
+[2024-04-20] [reject] 86825418 borrowed C-0012
+[2024-04-20] [reject] 12578370 borrowed A-0005
+[2024-04-20] [reject] 04171618 ordered A-0004
+[2024-04-20] [reject] 92815965 borrowed A-0012
+[2024-04-20] A-0004 1
+[2024-04-20] [reject] 24087998 ordered C-0010
+[2024-04-20] A-0012 1
+[2024-04-20] [reject] 12578370 borrowed A-0011
+[2024-04-20] [reject] 04171618 borrowed A-0005
+[2024-04-20] [reject] 04171618 ordered A-0007
+[2024-04-20] [accept] 86825418 ordered C-0002
+[2024-04-20] [reject] 92815965 borrowed A-0007
+[2024-04-20] [reject] 04171618 ordered A-0005
+[2024-04-20] A-0012 1
+[2024-04-20] C-0002 0
+[2024-04-20] [reject] 92815965 borrowed A-0011
+[2024-04-20] [reject] 24087998 ordered A-0011
+[2024-04-20] A-0007 1
+[2024-04-20] [reject] 04171618 borrowed A-0004
+[2024-04-20] C-0002 0
+[2024-04-20] [reject] 04171618 borrowed C-0010
+[2024-04-20] [reject] 12578370 borrowed A-0004
+[2024-04-20] [accept] 04171618 donated CU-6477
+[2024-04-20] [reject] 12578370 borrowed C-0002
+[2024-04-20] [reject] 04171618 borrowed C-0010
+[2024-04-20] [accept] 92815965 donated AU-4697
+[2024-04-20] [reject] 12578370 borrowed CU-0408
+[2024-04-20] C-0010 0
+[2024-04-20] [reject] 24087998 borrowed CU-0408
+[2024-04-20] [reject] 24087998 borrowed C-0010
+[2024-04-20] [reject] 24087998 borrowed A-0012
+[2024-04-20] [reject] 12578370 borrowed A-0004
+[2024-04-20] [reject] 86825418 borrowed C-0010
+[2024-04-20] [accept] 12578370 borrowed CU-6477
+[2024-04-20] [reject] 12578370 ordered CU-6477
+0
+0
+[2024-04-21] [reject] 24087998 picked C-0012
+0
+0
+[2024-04-23] [reject] 86825418 picked C-0002
+0
+0
+[2024-04-24] [reject] 86825418 picked C-0002
+[2024-04-24] [reject] 12578370 picked C-0012
+0
+0
+[2024-04-25] [reject] 86825418 picked C-0002
+0
+0
+[2024-04-30] [reject] 24087998 picked C-0012
+0
+0
+[2024-05-01] [reject] 12578370 picked C-0012
+0
+0
+[2024-05-02] [reject] 86825418 picked C-0002
+0
+0
+[2024-05-05] C-0012 0
+[2024-05-05] [reject] 04171618 borrowed C-0012
+[2024-05-05] [reject] 04171618 borrowed C-0012
+[2024-05-05] [reject] 12578370 ordered A-0012
+[2024-05-05] [reject] 86825418 ordered A-0004
+[2024-05-05] A-0011 2
+[2024-05-05] C-0010 0
+[2024-05-05] [reject] 12578370 borrowed A-0005
+[2024-05-05] [reject] 86825418 borrowed A-0005
+[2024-05-05] CU-6477 0
+[2024-05-05] [reject] 04171618 borrowed C-0012
+[2024-05-05] [reject] 04171618 ordered CU-0408
+[2024-05-05] [reject] 92815965 borrowed A-0005
+[2024-05-05] [reject] 86825418 borrowed A-0005
+[2024-05-05] [reject] 04171618 ordered C-0012
+[2024-05-05] [reject] 92815965 ordered A-0011
+[2024-05-05] [accept] 24087998 ordered C-0012
+[2024-05-05] [reject] 24087998 borrowed A-0004
+[2024-05-05] [reject] 24087998 borrowed A-0005
+[2024-05-05] A-0007 1
+[2024-05-05] [reject] 04171618 borrowed AU-4697
+[2024-05-05] [accept] 12578370 ordered C-0010
+[2024-05-05] [reject] 04171618 ordered A-0004
+[2024-05-05] [reject] 92815965 borrowed A-0005
+[2024-05-05] [reject] 92815965 borrowed C-0012
+[2024-05-05] [reject] 92815965 borrowed AU-4697
+[2024-05-05] C-0012 0
+[2024-05-05] [reject] 04171618 borrowed A-0004
+[2024-05-05] [reject] 86825418 borrowed A-0005
+[2024-05-05] [reject] 92815965 borrowed A-0012
+[2024-05-05] [reject] 86825418 borrowed CU-0408
+[2024-05-05] CU-0408 0
+[2024-05-05] [reject] 12578370 ordered A-0007
+[2024-05-05] [accept] 24087998 ordered C-0012
+[2024-05-05] [reject] 12578370 borrowed CU-0408
+0
+0
+[2024-05-08] [reject] 24087998 picked C-0012
+0
+0
+[2024-05-09] [reject] 24087998 picked C-0012
+0
+0
+[2024-05-12] [reject] 24087998 picked C-0012
+[2024-05-12] [reject] 24087998 picked C-0012
+0
+0
+[2024-06-14] A-0011 2
+[2024-06-14] [reject] 92815965 borrowed C-0010
+[2024-06-14] C-0002 0
+[2024-06-14] [reject] 04171618 ordered A-0011
+[2024-06-14] [reject] 24087998 ordered C-0010
+[2024-06-14] [reject] 24087998 ordered A-0012
+[2024-06-14] A-0012 1
+[2024-06-14] [reject] 86825418 ordered CU-0408
+[2024-06-14] [reject] 24087998 ordered A-0004
+[2024-06-14] [reject] 12578370 ordered A-0004
+[2024-06-14] [reject] 24087998 borrowed C-0010
+[2024-06-14] [reject] 24087998 borrowed CU-0408
+[2024-06-14] [reject] 86825418 ordered A-0012
+[2024-06-14] A-0007 1
+[2024-06-14] [reject] 92815965 borrowed A-0012
+[2024-06-14] [accept] 12578370 ordered C-0010
+[2024-06-14] CU-0408 0
+[2024-06-14] [reject] 04171618 borrowed A-0007
+[2024-06-14] CU-6477 0
+[2024-06-14] A-0004 1
+[2024-06-14] [reject] 12578370 borrowed AU-4697
+[2024-06-14] [reject] 86825418 borrowed CU-0408
+[2024-06-14] [reject] 92815965 ordered CU-0408
+[2024-06-14] [accept] 12578370 ordered C-0012
+[2024-06-14] CU-6477 0
+[2024-06-14] [reject] 86825418 borrowed CU-6477
+[2024-06-14] [reject] 24087998 ordered A-0007
+[2024-06-14] [reject] 86825418 ordered A-0007
+[2024-06-14] [reject] 86825418 borrowed A-0005
+[2024-06-14] [reject] 92815965 ordered AU-4697
+[2024-06-14] [reject] 04171618 borrowed A-0004
+[2024-06-14] [reject] 04171618 borrowed CU-6477
+[2024-06-14] [reject] 04171618 ordered A-0012
+[2024-06-14] [reject] 12578370 ordered A-0012
+[2024-06-14] [reject] 92815965 borrowed A-0007
+[2024-06-14] [reject] 86825418 borrowed A-0012
+[2024-06-14] [reject] 86825418 borrowed C-0012
+[2024-06-14] A-0004 1
+[2024-06-14] [reject] 86825418 borrowed CU-6477
+[2024-06-14] CU-0408 0
+[2024-06-14] [reject] 92815965 borrowed C-0002
+[2024-06-14] A-0005 1
+[2024-06-14] [reject] 12578370 borrowed CU-6477
+[2024-06-14] [reject] 24087998 borrowed A-0012
+[2024-06-14] [accept] 04171618 donated CU-1476
+[2024-06-14] [reject] 92815965 borrowed CU-6477
+[2024-06-14] [reject] 04171618 borrowed A-0012
+[2024-06-14] [reject] 86825418 ordered AU-4697
+[2024-06-14] C-0010 0
+[2024-06-14] [reject] 92815965 borrowed A-0007
+[2024-06-14] C-0010 0
+[2024-06-14] [reject] 24087998 borrowed A-0005
+[2024-06-14] [reject] 24087998 borrowed A-0004
+[2024-06-14] [reject] 24087998 borrowed C-0010
+[2024-06-14] [accept] 92815965 ordered C-0012
+[2024-06-14] [reject] 24087998 borrowed C-0012
+[2024-06-14] C-0002 0
+[2024-06-14] [reject] 04171618 borrowed C-0012
+[2024-06-14] A-0007 1
+[2024-06-14] [reject] 86825418 ordered A-0004
+[2024-06-14] A-0005 1
+[2024-06-14] C-0002 0
+[2024-06-14] [reject] 92815965 ordered A-0012
+[2024-06-14] [reject] 86825418 ordered A-0004
+[2024-06-14] [reject] 04171618 ordered CU-6477
+[2024-06-14] [accept] 24087998 ordered C-0012
+[2024-06-14] AU-4697 1
+[2024-06-14] [reject] 92815965 borrowed CU-0408
+[2024-06-14] C-0010 0
+[2024-06-14] [reject] 04171618 ordered A-0007
+[2024-06-14] [reject] 04171618 borrowed A-0005
+[2024-06-14] [reject] 86825418 ordered A-0005
+[2024-06-14] [reject] 24087998 ordered CU-0408
+[2024-06-14] [reject] 92815965 borrowed CU-0408
+[2024-06-14] [reject] 04171618 borrowed C-0010
+[2024-06-14] [reject] 04171618 ordered C-0002
+[2024-06-14] C-0012 0
+[2024-06-14] [accept] 12578370 ordered C-0002
+[2024-06-14] [reject] 92815965 borrowed C-0012
+[2024-06-14] [accept] 92815965 ordered C-0002
+[2024-06-14] [accept] 12578370 ordered C-0012
+[2024-06-14] [accept] 86825418 borrowed CU-1476
+[2024-06-14] C-0010 0
+[2024-06-14] AU-4697 1
+[2024-06-14] [reject] 24087998 borrowed A-0012
+[2024-06-14] [reject] 92815965 borrowed CU-0408
+[2024-06-14] [reject] 24087998 borrowed A-0004
+[2024-06-14] [reject] 92815965 ordered A-0005
+[2024-06-14] CU-0408 0
+[2024-06-14] C-0010 0
+[2024-06-14] [reject] 04171618 ordered A-0012
+[2024-06-14] [reject] 12578370 borrowed CU-1476
+[2024-06-14] [reject] 24087998 borrowed A-0007
+[2024-06-14] [reject] 92815965 ordered AU-4697
+[2024-06-14] [reject] 04171618 ordered CU-6477
+[2024-06-14] [reject] 24087998 ordered A-0012
+[2024-06-14] [reject] 04171618 borrowed C-0012
+[2024-06-14] [reject] 86825418 borrowed AU-4697
+[2024-06-14] [reject] 86825418 borrowed C-0012
+[2024-06-14] [reject] 86825418 ordered CU-6477
+[2024-06-14] [reject] 86825418 borrowed A-0011
+[2024-06-14] [reject] 24087998 borrowed C-0010
+[2024-06-14] [reject] 12578370 picked C-0012
+[2024-06-14] [reject] 24087998 ordered CU-6477
+[2024-06-14] [reject] 04171618 ordered C-0010
+[2024-06-14] AU-4697 1
+[2024-06-14] A-0005 1
+[2024-06-14] [reject] 86825418 borrowed A-0004
+[2024-06-14] [reject] 24087998 ordered A-0005
+[2024-06-14] C-0002 0
+[2024-06-14] [reject] 86825418 borrowed A-0004
+[2024-06-14] [reject] 86825418 borrowed A-0011
+[2024-06-14] AU-4697 1
+[2024-06-14] AU-4697 1
+[2024-06-14] [reject] 24087998 borrowed C-0002
+[2024-06-14] CU-0408 0
+[2024-06-14] [reject] 12578370 ordered CU-1476
+[2024-06-14] C-0002 0
+[2024-06-14] [reject] 24087998 borrowed CU-0408
+[2024-06-14] [reject] 86825418 borrowed C-0012
+[2024-06-14] [reject] 86825418 borrowed AU-4697
+[2024-06-14] [reject] 12578370 ordered A-0011
+[2024-06-14] [reject] 86825418 ordered A-0005
+[2024-06-14] [reject] 04171618 ordered A-0007
+[2024-06-14] [reject] 86825418 ordered A-0005
+[2024-06-14] [reject] 12578370 borrowed AU-4697
+[2024-06-14] A-0005 1
+[2024-06-14] [reject] 04171618 borrowed CU-1476
+[2024-06-14] [accept] 12578370 ordered C-0010
+[2024-06-14] [reject] 04171618 borrowed A-0005
+[2024-06-14] AU-4697 1
+[2024-06-14] [reject] 92815965 borrowed A-0007
+[2024-06-14] [reject] 04171618 ordered A-0005
+[2024-06-14] [reject] 24087998 borrowed C-0012
+[2024-06-14] CU-1476 0
+[2024-06-14] [reject] 04171618 borrowed A-0005
+[2024-06-14] [reject] 12578370 ordered CU-6477
+[2024-06-14] [accept] 12578370 ordered C-0012
+0
+0
+[2024-06-16] [reject] 92815965 picked C-0002
+0
+0
+[2024-06-17] [reject] 12578370 picked C-0012
+0
+0
+[2024-06-19] [reject] 12578370 picked C-0012
+0
+0
+[2024-06-23] [reject] 92815965 picked C-0002
+0
+0
+[2024-06-25] [reject] 24087998 picked C-0012
+0
+0
+[2024-06-26] [reject] 12578370 picked C-0010
+[2024-06-26] [reject] 12578370 picked C-0012
+0
+0
+[2024-07-06] [accept] 12578370 returned CU-6477 overdue
+1
+[2024-07-06] move CU-6477 from bro to bdc
+0
+[2024-07-28] [reject] 24087998 borrowed C-0002
+[2024-07-28] [reject] 04171618 borrowed A-0004
+[2024-07-28] [reject] 12578370 borrowed A-0011
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 92815965 borrowed A-0004
+[2024-07-28] [reject] 92815965 borrowed C-0010
+[2024-07-28] [reject] 86825418 ordered CU-1476
+[2024-07-28] [reject] 92815965 borrowed A-0007
+[2024-07-28] C-0010 0
+[2024-07-28] [reject] 86825418 borrowed AU-4697
+[2024-07-28] [reject] 12578370 ordered A-0011
+[2024-07-28] [accept] 86825418 ordered C-0012
+[2024-07-28] [accept] 92815965 ordered C-0012
+[2024-07-28] [reject] 86825418 ordered A-0012
+[2024-07-28] [reject] 24087998 borrowed A-0005
+[2024-07-28] [reject] 12578370 ordered CU-6477
+[2024-07-28] [reject] 12578370 ordered A-0004
+[2024-07-28] C-0010 0
+[2024-07-28] [reject] 24087998 ordered A-0011
+[2024-07-28] [reject] 12578370 borrowed C-0012
+[2024-07-28] [accept] 86825418 borrowed CU-6477
+[2024-07-28] [reject] 12578370 borrowed C-0002
+[2024-07-28] [reject] 04171618 ordered C-0010
+[2024-07-28] [reject] 04171618 borrowed A-0004
+[2024-07-28] [reject] 04171618 borrowed CU-1476
+[2024-07-28] [reject] 86825418 ordered A-0012
+[2024-07-28] [reject] 04171618 ordered A-0005
+[2024-07-28] [reject] 04171618 borrowed A-0007
+[2024-07-28] [reject] 92815965 ordered A-0011
+[2024-07-28] [reject] 92815965 borrowed C-0012
+[2024-07-28] [reject] 04171618 ordered C-0012
+[2024-07-28] [accept] 92815965 ordered C-0002
+[2024-07-28] [reject] 12578370 borrowed CU-6477
+[2024-07-28] [reject] 86825418 borrowed A-0012
+[2024-07-28] [reject] 12578370 borrowed A-0012
+[2024-07-28] [reject] 92815965 ordered CU-6477
+[2024-07-28] [reject] 92815965 borrowed C-0010
+[2024-07-28] [reject] 86825418 borrowed A-0011
+[2024-07-28] [reject] 12578370 ordered A-0011
+[2024-07-28] C-0012 0
+[2024-07-28] [reject] 86825418 borrowed A-0005
+[2024-07-28] A-0012 1
+[2024-07-28] [accept] 92815965 donated CU-3796
+[2024-07-28] C-0012 0
+[2024-07-28] [reject] 86825418 borrowed CU-6477
+[2024-07-28] [reject] 86825418 borrowed CU-6477
+[2024-07-28] [reject] 24087998 borrowed C-0002
+[2024-07-28] [reject] 24087998 borrowed A-0007
+[2024-07-28] [reject] 04171618 borrowed C-0012
+[2024-07-28] [reject] 92815965 borrowed A-0004
+[2024-07-28] [reject] 86825418 ordered CU-6477
+[2024-07-28] A-0012 1
+[2024-07-28] [reject] 12578370 borrowed CU-0408
+[2024-07-28] [reject] 24087998 ordered AU-4697
+[2024-07-28] [reject] 24087998 ordered A-0012
+[2024-07-28] [accept] 92815965 borrowed CU-3796
+[2024-07-28] [reject] 12578370 borrowed A-0007
+[2024-07-28] [reject] 12578370 ordered A-0005
+[2024-07-28] [reject] 04171618 ordered CU-0408
+[2024-07-28] [reject] 92815965 borrowed A-0005
+[2024-07-28] A-0007 1
+[2024-07-28] [reject] 04171618 borrowed C-0002
+[2024-07-28] [reject] 86825418 ordered A-0004
+[2024-07-28] AU-4697 1
+[2024-07-28] CU-0408 0
+[2024-07-28] C-0012 0
+[2024-07-28] A-0004 1
+[2024-07-28] C-0010 0
+[2024-07-28] [reject] 04171618 borrowed CU-1476
+[2024-07-28] [reject] 04171618 ordered A-0011
+[2024-07-28] [reject] 92815965 borrowed A-0005
+[2024-07-28] [accept] 04171618 donated CU-5743
+[2024-07-28] [reject] 04171618 ordered A-0011
+[2024-07-28] [reject] 24087998 ordered AU-4697
+[2024-07-28] [accept] 12578370 ordered C-0010
+[2024-07-28] CU-0408 0
+[2024-07-28] [accept] 86825418 donated CU-0529
+[2024-07-28] [reject] 12578370 ordered A-0005
+[2024-07-28] [reject] 24087998 ordered CU-0529
+[2024-07-28] [reject] 04171618 borrowed CU-3796
+[2024-07-28] [accept] 12578370 donated AU-5560
+[2024-07-28] [accept] 12578370 borrowed CU-5743
+[2024-07-28] [reject] 04171618 ordered A-0012
+[2024-07-28] [reject] 12578370 ordered AU-4697
+[2024-07-28] [reject] 92815965 borrowed AU-5560
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 86825418 borrowed C-0002
+[2024-07-28] [reject] 12578370 ordered AU-4697
+[2024-07-28] [accept] 92815965 ordered C-0010
+[2024-07-28] [reject] 04171618 borrowed CU-1476
+[2024-07-28] [reject] 12578370 borrowed AU-4697
+[2024-07-28] [reject] 92815965 borrowed CU-5743
+[2024-07-28] [reject] 24087998 ordered AU-5560
+[2024-07-28] [reject] 92815965 borrowed AU-5560
+[2024-07-28] C-0012 0
+[2024-07-28] [accept] 12578370 ordered C-0010
+[2024-07-28] [reject] 92815965 borrowed CU-6477
+[2024-07-28] [reject] 24087998 borrowed C-0002
+[2024-07-28] [reject] 04171618 borrowed C-0012
+[2024-07-28] [reject] 12578370 borrowed A-0004
+[2024-07-28] A-0012 1
+[2024-07-28] C-0010 0
+[2024-07-28] [reject] 04171618 borrowed A-0012
+[2024-07-28] [reject] 24087998 ordered A-0012
+[2024-07-28] [reject] 92815965 ordered CU-0529
+[2024-07-28] [reject] 12578370 borrowed AU-5560
+[2024-07-28] [reject] 12578370 borrowed CU-1476
+[2024-07-28] [accept] 86825418 donated CU-9006
+[2024-07-28] [accept] 92815965 donated BU-8851
+[2024-07-28] [reject] 04171618 borrowed C-0012
+[2024-07-28] [reject] 92815965 ordered CU-9006
+[2024-07-28] [reject] 12578370 ordered AU-5560
+[2024-07-28] [reject] 92815965 ordered CU-3796
+[2024-07-28] [accept] 92815965 borrowed CU-0529
+[2024-07-28] [reject] 24087998 borrowed A-0012
+[2024-07-28] [reject] 24087998 borrowed AU-4697
+[2024-07-28] CU-9006 1
+[2024-07-28] [reject] 04171618 borrowed A-0012
+[2024-07-28] [reject] 92815965 ordered CU-6477
+[2024-07-28] [reject] 24087998 borrowed A-0007
+[2024-07-28] [reject] 04171618 ordered C-0002
+[2024-07-28] C-0012 0
+[2024-07-28] AU-4697 1
+[2024-07-28] [accept] 92815965 donated AU-0793
+[2024-07-28] [reject] 12578370 borrowed CU-0408
+[2024-07-28] [accept] 92815965 ordered C-0010
+[2024-07-28] [reject] 04171618 ordered AU-5560
+[2024-07-28] A-0007 1
+[2024-07-28] A-0005 1
+[2024-07-28] CU-0529 0
+[2024-07-28] CU-6477 0
+[2024-07-28] C-0002 0
+[2024-07-28] [reject] 04171618 borrowed CU-0529
+[2024-07-28] C-0012 0
+[2024-07-28] [reject] 92815965 ordered CU-6477
+[2024-07-28] [accept] 04171618 borrowed BU-8851
+[2024-07-28] [reject] 12578370 borrowed A-0012
+[2024-07-28] [reject] 92815965 borrowed CU-6477
+[2024-07-28] [reject] 12578370 borrowed A-0004
+[2024-07-28] [reject] 92815965 borrowed AU-5560
+[2024-07-28] A-0007 1
+[2024-07-28] [accept] 24087998 ordered C-0002
+[2024-07-28] [reject] 86825418 borrowed BU-8851
+[2024-07-28] [reject] 86825418 ordered CU-0529
+[2024-07-28] [reject] 04171618 ordered CU-5743
+[2024-07-28] [reject] 92815965 borrowed A-0012
+[2024-07-28] [reject] 04171618 borrowed AU-4697
+[2024-07-28] [reject] 92815965 borrowed C-0012
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 12578370 ordered CU-3796
+[2024-07-28] AU-5560 1
+[2024-07-28] CU-3796 0
+[2024-07-28] [reject] 24087998 borrowed C-0002
+[2024-07-28] [reject] 92815965 borrowed A-0011
+[2024-07-28] C-0012 0
+[2024-07-28] [reject] 04171618 borrowed CU-0529
+[2024-07-28] [reject] 12578370 borrowed A-0011
+[2024-07-28] [reject] 92815965 borrowed BU-8851
+[2024-07-28] [reject] 92815965 ordered CU-0408
+[2024-07-28] [reject] 24087998 borrowed AU-4697
+[2024-07-28] [reject] 04171618 ordered C-0002
+[2024-07-28] [accept] 12578370 donated CU-4381
+[2024-07-28] [reject] 86825418 borrowed CU-1476
+[2024-07-28] [accept] 92815965 borrowed CU-4381
+[2024-07-28] [reject] 86825418 borrowed C-0010
+[2024-07-28] [reject] 92815965 ordered CU-9006
+[2024-07-28] [accept] 92815965 borrowed CU-9006
+[2024-07-28] [reject] 86825418 borrowed CU-9006
+[2024-07-28] [reject] 12578370 ordered AU-5560
+[2024-07-28] [reject] 24087998 borrowed CU-6477
+[2024-07-28] [reject] 86825418 ordered CU-0408
+[2024-07-28] CU-1476 0
+[2024-07-28] [reject] 86825418 ordered CU-0529
+[2024-07-28] AU-4697 1
+[2024-07-28] [reject] 24087998 borrowed CU-3796
+[2024-07-28] [reject] 24087998 ordered A-0011
+[2024-07-28] [reject] 24087998 ordered CU-4381
+[2024-07-28] [reject] 92815965 borrowed A-0005
+[2024-07-28] CU-0529 0
+[2024-07-28] [reject] 24087998 ordered A-0004
+[2024-07-28] [reject] 24087998 borrowed C-0010
+[2024-07-28] [reject] 12578370 ordered AU-0793
+[2024-07-28] [reject] 24087998 borrowed CU-1476
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 12578370 ordered AU-0793
+[2024-07-28] [reject] 24087998 borrowed A-0007
+[2024-07-28] A-0004 1
+[2024-07-28] [reject] 04171618 borrowed BU-8851
+[2024-07-28] [reject] 86825418 borrowed AU-5560
+[2024-07-28] [reject] 92815965 ordered CU-3796
+[2024-07-28] [reject] 92815965 ordered AU-0793
+[2024-07-28] [reject] 04171618 ordered CU-0408
+[2024-07-28] [reject] 24087998 ordered CU-6477
+[2024-07-28] AU-5560 1
+[2024-07-28] [reject] 12578370 ordered A-0004
+[2024-07-28] A-0011 2
+[2024-07-28] [reject] 12578370 borrowed C-0010
+[2024-07-28] [reject] 04171618 borrowed CU-5743
+[2024-07-28] [accept] 86825418 ordered C-0002
+[2024-07-28] [reject] 04171618 borrowed AU-5560
+[2024-07-28] [reject] 04171618 borrowed A-0005
+[2024-07-28] AU-5560 1
+[2024-07-28] [accept] 04171618 donated CU-3620
+[2024-07-28] [accept] 92815965 donated AU-1578
+[2024-07-28] CU-0529 0
+[2024-07-28] [reject] 86825418 borrowed C-0012
+[2024-07-28] [reject] 92815965 borrowed CU-1476
+[2024-07-28] [reject] 04171618 ordered A-0007
+[2024-07-28] [reject] 86825418 borrowed CU-6477
+[2024-07-28] [reject] 12578370 borrowed BU-8851
+[2024-07-28] [reject] 86825418 borrowed A-0012
+[2024-07-28] [reject] 12578370 borrowed CU-0529
+[2024-07-28] [reject] 92815965 borrowed BU-8851
+[2024-07-28] [reject] 12578370 borrowed CU-0529
+[2024-07-28] [reject] 92815965 ordered CU-1476
+[2024-07-28] A-0004 1
+[2024-07-28] [reject] 12578370 ordered CU-3796
+[2024-07-28] [reject] 24087998 borrowed C-0012
+[2024-07-28] [reject] 24087998 borrowed CU-0408
+[2024-07-28] CU-0408 0
+[2024-07-28] [accept] 12578370 ordered C-0002
+[2024-07-28] [reject] 04171618 borrowed AU-1578
+[2024-07-28] [reject] 24087998 borrowed A-0007
+[2024-07-28] CU-0529 0
+[2024-07-28] [reject] 24087998 ordered AU-0793
+[2024-07-28] [reject] 04171618 ordered CU-3620
+[2024-07-28] [accept] 04171618 borrowed CU-3620
+[2024-07-28] [reject] 86825418 ordered A-0004
+[2024-07-28] [reject] 24087998 ordered A-0004
+[2024-07-28] [reject] 12578370 borrowed C-0010
+[2024-07-28] [reject] 86825418 borrowed AU-5560
+[2024-07-28] [reject] 12578370 borrowed A-0007
+[2024-07-28] A-0011 2
+[2024-07-28] [accept] 92815965 donated BU-2117
+[2024-07-28] [reject] 04171618 ordered CU-3796
+[2024-07-28] [reject] 86825418 borrowed CU-9006
+[2024-07-28] AU-4697 1
+[2024-07-28] A-0012 1
+[2024-07-28] [reject] 12578370 ordered CU-3620
+[2024-07-28] [reject] 12578370 borrowed CU-4381
+[2024-07-28] [reject] 92815965 borrowed A-0005
+[2024-07-28] CU-3796 0
+[2024-07-28] [reject] 86825418 ordered BU-8851
+[2024-07-28] CU-4381 0
+[2024-07-28] CU-3620 0
+[2024-07-28] [reject] 04171618 ordered CU-1476
+[2024-07-28] [reject] 92815965 ordered CU-3620
+[2024-07-28] AU-4697 1
+[2024-07-28] [reject] 86825418 ordered CU-3796
+[2024-07-28] [accept] 12578370 borrowed BU-2117
+[2024-07-28] [reject] 92815965 borrowed CU-3620
+[2024-07-28] [reject] 86825418 borrowed CU-1476
+[2024-07-28] [reject] 12578370 borrowed C-0010
+[2024-07-28] [reject] 92815965 borrowed A-0005
+[2024-07-28] [reject] 04171618 ordered AU-1578
+[2024-07-28] [reject] 12578370 ordered CU-0408
+[2024-07-28] A-0004 1
+[2024-07-28] BU-2117 0
+[2024-07-28] [reject] 86825418 ordered A-0004
+[2024-07-28] [reject] 92815965 ordered BU-8851
+[2024-07-28] [accept] 04171618 donated AU-6068
+[2024-07-28] [accept] 86825418 ordered C-0002
+[2024-07-28] [reject] 12578370 borrowed AU-4697
+[2024-07-28] [reject] 86825418 borrowed C-0002
+[2024-07-28] [accept] 24087998 donated CU-7817
+[2024-07-28] [reject] 92815965 ordered CU-0529
+[2024-07-28] [reject] 04171618 borrowed C-0002
+[2024-07-28] CU-6477 0
+[2024-07-28] [reject] 04171618 borrowed AU-5560
+[2024-07-28] [reject] 24087998 borrowed BU-2117
+[2024-07-28] [accept] 12578370 donated CU-3414
+[2024-07-28] [reject] 12578370 ordered BU-2117
+[2024-07-28] AU-0793 1
+[2024-07-28] [reject] 12578370 borrowed CU-4381
+[2024-07-28] [accept] 24087998 donated CU-5788
+[2024-07-28] [reject] 12578370 borrowed BU-2117
+[2024-07-28] [reject] 86825418 ordered CU-3796
+[2024-07-28] [reject] 86825418 ordered AU-1578
+[2024-07-28] [reject] 04171618 ordered A-0005
+[2024-07-28] [reject] 86825418 ordered CU-1476
+[2024-07-28] [reject] 12578370 ordered AU-5560
+[2024-07-28] [reject] 04171618 ordered C-0002
+[2024-07-28] [accept] 12578370 borrowed CU-3414
+[2024-07-28] [reject] 86825418 ordered A-0012
+[2024-07-28] [reject] 92815965 borrowed A-0007
+[2024-07-28] [reject] 86825418 ordered CU-3796
+[2024-07-28] [reject] 92815965 ordered AU-5560
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 24087998 ordered AU-5560
+[2024-07-28] [reject] 24087998 borrowed AU-5560
+[2024-07-28] CU-4381 0
+[2024-07-28] [reject] 86825418 ordered CU-6477
+[2024-07-28] A-0004 1
+[2024-07-28] [reject] 92815965 borrowed CU-3796
+[2024-07-28] [reject] 24087998 borrowed A-0011
+[2024-07-28] [reject] 86825418 ordered AU-1578
+[2024-07-28] [reject] 12578370 borrowed BU-2117
+[2024-07-28] [reject] 12578370 ordered AU-5560
+[2024-07-28] CU-0408 0
+[2024-07-28] [reject] 04171618 borrowed C-0010
+[2024-07-28] CU-5788 1
+[2024-07-28] [reject] 24087998 ordered A-0005
+[2024-07-28] [reject] 12578370 borrowed AU-0793
+[2024-07-28] [reject] 92815965 borrowed CU-0408
+[2024-07-28] [reject] 24087998 borrowed CU-0529
+[2024-07-28] [reject] 24087998 borrowed CU-5743
+[2024-07-28] A-0011 2
+[2024-07-28] [reject] 04171618 ordered AU-5560
+[2024-07-28] [reject] 86825418 ordered CU-0408
+[2024-07-28] [accept] 24087998 ordered C-0012
+[2024-07-28] [reject] 24087998 picked C-0012
+[2024-07-28] [accept] 04171618 borrowed CU-5788
+0
+0
+[2024-07-29] [reject] 86825418 picked C-0002
+0
+0
+[2024-07-30] [reject] 92815965 picked C-0012
+[2024-07-30] [reject] 12578370 picked C-0010
+[2024-07-30] [reject] 12578370 renewed BU-2117
+0
+0
+[2024-07-31] [reject] 86825418 picked C-0002
+0
+0
+[2024-08-01] [reject] 24087998 picked C-0012
+0
+0
+[2024-08-02] [reject] 12578370 picked C-0010
+[2024-08-02] [reject] 92815965 picked C-0010
+0
+0
+[2024-08-03] [reject] 12578370 picked C-0010
+0
+0
+[2024-08-04] [reject] 92815965 picked C-0010
+[2024-08-04] [reject] 86825418 picked C-0012
+0
+0
+[2024-08-05] [reject] 86825418 picked C-0002
+0
+0
+[2024-08-06] [reject] 04171618 renewed CU-3620
+[2024-08-06] [reject] 92815965 renewed CU-4381
+0
+0
+[2024-08-07] [accept] 04171618 returned C-0010 overdue
+[2024-08-07] [reject] 92815965 picked C-0012
+[2024-08-07] [reject] 86825418 picked C-0002
+1
+[2024-08-07] move C-0010 from bro to bs
+1
+[2024-08-08] move C-0010 from bs to ao for 12578370
+[2024-08-08] [reject] 92815965 picked C-0010
+[2024-08-08] [reject] 24087998 renewed C-0010
+[2024-08-08] [reject] 12578370 picked C-0002
+0
+0
+[2024-08-09] [reject] 92815965 picked C-0010
+0
+0
+[2024-08-10] [reject] 92815965 renewed CU-3796
+0
+0
+[2024-08-11] [reject] 12578370 renewed CU-5743
+0
+0
+[2024-08-12] [reject] 86825418 renewed CU-1476
+0
+2
+[2024-08-15] move C-0010 from ao to bs
+[2024-08-15] move C-0010 from bs to ao for 92815965
+[2024-08-15] [accept] 12578370 returned BU-2117 overdue
+1
+[2024-08-15] move BU-2117 from bro to bdc
+2
+[2024-08-27] move C-0010 from ao to bs
+[2024-08-27] move C-0010 from bs to ao for 12578370
+[2024-08-27] [reject] 24087998 renewed CU-0408
+[2024-08-27] [accept] 92815965 returned CU-3796 overdue
+1
+[2024-08-27] move CU-3796 from bro to bdc
+0
+[2024-08-31] [accept] 12578370 returned CU-5743 overdue
+1
+[2024-08-31] move CU-5743 from bro to bdc
+2
+[2024-09-02] move C-0010 from ao to bs
+[2024-09-02] move C-0010 from bs to ao for 12578370
+[2024-09-02] [accept] 04171618 returned C-0012 overdue
+1
+[2024-09-02] move C-0012 from bro to bs
+3
+[2024-09-17] move C-0010 from ao to bs
+[2024-09-17] move C-0012 from bs to ao for 92815965
+[2024-09-17] move C-0010 from bs to ao for 12578370
+[2024-09-17] [accept] 86825418 returned CU-1476 overdue
+1
+[2024-09-17] move CU-1476 from bro to bdc
+4
+[2024-09-25] move C-0012 from ao to bs
+[2024-09-25] move C-0010 from ao to bs
+[2024-09-25] move C-0012 from bs to ao for 12578370
+[2024-09-25] move C-0010 from bs to ao for 12578370
+[2024-09-25] [accept] 04171618 returned CU-5788 overdue
+1
+[2024-09-25] move CU-5788 from bro to bdc
+0
+[2024-09-26] A-0004 1
+[2024-09-26] [reject] 92815965 borrowed A-0007
+[2024-09-26] [accept] 92815965 borrowed CU-3796
+[2024-09-26] [accept] 86825418 donated CU-0003
+[2024-09-26] CU-3796 0
+[2024-09-26] [reject] 24087998 borrowed AU-6068
+[2024-09-26] [reject] 92815965 borrowed CU-0408
+[2024-09-26] CU-3414 0
+[2024-09-26] [reject] 86825418 borrowed CU-9006
+[2024-09-26] [reject] 04171618 ordered CU-0003
+[2024-09-26] [reject] 04171618 borrowed CU-0529
+[2024-09-26] [accept] 92815965 donated CU-6180
+[2024-09-26] [accept] 12578370 ordered C-0012
+[2024-09-26] [accept] 86825418 borrowed CU-0003
+[2024-09-26] [reject] 24087998 borrowed AU-0793
+[2024-09-26] [reject] 12578370 ordered AU-6068
+[2024-09-26] [reject] 86825418 ordered CU-3414
+[2024-09-26] [reject] 92815965 borrowed A-0004
+[2024-09-26] CU-6180 1
+[2024-09-26] [reject] 92815965 borrowed CU-6477
+[2024-09-26] [reject] 92815965 borrowed BU-8851
+[2024-09-26] [reject] 86825418 borrowed CU-3796
+[2024-09-26] [reject] 92815965 borrowed AU-0793
+[2024-09-26] [reject] 04171618 ordered CU-0529
+[2024-09-26] [reject] 12578370 borrowed CU-3414
+[2024-09-26] [reject] 92815965 borrowed A-0011
+[2024-09-26] [accept] 12578370 picked C-0012
+[2024-09-26] [accept] 24087998 borrowed CU-5743
+[2024-09-26] [reject] 86825418 borrowed CU-6477
+[2024-09-26] CU-5743 0
+[2024-09-26] [reject] 04171618 borrowed C-0012
+[2024-09-26] [reject] 12578370 ordered C-0012
+[2024-09-26] [reject] 12578370 borrowed C-0010
+[2024-09-26] [reject] 92815965 ordered CU-3414
+[2024-09-26] [accept] 04171618 borrowed CU-7817
+[2024-09-26] [reject] 04171618 borrowed A-0004
+0
+2
+[2024-10-01] move C-0010 from ao to bs
+[2024-10-01] move C-0010 from bs to ao for 12578370
+[2024-10-01] [reject] 92815965 renewed CU-9006
+[2024-10-01] [accept] 92815965 returned CU-9006 overdue
+1
+[2024-10-01] move CU-9006 from bro to bdc
+0
+[2024-10-03] [reject] 12578370 picked C-0012
+0
+2
+[2024-10-07] move C-0010 from ao to bs
+[2024-10-07] move C-0010 from bs to ao for 12578370
+[2024-10-07] [accept] 04171618 returned BU-8851 overdue
+1
+[2024-10-07] move BU-8851 from bro to bdc
+2
+[2024-10-20] move C-0010 from ao to bs
+[2024-10-20] move C-0010 from bs to ao for 92815965
+[2024-10-20] CU-3620 0
+[2024-10-20] [reject] 04171618 ordered CU-6477
+[2024-10-20] CU-0003 0
+[2024-10-20] [accept] 92815965 borrowed BU-2117
+[2024-10-20] [reject] 86825418 ordered CU-5788
+[2024-10-20] [reject] 92815965 borrowed C-0012
+[2024-10-20] [reject] 04171618 ordered AU-6068
+[2024-10-20] [reject] 04171618 ordered AU-4697
+[2024-10-20] [accept] 12578370 borrowed CU-1476
+[2024-10-20] [reject] 12578370 borrowed CU-5743
+[2024-10-20] [reject] 12578370 borrowed CU-0408
+[2024-10-20] [reject] 92815965 borrowed AU-4697
+[2024-10-20] [reject] 04171618 ordered AU-5560
+[2024-10-20] [reject] 92815965 borrowed CU-4381
+[2024-10-20] [reject] 12578370 borrowed CU-0529
+[2024-10-20] [reject] 04171618 borrowed AU-6068
+[2024-10-20] A-0007 1
+[2024-10-20] [reject] 86825418 borrowed BU-2117
+[2024-10-20] [reject] 86825418 borrowed CU-4381
+[2024-10-20] [accept] 04171618 borrowed CU-9006
+[2024-10-20] [reject] 24087998 borrowed AU-1578
+[2024-10-20] [reject] 24087998 borrowed CU-5743
+[2024-10-20] [reject] 92815965 borrowed CU-0003
+[2024-10-20] CU-3796 0
+[2024-10-20] [reject] 92815965 ordered CU-1476
+[2024-10-20] CU-3620 0
+[2024-10-20] [reject] 12578370 borrowed C-0012
+[2024-10-20] [reject] 12578370 borrowed CU-7817
+[2024-10-20] [reject] 92815965 borrowed CU-4381
+[2024-10-20] [reject] 04171618 ordered CU-7817
+[2024-10-20] AU-1578 1
+[2024-10-20] [reject] 92815965 borrowed A-0007
+[2024-10-20] [reject] 86825418 borrowed C-0012
+[2024-10-20] [reject] 92815965 borrowed CU-6477
+[2024-10-20] [reject] 92815965 ordered AU-0793
+[2024-10-20] [accept] 04171618 donated BU-4490
+[2024-10-20] [reject] 92815965 ordered AU-6068
+[2024-10-20] [reject] 04171618 ordered A-0007
+[2024-10-20] [reject] 04171618 ordered CU-3796
+[2024-10-20] [reject] 86825418 ordered BU-8851
+[2024-10-20] CU-0003 0
+[2024-10-20] CU-3414 0
+[2024-10-20] A-0004 1
+[2024-10-20] [reject] 86825418 borrowed CU-9006
+[2024-10-20] [reject] 24087998 borrowed C-0002
+[2024-10-20] [reject] 24087998 borrowed CU-4381
+[2024-10-20] [reject] 92815965 borrowed A-0012
+[2024-10-20] CU-7817 0
+[2024-10-20] [reject] 92815965 ordered BU-4490
+[2024-10-20] [reject] 92815965 ordered AU-1578
+[2024-10-20] [reject] 92815965 ordered AU-4697
+[2024-10-20] [accept] 92815965 borrowed CU-5788
+[2024-10-20] [reject] 04171618 ordered CU-9006
+[2024-10-20] C-0012 0
+[2024-10-20] [reject] 24087998 ordered BU-8851
+[2024-10-20] [accept] 12578370 ordered C-0010
+[2024-10-20] [reject] 24087998 borrowed C-0012
+[2024-10-20] CU-7817 0
+[2024-10-20] [reject] 24087998 ordered BU-8851
+[2024-10-20] [reject] 86825418 ordered AU-4697
+[2024-10-20] AU-0793 1
+[2024-10-20] [reject] 12578370 picked C-0010
+[2024-10-20] [accept] 92815965 ordered C-0010
+[2024-10-20] [reject] 92815965 ordered CU-1476
+[2024-10-20] [reject] 92815965 ordered A-0005
+[2024-10-20] A-0012 1
+[2024-10-20] [reject] 86825418 borrowed AU-0793
+[2024-10-20] CU-5788 0
+[2024-10-20] [reject] 24087998 borrowed CU-7817
+[2024-10-20] [reject] 92815965 ordered CU-6477
+[2024-10-20] [reject] 24087998 ordered AU-4697
+[2024-10-20] [accept] 92815965 borrowed CU-6180
+[2024-10-20] [reject] 92815965 ordered A-0007
+[2024-10-20] [reject] 04171618 borrowed AU-1578
+[2024-10-20] [reject] 24087998 ordered CU-0408
+0
+2
+[2024-10-25] move C-0010 from ao to bs
+[2024-10-25] move C-0010 from bs to ao for 12578370
+[2024-10-25] [accept] 04171618 returned CU-7817 overdue
+[2024-10-25] [accept] 12578370 picked C-0010
+1
+[2024-10-25] move CU-7817 from bro to bdc
+0
+[2024-10-26] [reject] 92815965 picked C-0010
+[2024-10-26] [accept] 92815965 returned CU-0529 overdue
+1
+[2024-10-26] move CU-0529 from bro to bdc
+0
+[2024-10-29] [reject] 04171618 renewed CU-9006
+[2024-10-29] [accept] 92815965 returned BU-2117 overdue
+1
+[2024-10-29] move BU-2117 from bro to bs
+0
+[2024-10-30] [accept] 12578370 returned CU-3414 overdue
+1
+[2024-10-30] move CU-3414 from bro to bdc
+0
+[2024-11-03] [reject] 12578370 renewed CU-1476
+0
+0
+[2024-11-05] [accept] 04171618 returned CU-3620 overdue
+1
+[2024-11-05] move CU-3620 from bro to bdc
+0
+[2024-11-24] [accept] 24087998 returned CU-5743 overdue
+1
+[2024-11-24] move CU-5743 from bro to bs
+0
+[2024-11-29] [accept] 92815965 returned CU-6180 overdue
+1
+[2024-11-29] move CU-6180 from bro to bdc
+0
+[2024-12-05] [accept] 24087998 returned C-0010 overdue
+1
+[2024-12-05] move C-0010 from bro to bs
+1
+[2024-12-07] move C-0010 from bs to ao for 92815965
+[2024-12-07] [accept] 04171618 returned CU-9006 overdue
+1
+[2024-12-07] move CU-9006 from bro to bs
+2
+[2024-12-16] move C-0010 from ao to bs
+[2024-12-16] move C-0010 from bs to ao for 12578370
+[2024-12-16] [accept] 86825418 returned CU-6477 overdue
+1
+[2024-12-16] move CU-6477 from bro to bs
+0
+[2024-12-18] [accept] 24087998 returned CU-0408 overdue
+1
+[2024-12-18] move CU-0408 from bro to bdc
+2
+[2024-12-22] move C-0010 from ao to bs
+[2024-12-22] move C-0010 from bs to ao for 92815965
+[2024-12-22] [reject] 12578370 renewed C-0010
